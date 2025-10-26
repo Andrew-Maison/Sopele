@@ -1,1 +1,1844 @@
-{"sections":{"main":{"type":"main-page","disabled":true,"settings":{"color_scheme":"","show_title":false,"content_width":"md"}},"slideshow_b8FxKt":{"type":"slideshow","blocks":{"slideshow_image_slide_Rfj4xW":{"type":"_slideshow-image-slide","settings":{"color_scheme":"","image":"shopify:\/\/shop_images\/testabout1.jpg","slide_link":"","content_max_width":1000,"mobile_content_position":"place-self-end-start","desktop_content_position":"sm:place-self-end-start","overlay_color":"#000000","overlay_opacity":20},"blocks":{"subheading_BGHcdw":{"type":"subheading","name":"t:blocks.subheading.name","settings":{"text":"Lorem ipsum"},"blocks":{}},"heading_xyDYqf":{"type":"heading","settings":{"text":"Body Skincare, face-grade ingredients.","heading_size":"h4","html_tag":"p","indent":"none","highlight_effect":"default","highlight_accent_color":"","highlight_text_color":""},"blocks":{}},"rich_text_g3WwVE":{"type":"rich-text","name":"t:blocks.rich_text.name","settings":{"text":"<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. <\/p>","content_width":"sm"},"blocks":{}}},"block_order":["subheading_BGHcdw","heading_xyDYqf","rich_text_g3WwVE"]},"slideshow-controls":{"type":"_slideshow-controls","static":true,"settings":{"controls_style":"line","controls_color":"#ffffff"},"blocks":{}}},"block_order":["slideshow_image_slide_Rfj4xW"],"disabled":true,"name":"t:sections.slideshow.name","settings":{"allow_transparent_header":true,"image_size":"auto","transition_type":"curtain","autoplay":true,"pause_auto_rotate_on_hover":false,"cycle_speed":6,"background":"#000000"}},"slideshow_L9RrnX":{"type":"slideshow","blocks":{"slideshow_image_slide_jPXhGJ":{"type":"_slideshow-image-slide","settings":{"color_scheme":"","image":"shopify:\/\/shop_images\/testabout1.jpg","mobile_image":"shopify:\/\/shop_images\/about22.jpg","slide_link":"","content_max_width":1000,"mobile_content_position":"place-self-end-start","desktop_content_position":"sm:place-self-end-start","overlay_color":"#000000","overlay_opacity":0},"blocks":{"heading_LzeWAy":{"type":"heading","settings":{"text":"Body skincare, facial standards.","heading_size":"h5","html_tag":"p","indent":"none","highlight_effect":"default","highlight_accent_color":"","highlight_text_color":""},"blocks":{}},"rich_text_BVxUtT":{"type":"rich-text","name":"t:blocks.rich_text.name","disabled":true,"settings":{"text":"<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. <\/p>","content_width":"sm"},"blocks":{}},"button_RqcJzq":{"type":"button","name":"t:blocks.button.name","settings":{"text":"Shop  now","url":"","open_in_new_tab":false,"style":"outline","background":"","text_color":""},"blocks":{}}},"block_order":["heading_LzeWAy","rich_text_BVxUtT","button_RqcJzq"]},"slideshow-controls":{"type":"_slideshow-controls","static":true,"settings":{"controls_style":"line","controls_color":"#ffffff"},"blocks":{}}},"block_order":["slideshow_image_slide_jPXhGJ"],"name":"t:sections.slideshow.name","settings":{"allow_transparent_header":true,"image_size":"auto","transition_type":"curtain","autoplay":true,"pause_auto_rotate_on_hover":false,"cycle_speed":6,"background":"#000000"}},"multi_column_cMtzV9":{"type":"multi-column","blocks":{"multi_column_column_DVcNyF":{"type":"_multi-column-column","disabled":true,"settings":{"color_scheme":"","text_alignment":"left"},"blocks":{"image_y7rWPV":{"type":"image","disabled":true,"settings":{"max_width":100,"mobile_max_width":100},"blocks":{}},"heading_bQzD7T":{"type":"heading","settings":{"text":"A new standard","heading_size":"h5","html_tag":"p","indent":"none","highlight_effect":"default","highlight_accent_color":"","highlight_text_color":""},"blocks":{}},"rich_text_MpjyGA":{"type":"rich-text","settings":{"text":"<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>","content_width":"sm"},"blocks":{}}},"block_order":["image_y7rWPV","heading_bQzD7T","rich_text_MpjyGA"]},"multi_column_column_Tg7C3c":{"type":"_multi-column-column","settings":{"color_scheme":"","text_alignment":"left"},"blocks":{"image_MQTz49":{"type":"image","disabled":true,"settings":{"max_width":100,"mobile_max_width":100},"blocks":{}},"heading_hCT4nT":{"type":"heading","settings":{"text":"Results driven","heading_size":"h5","html_tag":"p","indent":"none","highlight_effect":"default","highlight_accent_color":"","highlight_text_color":""},"blocks":{}},"rich_text_iweXMj":{"type":"rich-text","settings":{"text":"<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>","content_width":"sm"},"blocks":{}}},"block_order":["image_MQTz49","heading_hCT4nT","rich_text_iweXMj"]},"multi_column_column_DP87TB":{"type":"_multi-column-column","settings":{"color_scheme":"","text_alignment":"left"},"blocks":{"image_BW8LwD":{"type":"image","disabled":true,"settings":{"max_width":100,"mobile_max_width":100},"blocks":{}},"heading_dhUNky":{"type":"heading","settings":{"text":"Layered treatments","heading_size":"h5","html_tag":"p","indent":"none","highlight_effect":"default","highlight_accent_color":"","highlight_text_color":""},"blocks":{}},"rich_text_Y6BrTC":{"type":"rich-text","settings":{"text":"<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>","content_width":"sm"},"blocks":{}}},"block_order":["image_BW8LwD","heading_dhUNky","rich_text_Y6BrTC"]},"section-header":{"type":"_section-header","disabled":true,"static":true,"settings":{"subheading":"","title":"Multi-column","content":"<p>Use this content to share information about your store and products.<\/p>","button_text":"","button_link":"","button_style":"outline","text_alignment":"left","heading_size":"h4","title_icon":"none","show_scrolling_title":false},"blocks":{}}},"block_order":["multi_column_column_DVcNyF","multi_column_column_Tg7C3c","multi_column_column_DP87TB"],"disabled":true,"name":"t:sections.multi_column.name","settings":{"color_scheme":"","show_internal_borders":false,"add_horizontal_spacing":true,"add_top_spacing":true,"add_bottom_spacing":true,"items_per_row":2,"stack_on_mobile":false,"stack_on_desktop":true,"column_spacing":"md","row_spacing":"md"}},"specifications_LjbjpM":{"type":"specifications","blocks":{"attribute_6xaVaR":{"type":"attribute","settings":{"icon":"none","title":"Learn more","content":"<p>Write some content.<\/p>"}},"attribute_cnhgKD":{"type":"attribute","disabled":true,"settings":{"icon":"none","title":"Attribute 2","content":"<p>Write some content.<\/p>"}},"attribute_hmFgrG":{"type":"attribute","disabled":true,"settings":{"icon":"none","title":"Attribute 3","content":"<p>Write some content.<\/p>"}}},"block_order":["attribute_6xaVaR","attribute_cnhgKD","attribute_hmFgrG"],"name":"t:sections.specifications.name","settings":{"color_scheme":"","image":"shopify:\/\/shop_images\/c05d0f88-66bc-4d46-8711-a6e5c8ed8b13.jpg","layout":"split","add_image_spacing":true,"image_position":"start","subheading":"Heritage","title":"The melody of triumph","heading_size":"h5","content":"<p><em>Sopele<\/em>, an Istrian instrument, that were once played in the hills of Istria, their sound carrying through weddings, births, and days of joy. <em>De Triomphe,<\/em> speaks to personal victory - the moment you look in the mirror and no longer see frustration, but progress.<\/p><p>To us, Sopele de Triomphe is a celebration of skin - of care, clarity, and quiet confidence.<\/p>","collapse_attributes":true,"show_attribute_icon_on_top":false,"uppercase_attribute_title":false}},"specifications_anHYJQ":{"type":"specifications","blocks":{"attribute_wakc7k":{"type":"attribute","settings":{"icon":"none","title":"Learn more","content":"<p>Write some content.<\/p>"}},"attribute_F8BkxU":{"type":"attribute","disabled":true,"settings":{"icon":"none","title":"Attribute 2","content":"<p>Write some content.<\/p>"}},"attribute_zJMfL9":{"type":"attribute","disabled":true,"settings":{"icon":"none","title":"Attribute 3","content":"<p>Write some content.<\/p>"}}},"block_order":["attribute_wakc7k","attribute_F8BkxU","attribute_zJMfL9"],"disabled":true,"name":"t:sections.specifications.name","settings":{"color_scheme":"scheme-2","image":"shopify:\/\/shop_images\/Untitled_design_2_copy_3.png","layout":"split","add_image_spacing":true,"image_position":"start","subheading":"The fine lines","title":"A Visual Symphony","heading_size":"h5","content":"<p>Every Sopele product is adorned with a unique illustration, created in a timeless, hand-drawn style. These artworks are more than decoration - they are part of our philosophy. <\/p><p>Each illustration depicts a woman and the traditional Istrian instrument, <em>sopele<\/em>, placed within a symbolic environment. Together, they tell stories of ritual, transformation, and quiet triumph.<\/p>","collapse_attributes":true,"show_attribute_icon_on_top":false,"uppercase_attribute_title":false}},"multi_column_7EyiQx":{"type":"multi-column","blocks":{"multi_column_column_L3dA7m":{"type":"_multi-column-column","settings":{"color_scheme":"scheme-2","text_alignment":"left"},"blocks":{"image_cX9Txg":{"type":"image","settings":{"image":"shopify:\/\/shop_images\/Untitled_design_2_copy_2.png","max_width":100,"mobile_max_width":100},"blocks":{}}},"block_order":["image_cX9Txg"]},"multi_column_column_AKHXc7":{"type":"_multi-column-column","settings":{"color_scheme":"scheme-2","text_alignment":"left"},"blocks":{"image_QjjHdB":{"type":"image","settings":{"image":"shopify:\/\/shop_images\/Untitled_design_2_copy_2.png","max_width":100,"mobile_max_width":100},"blocks":{}}},"block_order":["image_QjjHdB"]},"multi_column_column_C4aRrm":{"type":"_multi-column-column","settings":{"color_scheme":"scheme-2","text_alignment":"left"},"blocks":{"image_hfGCti":{"type":"image","settings":{"image":"shopify:\/\/shop_images\/Untitled_design_2_copy_2.png","max_width":100,"mobile_max_width":100},"blocks":{}}},"block_order":["image_hfGCti"]},"section-header":{"type":"_section-header","disabled":true,"static":true,"settings":{"subheading":"","title":"Finest textures","content":"<p>Use this content to share information about your store and products.<\/p>","button_text":"","button_link":"","button_style":"outline","text_alignment":"left","heading_size":"h4","title_icon":"none","show_scrolling_title":false},"blocks":{}}},"block_order":["multi_column_column_L3dA7m","multi_column_column_AKHXc7","multi_column_column_C4aRrm"],"disabled":true,"name":"t:sections.multi_column.name","settings":{"color_scheme":"scheme-2","show_internal_borders":false,"add_horizontal_spacing":true,"add_top_spacing":true,"add_bottom_spacing":true,"items_per_row":3,"stack_on_mobile":false,"stack_on_desktop":true,"column_spacing":"md","row_spacing":"md"}},"video_aqmc9q":{"type":"video","blocks":{"play_button_ryzBjh":{"type":"play_button","settings":{"position":"middle_center","show_play_cursor":false}},"heading_magp4K":{"type":"heading","settings":{"text":"Visual symphony","mobile_heading_tag":"h5","desktop_heading_tag":"sm:h5","position":"bottom_left","highlight_effect":"default","highlight_accent_color":"","highlight_text_color":""}},"richtext_dfG6UB":{"type":"richtext","settings":{"text":"<p>Each illustration depicts a woman and the traditional Istrian instrument, <em>sopele<\/em>, placed within a symbolic environment. Together, they tell stories of ritual, transformation, and quiet triumph.<\/p>","position":"bottom_left"}}},"block_order":["play_button_ryzBjh","heading_magp4K","richtext_dfG6UB"],"name":"t:sections.video.name","settings":{"color_scheme":"","allow_transparent_header":true,"autoplay":false,"show_controls":true,"video_size":"md","mobile_video_size":"lg","video":"shopify:\/\/files\/videos\/reeltest1.mp4","external_video_url":"https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc"}},"rich_text_phR4Gd":{"type":"rich-text","blocks":{"subheading_exih7P":{"type":"subheading","settings":{"text":"Visual symphony"}},"heading_UD69hg":{"type":"heading","settings":{"text":"The art of bodycare","heading_tag":"h5","indent":"none","highlight_effect":"default","highlight_accent_color":"","highlight_text_color":""}},"richtext_64DBcJ":{"type":"richtext","settings":{"text":"<p>Every Sopele product is adorned with a unique illustration, created in a timeless, hand-drawn style. These artworks are more than decoration - they are part of our philosophy. <\/p><p>Each illustration depicts a woman and the traditional Istrian instrument, <em>sopele<\/em>, placed within a symbolic environment. Together, they tell stories of ritual, transformation, and quiet triumph.<\/p>"}}},"block_order":["subheading_exih7P","heading_UD69hg","richtext_64DBcJ"],"disabled":true,"name":"t:sections.rich_text.name","settings":{"color_scheme":"scheme-2","content_width":"full","text_alignment":"left"}},"specifications_G8TkqK":{"type":"specifications","blocks":{"attribute_ktimQB":{"type":"attribute","settings":{"icon":"none","title":"Learn more","content":"<p>Write some content.<\/p>"}},"attribute_Cj99FY":{"type":"attribute","disabled":true,"settings":{"icon":"none","title":"Attribute 2","content":"<p>Write some content.<\/p>"}},"attribute_zc3dPg":{"type":"attribute","disabled":true,"settings":{"icon":"none","title":"Attribute 3","content":"<p>Write some content.<\/p>"}}},"block_order":["attribute_ktimQB","attribute_Cj99FY","attribute_zc3dPg"],"disabled":true,"name":"t:sections.specifications.name","settings":{"color_scheme":"scheme-2","image":"shopify:\/\/shop_images\/IMG_3439_64c5f915-1648-4427-887d-929d11209e40.jpg","layout":"split","add_image_spacing":false,"image_position":"start","subheading":"The fine lines","title":"A Visual Symphony","heading_size":"h5","content":"<p>Every Sopele product is adorned with a unique illustration, created in a timeless, hand-drawn style. These artworks are more than decoration - they are part of our philosophy. <\/p><p>Each illustration depicts a woman and the traditional Istrian instrument, <em>sopele<\/em>, placed within a symbolic environment. Together, they tell stories of ritual, transformation, and quiet triumph.<\/p>","collapse_attributes":true,"show_attribute_icon_on_top":false,"uppercase_attribute_title":false}},"timeline_a7knAt":{"type":"timeline","blocks":{"item_fH7Jw4":{"type":"item","settings":{"label":"2000","subheading":"Subheading","icon":"none","icon_width":32,"mobile_icon_width":24,"title":"The beginning","heading_tag":"h3","highlight_effect":"default","content":"<p>Pair text with an image to focus on your brand. Add details about your story, your making process or your values.<\/p>"}},"item_LrXPkD":{"type":"item","settings":{"label":"2010","subheading":"Subheading","icon":"none","icon_width":32,"mobile_icon_width":24,"title":"Our development","heading_tag":"h3","highlight_effect":"default","content":"<p>Pair text with an image to focus on your brand. Add details about your story, your making process or your values.<\/p>"}},"item_ccMm3d":{"type":"item","settings":{"label":"2020","subheading":"Subheading","icon":"none","icon_width":32,"mobile_icon_width":24,"title":"Our success","heading_tag":"h3","highlight_effect":"default","content":"<p>Pair text with an image to focus on your brand. Add details about your story, your making process or your values.<\/p>"}}},"block_order":["item_fH7Jw4","item_LrXPkD","item_ccMm3d"],"disabled":true,"name":"t:sections.timeline.name","settings":{"color_scheme":"","timeline_position":"left","image_position":"right","text_alignment":"center","add_image_spacing":false}},"multi_column_cNUDxP":{"type":"multi-column","blocks":{"multi_column_column_B6ic7r":{"type":"_multi-column-column","settings":{"color_scheme":"scheme-1","text_alignment":"left"},"blocks":{"image_eXkbFb":{"type":"image","settings":{"image":"shopify:\/\/shop_images\/e67b1b87-ff27-43e5-888e-61d695c3052d.jpg","max_width":100,"mobile_max_width":100},"blocks":{}},"separator_Mh9Dny":{"type":"separator","name":"t:blocks.separator.name","settings":{},"blocks":{}},"heading_NxaFRz":{"type":"heading","settings":{"text":"Moment of Clarity","heading_size":"h6","html_tag":"p","indent":"none","highlight_effect":"default","highlight_accent_color":"","highlight_text_color":""},"blocks":{}},"rich_text_kMJKV7":{"type":"rich-text","settings":{"text":"<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>","content_width":"sm"},"blocks":{}},"button_9trWYP":{"type":"button","name":"t:blocks.button.name","disabled":true,"settings":{"text":"Body scrub & mask","url":"","open_in_new_tab":false,"style":"outline","background":"","text_color":""},"blocks":{}},"accordion_FMMW4e":{"type":"accordion","name":"t:blocks.accordion.name","disabled":true,"settings":{"open_by_default":false,"title":"Full ingredients list","uppercase_title":false},"blocks":{"rich_text_iy3fPN":{"type":"rich-text","settings":{"text":"<p>Write content about your brand or products.<\/p>","content_width":"sm"},"blocks":{}}},"block_order":["rich_text_iy3fPN"]}},"block_order":["image_eXkbFb","separator_Mh9Dny","heading_NxaFRz","rich_text_kMJKV7","button_9trWYP","accordion_FMMW4e"]},"multi_column_column_zw9W3k":{"type":"_multi-column-column","settings":{"color_scheme":"scheme-1","text_alignment":"left"},"blocks":{"image_PMMW3r":{"type":"image","settings":{"image":"shopify:\/\/shop_images\/4ed2ba04-4bfd-454f-82d7-8a6acdd5d386.jpg","max_width":100,"mobile_max_width":100},"blocks":{}},"separator_fQGmYq":{"type":"separator","name":"t:blocks.separator.name","settings":{},"blocks":{}},"heading_RFMJaP":{"type":"heading","settings":{"text":"A Flattering Drop","heading_size":"h6","html_tag":"p","indent":"none","highlight_effect":"default","highlight_accent_color":"","highlight_text_color":""},"blocks":{}},"rich_text_9aEa6B":{"type":"rich-text","settings":{"text":"<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>","content_width":"sm"},"blocks":{}},"button_MEMH6G":{"type":"button","name":"t:blocks.button.name","disabled":true,"settings":{"text":"Body serum","url":"","open_in_new_tab":false,"style":"outline","background":"","text_color":""},"blocks":{}},"accordion_FTybm6":{"type":"accordion","name":"t:blocks.accordion.name","disabled":true,"settings":{"open_by_default":false,"title":"Full ingredients list","uppercase_title":false},"blocks":{"rich_text_MihUDz":{"type":"rich-text","settings":{"text":"<p>Write content about your brand or products.<\/p>","content_width":"sm"},"blocks":{}}},"block_order":["rich_text_MihUDz"]}},"block_order":["image_PMMW3r","separator_fQGmYq","heading_RFMJaP","rich_text_9aEa6B","button_MEMH6G","accordion_FTybm6"]},"multi_column_column_6H8zrX":{"type":"_multi-column-column","settings":{"color_scheme":"scheme-1","text_alignment":"left"},"blocks":{"image_qRicWf":{"type":"image","settings":{"image":"shopify:\/\/shop_images\/4ed2ba04-4bfd-454f-82d7-8a6acdd5d386.jpg","max_width":100,"mobile_max_width":100},"blocks":{}},"separator_maqkWf":{"type":"separator","name":"t:blocks.separator.name","settings":{},"blocks":{}},"heading_AympTn":{"type":"heading","settings":{"text":"The Softest Touch","heading_size":"h6","html_tag":"p","indent":"none","highlight_effect":"default","highlight_accent_color":"","highlight_text_color":""},"blocks":{}},"rich_text_pnGkiL":{"type":"rich-text","settings":{"text":"<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>","content_width":"sm"},"blocks":{}},"button_q9np6A":{"type":"button","name":"t:blocks.button.name","disabled":true,"settings":{"text":"Body cream","url":"","open_in_new_tab":false,"style":"outline","background":"","text_color":""},"blocks":{}},"accordion_nyiRPP":{"type":"accordion","name":"t:blocks.accordion.name","disabled":true,"settings":{"open_by_default":false,"title":"Full ingredients list","uppercase_title":false},"blocks":{"rich_text_PPNzTe":{"type":"rich-text","settings":{"text":"<p>Write content about your brand or products.<\/p>","content_width":"sm"},"blocks":{}}},"block_order":["rich_text_PPNzTe"]}},"block_order":["image_qRicWf","separator_maqkWf","heading_AympTn","rich_text_pnGkiL","button_q9np6A","accordion_nyiRPP"]},"section-header":{"type":"_section-header","static":true,"settings":{"subheading":"","title":"Layered formulas","content":"<p>Each formula in the Signature Collection is layered with clinically proven, face-grade actives - designed to deliver real transformation.<\/p>","button_text":"","button_link":"","button_style":"outline","text_alignment":"left","heading_size":"h5","title_icon":"none","show_scrolling_title":false},"blocks":{}}},"block_order":["multi_column_column_B6ic7r","multi_column_column_zw9W3k","multi_column_column_6H8zrX"],"name":"t:sections.multi_column.name","settings":{"color_scheme":"scheme-1","show_internal_borders":false,"add_horizontal_spacing":true,"add_top_spacing":true,"add_bottom_spacing":true,"items_per_row":3,"stack_on_mobile":false,"stack_on_desktop":true,"column_spacing":"md","row_spacing":"md"}},"specifications_QCzVjV":{"type":"specifications","blocks":{"attribute_pqbPnV":{"type":"attribute","settings":{"icon":"none","title":"Potent actives","content":"<p>Made to melt into skin<\/p>"}},"attribute_iY3JN6":{"type":"attribute","settings":{"icon":"none","title":"Results-driven","content":"<p>Solutions for visible change<\/p>"}},"attribute_THdkmF":{"type":"attribute","settings":{"icon":"none","title":"Solutions for deeper concerns","content":"<p>Designed for thicker skin, deeper concerns<\/p>"}}},"block_order":["attribute_pqbPnV","attribute_iY3JN6","attribute_THdkmF"],"disabled":true,"name":"t:sections.specifications.name","settings":{"color_scheme":"scheme-2","image":"shopify:\/\/shop_images\/about33.jpg","layout":"split","add_image_spacing":false,"image_position":"end","subheading":"Sopele standards","title":"A new standard in bodycare","heading_size":"h5","content":"<p>What’s considered exceptional for the face, we made foundational for the body.<\/p>","collapse_attributes":false,"show_attribute_icon_on_top":true,"uppercase_attribute_title":false}},"specifications_zhViBK":{"type":"specifications","blocks":{"attribute_kRQyf7":{"type":"attribute","settings":{"icon":"none","title":"Learn more","content":"<p>Made to melt into skin<\/p>"}}},"block_order":["attribute_kRQyf7"],"name":"t:sections.specifications.name","settings":{"color_scheme":"scheme-2","image":"shopify:\/\/shop_images\/8_1.jpg","layout":"split","add_image_spacing":false,"image_position":"end","subheading":"Standards","title":"A new standard in bodycare","heading_size":"h5","content":"<p>What’s long been considered exceptional for the face, we made foundational for the body. At Sopele, every formula is infused with face-grade actives, clinically proven ingredients that don’t just nourish, but transform. <\/p><p>From clarity and hydration to resilience and radiance, we believe your body deserves the same standard of care as your face, every single day.<\/p>","collapse_attributes":true,"show_attribute_icon_on_top":true,"uppercase_attribute_title":false}},"specifications_fyy9xX":{"type":"specifications","blocks":{"attribute_pE3WpA":{"type":"attribute","settings":{"icon":"none","title":"Potent actives","content":"<p>Made to melt into skin<\/p>"}},"attribute_LkVWCc":{"type":"attribute","settings":{"icon":"none","title":"Results-driven","content":"<p>Solutions for visible change<\/p>"}},"attribute_JFXTT3":{"type":"attribute","settings":{"icon":"none","title":"Solutions for deeper concerns","content":"<p>Designed for thicker skin, deeper concerns<\/p>"}}},"block_order":["attribute_pE3WpA","attribute_LkVWCc","attribute_JFXTT3"],"disabled":true,"name":"t:sections.specifications.name","settings":{"color_scheme":"scheme-2","image":"shopify:\/\/shop_images\/8_1.jpg","layout":"split","add_image_spacing":false,"image_position":"end","subheading":"Standards","title":"A new standard in bodycare","heading_size":"h5","content":"<p>What’s long been considered exceptional for the face, we made foundational for the body. At Sopele, every formula is infused with face-grade actives, clinically proven ingredients that don’t just nourish, but transform. <\/p>","collapse_attributes":false,"show_attribute_icon_on_top":true,"uppercase_attribute_title":false}},"products_with_image_LHAzxN":{"type":"products-with-image","blocks":{"subheading_nr4Gx8":{"type":"subheading","disabled":true,"settings":{"text":"Subheading","position":"bottom_left"}},"heading_6gQRTt":{"type":"heading","settings":{"text":"Our Products","heading_tag":"h5","position":"bottom_left","highlight_effect":"default","highlight_accent_color":"","highlight_text_color":""}},"richtext_ag9peL":{"type":"richtext","settings":{"text":"<p>For years, we’ve been formulating Sopele with the same intention: to bring powerful, facial-grade actives to the skin from the neck down.<\/p>","position":"bottom_left"}}},"block_order":["subheading_nr4Gx8","heading_6gQRTt","richtext_ag9peL"],"name":"t:sections.products_with_image.name","settings":{"color_scheme":"","products":["moment-of-clarity-body-scrub-and-mask","a-flattering-drop-body-serum","the-softest-touch-body-cream","signature-collection"],"desktop_product_list_position":"start","image":"shopify:\/\/shop_images\/WhatsApp_Image_2025-09-21_at_22.23.48.jpg","overlay_color":"#000000","overlay_opacity":10,"desktop_product_layout":"grid","mobile_product_layout":"grid","mobile_products_per_row":"2"}},"text_with_icons_HDQ7GQ":{"type":"text-with-icons","blocks":{"item_VnKLeK":{"type":"item","settings":{"icon":"none","custom_icon":"shopify:\/\/shop_images\/2-22-23-Dr-Rogers6163_100j_cropped_2-1_9a8b284f-cacf-4b36-8281-b7fd3fd31cce.jpg","title":"Dr. Elena Marković, Dermatologist","heading_tag":"h6","content":"<p>Sopele brings face-grade science to body care with real, lasting results. The formulations are meticulously crafted to deliver transformation without compromising skin health.<\/p>"}},"item_aH7aN8":{"type":"item","settings":{"icon":"none","custom_icon":"shopify:\/\/shop_images\/1V2A1132_1_88d9436b-a10a-45df-a946-677b9d95876a.jpg","title":"Dr. Francesca Whitfield, Dermatologist","heading_tag":"h6","content":"<p>Thoughtful formulas that respect the skin barrier while transforming it. Sopele manages to combine active efficacy with gentle, restorative care.<\/p>"}},"item_EXD6gb":{"type":"item","settings":{"icon":"none","custom_icon":"shopify:\/\/shop_images\/Lisa_Abbott_1_-1_f36a38c9-4bac-4da4-bbba-94e9c2cac4f3.jpg","title":"Dr. Tereza Petrović, Dermatologist","heading_tag":"h6","content":"<p>A rare balance of ritual, nourishment, and clinical effectiveness. These products elevate body care to the same standard we expect in advanced facial skincare.<\/p>"}}},"block_order":["item_VnKLeK","item_aH7aN8","item_EXD6gb"],"name":"t:sections.text_with_icons.name","settings":{"color_scheme":"scheme-2","subheading":"","title":"Supported by leading dermatologists","content":"<p>Earning the trust of dermatologists who recognize our formulations for their effectiveness, safety, and respect for the skin barrier.<\/p>","heading_tag":"h5","text_alignment":"left","items_per_row_desktop":2,"stack_on_mobile":true,"separator_style":"horizontal","icon_position":"inline","icon_width":72,"mobile_icon_width":72,"item_text_alignment":"left"}},"multi_column_RrFhXX":{"type":"multi-column","blocks":{"multi_column_column_pPNRMN":{"type":"_multi-column-column","settings":{"color_scheme":"","text_alignment":"left"},"blocks":{"image_MxP4kE":{"type":"image","settings":{"image":"shopify:\/\/shop_images\/Untitled_design.jpg","max_width":100,"mobile_max_width":100},"blocks":{}},"separator_qwrTGj":{"type":"separator","name":"t:blocks.separator.name","settings":{},"blocks":{}},"heading_WefGYY":{"type":"heading","settings":{"text":"Strawberry skin & texture","heading_size":"h6","html_tag":"p","indent":"none","highlight_effect":"default","highlight_accent_color":"","highlight_text_color":""},"blocks":{}},"rich_text_9Vcfpr":{"type":"rich-text","name":"t:blocks.rich_text.name","disabled":true,"settings":{"text":"<p>Martina, 26 - Consumer study <\/p>","content_width":"sm"},"blocks":{}},"rich_text_YMV6Lx":{"type":"rich-text","settings":{"text":"<p>I was feeling desperate about red bumps on my legs, but this product made a huge difference after just first few uses. I cannot recommend this scrub enough!<\/p>","content_width":"sm"},"blocks":{}},"accordion_cBEhJL":{"type":"accordion","name":"t:blocks.accordion.name","settings":{"open_by_default":false,"title":"Cause, Solution & Result","uppercase_title":false},"blocks":{"rich_text_dzVqGy":{"type":"rich-text","settings":{"text":"<p>Strawberry skin is caused by clogged pores and keratin buildup, leading to small red or dark bumps, typically on the legs and arms. This scrub gently resurfaces textured skin, clears buildup, and helps smooth and soften rough patches. With consistent use, it visibly reduces bumps and reveals clearer, more even-toned skin.<\/p>","content_width":"sm"},"blocks":{}}},"block_order":["rich_text_dzVqGy"]}},"block_order":["image_MxP4kE","separator_qwrTGj","heading_WefGYY","rich_text_9Vcfpr","rich_text_YMV6Lx","accordion_cBEhJL"]},"multi_column_column_6k9dfj":{"type":"_multi-column-column","settings":{"color_scheme":"","text_alignment":"left"},"blocks":{"image_94ncBy":{"type":"image","settings":{"image":"shopify:\/\/shop_images\/Untitled_design.jpg","max_width":100,"mobile_max_width":100},"blocks":{}},"separator_pQUPLQ":{"type":"separator","name":"t:blocks.separator.name","settings":{},"blocks":{}},"heading_mdgWN9":{"type":"heading","settings":{"text":"Ingrown hairs & dark spots","heading_size":"h6","html_tag":"p","indent":"none","highlight_effect":"default","highlight_accent_color":"","highlight_text_color":""},"blocks":{}},"rich_text_4crpBx":{"type":"rich-text","name":"t:blocks.rich_text.name","disabled":true,"settings":{"text":"<p>Sanja, 36 - Verified Customer<\/p>","content_width":"sm"},"blocks":{}},"rich_text_qDMDR8":{"type":"rich-text","settings":{"text":"<p>I was feeling desperate about red bumps on my legs, but this product made a huge difference after just first few uses. I cannot recommend this scrub enough!<\/p>","content_width":"sm"},"blocks":{}},"accordion_pgNC8z":{"type":"accordion","name":"t:blocks.accordion.name","settings":{"open_by_default":false,"title":"Cause, Solution & Result","uppercase_title":false},"blocks":{"rich_text_4jrqBh":{"type":"rich-text","settings":{"text":"<p>Ingrown hairs form when dead skin builds up and traps the hair beneath the surface, often leading to inflammation, bumps, and post-shave marks. Over time, this can leave behind dark spots and uneven tone. This scrub helps by gently exfoliating the skin’s surface, clearing buildup, and supporting healthy cell turnover. The result is smoother skin, fewer ingrowns, and visibly brighter, more even tone over time.<\/p>","content_width":"sm"},"blocks":{}}},"block_order":["rich_text_4jrqBh"]}},"block_order":["image_94ncBy","separator_pQUPLQ","heading_mdgWN9","rich_text_4crpBx","rich_text_qDMDR8","accordion_pgNC8z"]},"multi_column_column_gW98Ea":{"type":"_multi-column-column","settings":{"color_scheme":"","text_alignment":"left"},"blocks":{"image_UexERB":{"type":"image","settings":{"image":"shopify:\/\/shop_images\/Untitled_design.jpg","max_width":100,"mobile_max_width":100},"blocks":{}},"separator_34MFAH":{"type":"separator","name":"t:blocks.separator.name","settings":{},"blocks":{}},"heading_wYpKRW":{"type":"heading","settings":{"text":"Body acne & uneven skin tone","heading_size":"h6","html_tag":"p","indent":"none","highlight_effect":"default","highlight_accent_color":"","highlight_text_color":""},"blocks":{}},"rich_text_gjQbge":{"type":"rich-text","name":"t:blocks.rich_text.name","disabled":true,"settings":{"text":"<p>Dorotea, 26 - Verified Customer<\/p>","content_width":"sm"},"blocks":{}},"rich_text_d8TxUD":{"type":"rich-text","settings":{"text":"<p>I was feeling desperate about red bumps on my legs, but this product made a huge difference after just first few uses. I cannot recommend this scrub enough!<\/p>","content_width":"sm"},"blocks":{}},"accordion_4XG4BR":{"type":"accordion","name":"t:blocks.accordion.name","settings":{"open_by_default":false,"title":"Cause, Solution & Result","uppercase_title":false},"blocks":{"rich_text_UdRYiP":{"type":"rich-text","settings":{"text":"<p>Breakouts and uneven tone are often caused by clogged pores, excess oil, and buildup that disrupts skin clarity. This scrub helps reduce congestion, calm active blemishes, and gently fade dark marks over time—leaving skin visibly clearer, smoother, and more balanced.<\/p>","content_width":"sm"},"blocks":{}}},"block_order":["rich_text_UdRYiP"]}},"block_order":["image_UexERB","separator_34MFAH","heading_wYpKRW","rich_text_gjQbge","rich_text_d8TxUD","accordion_4XG4BR"]},"multi_column_column_fCwqig":{"type":"_multi-column-column","settings":{"color_scheme":"","text_alignment":"left"},"blocks":{"image_3FGUaF":{"type":"image","settings":{"image":"shopify:\/\/shop_images\/Untitled_design.jpg","max_width":100,"mobile_max_width":100},"blocks":{}},"separator_Th9FcM":{"type":"separator","name":"t:blocks.separator.name","settings":{},"blocks":{}},"heading_mPUCcY":{"type":"heading","settings":{"text":"Body acne & uneven skin tone","heading_size":"h6","html_tag":"p","indent":"none","highlight_effect":"default","highlight_accent_color":"","highlight_text_color":""},"blocks":{}},"rich_text_cMhPRQ":{"type":"rich-text","name":"t:blocks.rich_text.name","disabled":true,"settings":{"text":"<p>Dorotea, 26 - Verified Customer<\/p>","content_width":"sm"},"blocks":{}},"rich_text_FzjH4B":{"type":"rich-text","settings":{"text":"<p>I was feeling desperate about red bumps on my legs, but this product made a huge difference after just first few uses. I cannot recommend this scrub enough!<\/p>","content_width":"sm"},"blocks":{}},"accordion_8A9UXK":{"type":"accordion","name":"t:blocks.accordion.name","settings":{"open_by_default":false,"title":"Cause, Solution & Result","uppercase_title":false},"blocks":{"rich_text_9edN4H":{"type":"rich-text","settings":{"text":"<p>Breakouts and uneven tone are often caused by clogged pores, excess oil, and buildup that disrupts skin clarity. This scrub helps reduce congestion, calm active blemishes, and gently fade dark marks over time—leaving skin visibly clearer, smoother, and more balanced.<\/p>","content_width":"sm"},"blocks":{}}},"block_order":["rich_text_9edN4H"]}},"block_order":["image_3FGUaF","separator_Th9FcM","heading_mPUCcY","rich_text_cMhPRQ","rich_text_FzjH4B","accordion_8A9UXK"]},"multi_column_column_zXqqKn":{"type":"_multi-column-column","settings":{"color_scheme":"","text_alignment":"left"},"blocks":{"image_cxPyVd":{"type":"image","settings":{"image":"shopify:\/\/shop_images\/Untitled_design.jpg","max_width":100,"mobile_max_width":100},"blocks":{}},"separator_qLhadw":{"type":"separator","name":"t:blocks.separator.name","settings":{},"blocks":{}},"heading_kXyjCr":{"type":"heading","settings":{"text":"Body acne & uneven skin tone","heading_size":"h6","html_tag":"p","indent":"none","highlight_effect":"default","highlight_accent_color":"","highlight_text_color":""},"blocks":{}},"rich_text_UUwjVX":{"type":"rich-text","name":"t:blocks.rich_text.name","disabled":true,"settings":{"text":"<p>Dorotea, 26 - Verified Customer<\/p>","content_width":"sm"},"blocks":{}},"rich_text_DMA4bG":{"type":"rich-text","settings":{"text":"<p>I was feeling desperate about red bumps on my legs, but this product made a huge difference after just first few uses. I cannot recommend this scrub enough!<\/p>","content_width":"sm"},"blocks":{}},"accordion_9DymVx":{"type":"accordion","name":"t:blocks.accordion.name","settings":{"open_by_default":false,"title":"Cause, Solution & Result","uppercase_title":false},"blocks":{"rich_text_w4fPdE":{"type":"rich-text","settings":{"text":"<p>Breakouts and uneven tone are often caused by clogged pores, excess oil, and buildup that disrupts skin clarity. This scrub helps reduce congestion, calm active blemishes, and gently fade dark marks over time—leaving skin visibly clearer, smoother, and more balanced.<\/p>","content_width":"sm"},"blocks":{}}},"block_order":["rich_text_w4fPdE"]}},"block_order":["image_cxPyVd","separator_qLhadw","heading_kXyjCr","rich_text_UUwjVX","rich_text_DMA4bG","accordion_9DymVx"]},"section-header":{"type":"_section-header","static":true,"settings":{"subheading":"Real problems, real results","title":"The art of transformation","content":"<p>When your body gets the same treatment as your face, results stop being a maybe.<\/p>","button_text":"","button_link":"","button_style":"outline","text_alignment":"left","heading_size":"h5","title_icon":"none","show_scrolling_title":false},"blocks":{}}},"block_order":["multi_column_column_pPNRMN","multi_column_column_6k9dfj","multi_column_column_gW98Ea","multi_column_column_fCwqig","multi_column_column_zXqqKn"],"name":"t:sections.multi_column.name","settings":{"color_scheme":"","show_internal_borders":false,"add_horizontal_spacing":true,"add_top_spacing":true,"add_bottom_spacing":true,"items_per_row":4,"stack_on_mobile":false,"stack_on_desktop":false,"column_spacing":"md","row_spacing":"md"}},"text_with_fixed_background_6teMJQ":{"type":"text-with-fixed-background","blocks":{"title_LREq33":{"type":"title","settings":{"content_position":"md:place-self-start","subheading":"Philosophy","title":"Ritual, heritage, and quiet triumph woven into daily practice","heading_tag":"h5","highlight_effect":"default","highlight_accent_color":"","highlight_text_color":""}},"content_ewJrB9":{"type":"content","settings":{"color_scheme":"scheme-3","content_position":"md:place-self-end-start","title":"","content":"<p>Inspired by the resonant sound of the Istrian sopele and grounded in science, each product is a reminder that caring for your skin is both a necessity and a celebration.<\/p><p>Our philosophy is simple: when ritual meets results, confidence follows. In every formula, in every illustration, and in every moment of care, Sopele is an ode to skin that feels at home, radiant, and worthy of reverence.<\/p>","indent_heading":false}}},"block_order":["title_LREq33","content_ewJrB9"],"name":"t:sections.text_with_fixed_background.name","settings":{"color_scheme":"","image":"shopify:\/\/shop_images\/6_1.jpg","overlay_color":"#000000","overlay_opacity":20}}},"order":["main","slideshow_b8FxKt","slideshow_L9RrnX","multi_column_cMtzV9","specifications_LjbjpM","specifications_anHYJQ","multi_column_7EyiQx","video_aqmc9q","rich_text_phR4Gd","specifications_G8TkqK","timeline_a7knAt","multi_column_cNUDxP","specifications_QCzVjV","specifications_zhViBK","specifications_fyy9xX","products_with_image_LHAzxN","text_with_icons_HDQ7GQ","multi_column_RrFhXX","text_with_fixed_background_6teMJQ"]}
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+ {
+    "sections": {
+      "main": {
+        "type": "main-page",
+        "disabled": true,
+        "settings": {
+          "color_scheme": "",
+          "show_title": false,
+          "content_width": "md"
+        }
+      },
+      "slideshow_b8FxKt": {
+        "type": "slideshow",
+        "blocks": {
+          "slideshow_image_slide_Rfj4xW": {
+            "type": "_slideshow-image-slide",
+            "settings": {
+              "color_scheme": "",
+              "image": "shopify://shop_images/testabout1.jpg",
+              "slide_link": "",
+              "content_max_width": 1000,
+              "mobile_content_position": "place-self-end-start",
+              "desktop_content_position": "sm:place-self-end-start",
+              "overlay_color": "#000000",
+              "overlay_opacity": 20
+            },
+            "blocks": {
+              "subheading_BGHcdw": {
+                "type": "subheading",
+                "name": "t:blocks.subheading.name",
+                "settings": {
+                  "text": "Lorem ipsum"
+                },
+                "blocks": {}
+              },
+              "heading_xyDYqf": {
+                "type": "heading",
+                "settings": {
+                  "text": "Body Skincare, face-grade ingredients.",
+                  "heading_size": "h4",
+                  "html_tag": "p",
+                  "indent": "none",
+                  "highlight_effect": "default",
+                  "highlight_accent_color": "",
+                  "highlight_text_color": ""
+                },
+                "blocks": {}
+              },
+              "rich_text_g3WwVE": {
+                "type": "rich-text",
+                "name": "t:blocks.rich_text.name",
+                "settings": {
+                  "text": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. </p>",
+                  "content_width": "sm"
+                },
+                "blocks": {}
+              }
+            },
+            "block_order": [
+              "subheading_BGHcdw",
+              "heading_xyDYqf",
+              "rich_text_g3WwVE"
+            ]
+          },
+          "slideshow-controls": {
+            "type": "_slideshow-controls",
+            "static": true,
+            "settings": {
+              "controls_style": "line",
+              "controls_color": "#ffffff"
+            },
+            "blocks": {}
+          }
+        },
+        "block_order": [
+          "slideshow_image_slide_Rfj4xW"
+        ],
+        "disabled": true,
+        "name": "t:sections.slideshow.name",
+        "settings": {
+          "allow_transparent_header": true,
+          "image_size": "auto",
+          "transition_type": "curtain",
+          "autoplay": true,
+          "pause_auto_rotate_on_hover": false,
+          "cycle_speed": 6,
+          "background": "#000000"
+        }
+      },
+      "slideshow_L9RrnX": {
+        "type": "slideshow",
+        "blocks": {
+          "slideshow_image_slide_jPXhGJ": {
+            "type": "_slideshow-image-slide",
+            "settings": {
+              "color_scheme": "",
+              "image": "shopify://shop_images/testabout1.jpg",
+              "mobile_image": "shopify://shop_images/about22.jpg",
+              "slide_link": "",
+              "content_max_width": 1000,
+              "mobile_content_position": "place-self-end-start",
+              "desktop_content_position": "sm:place-self-end-start",
+              "overlay_color": "#000000",
+              "overlay_opacity": 0
+            },
+            "blocks": {
+              "heading_LzeWAy": {
+                "type": "heading",
+                "settings": {
+                  "text": "Body skincare, facial standards.",
+                  "heading_size": "h5",
+                  "html_tag": "p",
+                  "indent": "none",
+                  "highlight_effect": "default",
+                  "highlight_accent_color": "",
+                  "highlight_text_color": ""
+                },
+                "blocks": {}
+              },
+              "rich_text_BVxUtT": {
+                "type": "rich-text",
+                "name": "t:blocks.rich_text.name",
+                "disabled": true,
+                "settings": {
+                  "text": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. </p>",
+                  "content_width": "sm"
+                },
+                "blocks": {}
+              },
+              "button_RqcJzq": {
+                "type": "button",
+                "name": "t:blocks.button.name",
+                "settings": {
+                  "text": "Shop  now",
+                  "url": "",
+                  "open_in_new_tab": false,
+                  "style": "outline",
+                  "background": "",
+                  "text_color": ""
+                },
+                "blocks": {}
+              }
+            },
+            "block_order": [
+              "heading_LzeWAy",
+              "rich_text_BVxUtT",
+              "button_RqcJzq"
+            ]
+          },
+          "slideshow-controls": {
+            "type": "_slideshow-controls",
+            "static": true,
+            "settings": {
+              "controls_style": "line",
+              "controls_color": "#ffffff"
+            },
+            "blocks": {}
+          }
+        },
+        "block_order": [
+          "slideshow_image_slide_jPXhGJ"
+        ],
+        "name": "t:sections.slideshow.name",
+        "settings": {
+          "allow_transparent_header": true,
+          "image_size": "auto",
+          "transition_type": "curtain",
+          "autoplay": true,
+          "pause_auto_rotate_on_hover": false,
+          "cycle_speed": 6,
+          "background": "#000000"
+        }
+      },
+      "multi_column_cMtzV9": {
+        "type": "multi-column",
+        "blocks": {
+          "multi_column_column_DVcNyF": {
+            "type": "_multi-column-column",
+            "disabled": true,
+            "settings": {
+              "color_scheme": "",
+              "text_alignment": "left"
+            },
+            "blocks": {
+              "image_y7rWPV": {
+                "type": "image",
+                "disabled": true,
+                "settings": {
+                  "max_width": 100,
+                  "mobile_max_width": 100
+                },
+                "blocks": {}
+              },
+              "heading_bQzD7T": {
+                "type": "heading",
+                "settings": {
+                  "text": "A new standard",
+                  "heading_size": "h5",
+                  "html_tag": "p",
+                  "indent": "none",
+                  "highlight_effect": "default",
+                  "highlight_accent_color": "",
+                  "highlight_text_color": ""
+                },
+                "blocks": {}
+              },
+              "rich_text_MpjyGA": {
+                "type": "rich-text",
+                "settings": {
+                  "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+                  "content_width": "sm"
+                },
+                "blocks": {}
+              }
+            },
+            "block_order": [
+              "image_y7rWPV",
+              "heading_bQzD7T",
+              "rich_text_MpjyGA"
+            ]
+          },
+          "multi_column_column_Tg7C3c": {
+            "type": "_multi-column-column",
+            "settings": {
+              "color_scheme": "",
+              "text_alignment": "left"
+            },
+            "blocks": {
+              "image_MQTz49": {
+                "type": "image",
+                "disabled": true,
+                "settings": {
+                  "max_width": 100,
+                  "mobile_max_width": 100
+                },
+                "blocks": {}
+              },
+              "heading_hCT4nT": {
+                "type": "heading",
+                "settings": {
+                  "text": "Results driven",
+                  "heading_size": "h5",
+                  "html_tag": "p",
+                  "indent": "none",
+                  "highlight_effect": "default",
+                  "highlight_accent_color": "",
+                  "highlight_text_color": ""
+                },
+                "blocks": {}
+              },
+              "rich_text_iweXMj": {
+                "type": "rich-text",
+                "settings": {
+                  "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+                  "content_width": "sm"
+                },
+                "blocks": {}
+              }
+            },
+            "block_order": [
+              "image_MQTz49",
+              "heading_hCT4nT",
+              "rich_text_iweXMj"
+            ]
+          },
+          "multi_column_column_DP87TB": {
+            "type": "_multi-column-column",
+            "settings": {
+              "color_scheme": "",
+              "text_alignment": "left"
+            },
+            "blocks": {
+              "image_BW8LwD": {
+                "type": "image",
+                "disabled": true,
+                "settings": {
+                  "max_width": 100,
+                  "mobile_max_width": 100
+                },
+                "blocks": {}
+              },
+              "heading_dhUNky": {
+                "type": "heading",
+                "settings": {
+                  "text": "Layered treatments",
+                  "heading_size": "h5",
+                  "html_tag": "p",
+                  "indent": "none",
+                  "highlight_effect": "default",
+                  "highlight_accent_color": "",
+                  "highlight_text_color": ""
+                },
+                "blocks": {}
+              },
+              "rich_text_Y6BrTC": {
+                "type": "rich-text",
+                "settings": {
+                  "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+                  "content_width": "sm"
+                },
+                "blocks": {}
+              }
+            },
+            "block_order": [
+              "image_BW8LwD",
+              "heading_dhUNky",
+              "rich_text_Y6BrTC"
+            ]
+          },
+          "section-header": {
+            "type": "_section-header",
+            "disabled": true,
+            "static": true,
+            "settings": {
+              "subheading": "",
+              "title": "Multi-column",
+              "content": "<p>Use this content to share information about your store and products.</p>",
+              "button_text": "",
+              "button_link": "",
+              "button_style": "outline",
+              "text_alignment": "left",
+              "heading_size": "h4",
+              "title_icon": "none",
+              "show_scrolling_title": false
+            },
+            "blocks": {}
+          }
+        },
+        "block_order": [
+          "multi_column_column_DVcNyF",
+          "multi_column_column_Tg7C3c",
+          "multi_column_column_DP87TB"
+        ],
+        "disabled": true,
+        "name": "t:sections.multi_column.name",
+        "settings": {
+          "color_scheme": "",
+          "show_internal_borders": false,
+          "add_horizontal_spacing": true,
+          "add_top_spacing": true,
+          "add_bottom_spacing": true,
+          "items_per_row": 2,
+          "stack_on_mobile": false,
+          "stack_on_desktop": true,
+          "column_spacing": "md",
+          "row_spacing": "md"
+        }
+      },
+      "specifications_LjbjpM": {
+        "type": "specifications",
+        "blocks": {
+          "attribute_6xaVaR": {
+            "type": "attribute",
+            "settings": {
+              "icon": "none",
+              "title": "Learn more",
+              "content": "<p>Write some content.</p>"
+            }
+          },
+          "attribute_cnhgKD": {
+            "type": "attribute",
+            "disabled": true,
+            "settings": {
+              "icon": "none",
+              "title": "Attribute 2",
+              "content": "<p>Write some content.</p>"
+            }
+          },
+          "attribute_hmFgrG": {
+            "type": "attribute",
+            "disabled": true,
+            "settings": {
+              "icon": "none",
+              "title": "Attribute 3",
+              "content": "<p>Write some content.</p>"
+            }
+          }
+        },
+        "block_order": [
+          "attribute_6xaVaR",
+          "attribute_cnhgKD",
+          "attribute_hmFgrG"
+        ],
+        "name": "t:sections.specifications.name",
+        "settings": {
+          "color_scheme": "",
+          "image": "shopify://shop_images/c05d0f88-66bc-4d46-8711-a6e5c8ed8b13.jpg",
+          "layout": "split",
+          "add_image_spacing": true,
+          "image_position": "start",
+          "subheading": "Heritage",
+          "title": "The melody of triumph",
+          "heading_size": "h5",
+          "content": "<p><em>Sopele</em>, an Istrian instrument, that were once played in the hills of Istria, their sound carrying through weddings, births, and days of joy. <em>De Triomphe,</em> speaks to personal victory - the moment you look in the mirror and no longer see frustration, but progress.</p><p>To us, Sopele de Triomphe is a celebration of skin - of care, clarity, and quiet confidence.</p>",
+          "collapse_attributes": true,
+          "show_attribute_icon_on_top": false,
+          "uppercase_attribute_title": false
+        }
+      },
+      "specifications_anHYJQ": {
+        "type": "specifications",
+        "blocks": {
+          "attribute_wakc7k": {
+            "type": "attribute",
+            "settings": {
+              "icon": "none",
+              "title": "Learn more",
+              "content": "<p>Write some content.</p>"
+            }
+          },
+          "attribute_F8BkxU": {
+            "type": "attribute",
+            "disabled": true,
+            "settings": {
+              "icon": "none",
+              "title": "Attribute 2",
+              "content": "<p>Write some content.</p>"
+            }
+          },
+          "attribute_zJMfL9": {
+            "type": "attribute",
+            "disabled": true,
+            "settings": {
+              "icon": "none",
+              "title": "Attribute 3",
+              "content": "<p>Write some content.</p>"
+            }
+          }
+        },
+        "block_order": [
+          "attribute_wakc7k",
+          "attribute_F8BkxU",
+          "attribute_zJMfL9"
+        ],
+        "disabled": true,
+        "name": "t:sections.specifications.name",
+        "settings": {
+          "color_scheme": "scheme-2",
+          "image": "shopify://shop_images/Untitled_design_2_copy_3.png",
+          "layout": "split",
+          "add_image_spacing": true,
+          "image_position": "start",
+          "subheading": "The fine lines",
+          "title": "A Visual Symphony",
+          "heading_size": "h5",
+          "content": "<p>Every Sopele product is adorned with a unique illustration, created in a timeless, hand-drawn style. These artworks are more than decoration - they are part of our philosophy. </p><p>Each illustration depicts a woman and the traditional Istrian instrument, <em>sopele</em>, placed within a symbolic environment. Together, they tell stories of ritual, transformation, and quiet triumph.</p>",
+          "collapse_attributes": true,
+          "show_attribute_icon_on_top": false,
+          "uppercase_attribute_title": false
+        }
+      },
+      "multi_column_7EyiQx": {
+        "type": "multi-column",
+        "blocks": {
+          "multi_column_column_L3dA7m": {
+            "type": "_multi-column-column",
+            "settings": {
+              "color_scheme": "scheme-2",
+              "text_alignment": "left"
+            },
+            "blocks": {
+              "image_cX9Txg": {
+                "type": "image",
+                "settings": {
+                  "image": "shopify://shop_images/Untitled_design_2_copy_2.png",
+                  "max_width": 100,
+                  "mobile_max_width": 100
+                },
+                "blocks": {}
+              }
+            },
+            "block_order": [
+              "image_cX9Txg"
+            ]
+          },
+          "multi_column_column_AKHXc7": {
+            "type": "_multi-column-column",
+            "settings": {
+              "color_scheme": "scheme-2",
+              "text_alignment": "left"
+            },
+            "blocks": {
+              "image_QjjHdB": {
+                "type": "image",
+                "settings": {
+                  "image": "shopify://shop_images/Untitled_design_2_copy_2.png",
+                  "max_width": 100,
+                  "mobile_max_width": 100
+                },
+                "blocks": {}
+              }
+            },
+            "block_order": [
+              "image_QjjHdB"
+            ]
+          },
+          "multi_column_column_C4aRrm": {
+            "type": "_multi-column-column",
+            "settings": {
+              "color_scheme": "scheme-2",
+              "text_alignment": "left"
+            },
+            "blocks": {
+              "image_hfGCti": {
+                "type": "image",
+                "settings": {
+                  "image": "shopify://shop_images/Untitled_design_2_copy_2.png",
+                  "max_width": 100,
+                  "mobile_max_width": 100
+                },
+                "blocks": {}
+              }
+            },
+            "block_order": [
+              "image_hfGCti"
+            ]
+          },
+          "section-header": {
+            "type": "_section-header",
+            "disabled": true,
+            "static": true,
+            "settings": {
+              "subheading": "",
+              "title": "Finest textures",
+              "content": "<p>Use this content to share information about your store and products.</p>",
+              "button_text": "",
+              "button_link": "",
+              "button_style": "outline",
+              "text_alignment": "left",
+              "heading_size": "h4",
+              "title_icon": "none",
+              "show_scrolling_title": false
+            },
+            "blocks": {}
+          }
+        },
+        "block_order": [
+          "multi_column_column_L3dA7m",
+          "multi_column_column_AKHXc7",
+          "multi_column_column_C4aRrm"
+        ],
+        "disabled": true,
+        "name": "t:sections.multi_column.name",
+        "settings": {
+          "color_scheme": "scheme-2",
+          "show_internal_borders": false,
+          "add_horizontal_spacing": true,
+          "add_top_spacing": true,
+          "add_bottom_spacing": true,
+          "items_per_row": 3,
+          "stack_on_mobile": false,
+          "stack_on_desktop": true,
+          "column_spacing": "md",
+          "row_spacing": "md"
+        }
+      },
+      "video_aqmc9q": {
+        "type": "video",
+        "blocks": {
+          "play_button_ryzBjh": {
+            "type": "play_button",
+            "settings": {
+              "position": "middle_center",
+              "show_play_cursor": false
+            }
+          },
+          "heading_magp4K": {
+            "type": "heading",
+            "settings": {
+              "text": "Visual symphony",
+              "mobile_heading_tag": "h5",
+              "desktop_heading_tag": "sm:h5",
+              "position": "bottom_left",
+              "highlight_effect": "default",
+              "highlight_accent_color": "",
+              "highlight_text_color": ""
+            }
+          },
+          "richtext_dfG6UB": {
+            "type": "richtext",
+            "settings": {
+              "text": "<p>Each illustration depicts a woman and the traditional Istrian instrument, <em>sopele</em>, placed within a symbolic environment. Together, they tell stories of ritual, transformation, and quiet triumph.</p>",
+              "position": "bottom_left"
+            }
+          }
+        },
+        "block_order": [
+          "play_button_ryzBjh",
+          "heading_magp4K",
+          "richtext_dfG6UB"
+        ],
+        "name": "t:sections.video.name",
+        "settings": {
+          "color_scheme": "",
+          "allow_transparent_header": true,
+          "autoplay": false,
+          "show_controls": true,
+          "video_size": "md",
+          "mobile_video_size": "lg",
+          "video": "shopify://files/videos/reeltest1.mp4",
+          "external_video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc"
+        }
+      },
+      "rich_text_phR4Gd": {
+        "type": "rich-text",
+        "blocks": {
+          "subheading_exih7P": {
+            "type": "subheading",
+            "settings": {
+              "text": "Visual symphony"
+            }
+          },
+          "heading_UD69hg": {
+            "type": "heading",
+            "settings": {
+              "text": "The art of bodycare",
+              "heading_tag": "h5",
+              "indent": "none",
+              "highlight_effect": "default",
+              "highlight_accent_color": "",
+              "highlight_text_color": ""
+            }
+          },
+          "richtext_64DBcJ": {
+            "type": "richtext",
+            "settings": {
+              "text": "<p>Every Sopele product is adorned with a unique illustration, created in a timeless, hand-drawn style. These artworks are more than decoration - they are part of our philosophy. </p><p>Each illustration depicts a woman and the traditional Istrian instrument, <em>sopele</em>, placed within a symbolic environment. Together, they tell stories of ritual, transformation, and quiet triumph.</p>"
+            }
+          }
+        },
+        "block_order": [
+          "subheading_exih7P",
+          "heading_UD69hg",
+          "richtext_64DBcJ"
+        ],
+        "disabled": true,
+        "name": "t:sections.rich_text.name",
+        "settings": {
+          "color_scheme": "scheme-2",
+          "content_width": "full",
+          "text_alignment": "left"
+        }
+      },
+      "specifications_G8TkqK": {
+        "type": "specifications",
+        "blocks": {
+          "attribute_ktimQB": {
+            "type": "attribute",
+            "settings": {
+              "icon": "none",
+              "title": "Learn more",
+              "content": "<p>Write some content.</p>"
+            }
+          },
+          "attribute_Cj99FY": {
+            "type": "attribute",
+            "disabled": true,
+            "settings": {
+              "icon": "none",
+              "title": "Attribute 2",
+              "content": "<p>Write some content.</p>"
+            }
+          },
+          "attribute_zc3dPg": {
+            "type": "attribute",
+            "disabled": true,
+            "settings": {
+              "icon": "none",
+              "title": "Attribute 3",
+              "content": "<p>Write some content.</p>"
+            }
+          }
+        },
+        "block_order": [
+          "attribute_ktimQB",
+          "attribute_Cj99FY",
+          "attribute_zc3dPg"
+        ],
+        "disabled": true,
+        "name": "t:sections.specifications.name",
+        "settings": {
+          "color_scheme": "scheme-2",
+          "image": "shopify://shop_images/IMG_3439_64c5f915-1648-4427-887d-929d11209e40.jpg",
+          "layout": "split",
+          "add_image_spacing": false,
+          "image_position": "start",
+          "subheading": "The fine lines",
+          "title": "A Visual Symphony",
+          "heading_size": "h5",
+          "content": "<p>Every Sopele product is adorned with a unique illustration, created in a timeless, hand-drawn style. These artworks are more than decoration - they are part of our philosophy. </p><p>Each illustration depicts a woman and the traditional Istrian instrument, <em>sopele</em>, placed within a symbolic environment. Together, they tell stories of ritual, transformation, and quiet triumph.</p>",
+          "collapse_attributes": true,
+          "show_attribute_icon_on_top": false,
+          "uppercase_attribute_title": false
+        }
+      },
+      "timeline_a7knAt": {
+        "type": "timeline",
+        "blocks": {
+          "item_fH7Jw4": {
+            "type": "item",
+            "settings": {
+              "label": "2000",
+              "subheading": "Subheading",
+              "icon": "none",
+              "icon_width": 32,
+              "mobile_icon_width": 24,
+              "title": "The beginning",
+              "heading_tag": "h3",
+              "highlight_effect": "default",
+              "content": "<p>Pair text with an image to focus on your brand. Add details about your story, your making process or your values.</p>"
+            }
+          },
+          "item_LrXPkD": {
+            "type": "item",
+            "settings": {
+              "label": "2010",
+              "subheading": "Subheading",
+              "icon": "none",
+              "icon_width": 32,
+              "mobile_icon_width": 24,
+              "title": "Our development",
+              "heading_tag": "h3",
+              "highlight_effect": "default",
+              "content": "<p>Pair text with an image to focus on your brand. Add details about your story, your making process or your values.</p>"
+            }
+          },
+          "item_ccMm3d": {
+            "type": "item",
+            "settings": {
+              "label": "2020",
+              "subheading": "Subheading",
+              "icon": "none",
+              "icon_width": 32,
+              "mobile_icon_width": 24,
+              "title": "Our success",
+              "heading_tag": "h3",
+              "highlight_effect": "default",
+              "content": "<p>Pair text with an image to focus on your brand. Add details about your story, your making process or your values.</p>"
+            }
+          }
+        },
+        "block_order": [
+          "item_fH7Jw4",
+          "item_LrXPkD",
+          "item_ccMm3d"
+        ],
+        "disabled": true,
+        "name": "t:sections.timeline.name",
+        "settings": {
+          "color_scheme": "",
+          "timeline_position": "left",
+          "image_position": "right",
+          "text_alignment": "center",
+          "add_image_spacing": false
+        }
+      },
+      "multi_column_cNUDxP": {
+        "type": "multi-column",
+        "blocks": {
+          "multi_column_column_B6ic7r": {
+            "type": "_multi-column-column",
+            "settings": {
+              "color_scheme": "scheme-1",
+              "text_alignment": "left"
+            },
+            "blocks": {
+              "image_eXkbFb": {
+                "type": "image",
+                "settings": {
+                  "image": "shopify://shop_images/e67b1b87-ff27-43e5-888e-61d695c3052d.jpg",
+                  "max_width": 100,
+                  "mobile_max_width": 100
+                },
+                "blocks": {}
+              },
+              "separator_Mh9Dny": {
+                "type": "separator",
+                "name": "t:blocks.separator.name",
+                "settings": {},
+                "blocks": {}
+              },
+              "heading_NxaFRz": {
+                "type": "heading",
+                "settings": {
+                  "text": "Moment of Clarity",
+                  "heading_size": "h6",
+                  "html_tag": "p",
+                  "indent": "none",
+                  "highlight_effect": "default",
+                  "highlight_accent_color": "",
+                  "highlight_text_color": ""
+                },
+                "blocks": {}
+              },
+              "rich_text_kMJKV7": {
+                "type": "rich-text",
+                "settings": {
+                  "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+                  "content_width": "sm"
+                },
+                "blocks": {}
+              },
+              "button_9trWYP": {
+                "type": "button",
+                "name": "t:blocks.button.name",
+                "disabled": true,
+                "settings": {
+                  "text": "Body scrub & mask",
+                  "url": "",
+                  "open_in_new_tab": false,
+                  "style": "outline",
+                  "background": "",
+                  "text_color": ""
+                },
+                "blocks": {}
+              },
+              "accordion_FMMW4e": {
+                "type": "accordion",
+                "name": "t:blocks.accordion.name",
+                "disabled": true,
+                "settings": {
+                  "open_by_default": false,
+                  "title": "Full ingredients list",
+                  "uppercase_title": false
+                },
+                "blocks": {
+                  "rich_text_iy3fPN": {
+                    "type": "rich-text",
+                    "settings": {
+                      "text": "<p>Write content about your brand or products.</p>",
+                      "content_width": "sm"
+                    },
+                    "blocks": {}
+                  }
+                },
+                "block_order": [
+                  "rich_text_iy3fPN"
+                ]
+              }
+            },
+            "block_order": [
+              "image_eXkbFb",
+              "separator_Mh9Dny",
+              "heading_NxaFRz",
+              "rich_text_kMJKV7",
+              "button_9trWYP",
+              "accordion_FMMW4e"
+            ]
+          },
+          "multi_column_column_zw9W3k": {
+            "type": "_multi-column-column",
+            "settings": {
+              "color_scheme": "scheme-1",
+              "text_alignment": "left"
+            },
+            "blocks": {
+              "image_PMMW3r": {
+                "type": "image",
+                "settings": {
+                  "image": "shopify://shop_images/4ed2ba04-4bfd-454f-82d7-8a6acdd5d386.jpg",
+                  "max_width": 100,
+                  "mobile_max_width": 100
+                },
+                "blocks": {}
+              },
+              "separator_fQGmYq": {
+                "type": "separator",
+                "name": "t:blocks.separator.name",
+                "settings": {},
+                "blocks": {}
+              },
+              "heading_RFMJaP": {
+                "type": "heading",
+                "settings": {
+                  "text": "A Flattering Drop",
+                  "heading_size": "h6",
+                  "html_tag": "p",
+                  "indent": "none",
+                  "highlight_effect": "default",
+                  "highlight_accent_color": "",
+                  "highlight_text_color": ""
+                },
+                "blocks": {}
+              },
+              "rich_text_9aEa6B": {
+                "type": "rich-text",
+                "settings": {
+                  "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+                  "content_width": "sm"
+                },
+                "blocks": {}
+              },
+              "button_MEMH6G": {
+                "type": "button",
+                "name": "t:blocks.button.name",
+                "disabled": true,
+                "settings": {
+                  "text": "Body serum",
+                  "url": "",
+                  "open_in_new_tab": false,
+                  "style": "outline",
+                  "background": "",
+                  "text_color": ""
+                },
+                "blocks": {}
+              },
+              "accordion_FTybm6": {
+                "type": "accordion",
+                "name": "t:blocks.accordion.name",
+                "disabled": true,
+                "settings": {
+                  "open_by_default": false,
+                  "title": "Full ingredients list",
+                  "uppercase_title": false
+                },
+                "blocks": {
+                  "rich_text_MihUDz": {
+                    "type": "rich-text",
+                    "settings": {
+                      "text": "<p>Write content about your brand or products.</p>",
+                      "content_width": "sm"
+                    },
+                    "blocks": {}
+                  }
+                },
+                "block_order": [
+                  "rich_text_MihUDz"
+                ]
+              }
+            },
+            "block_order": [
+              "image_PMMW3r",
+              "separator_fQGmYq",
+              "heading_RFMJaP",
+              "rich_text_9aEa6B",
+              "button_MEMH6G",
+              "accordion_FTybm6"
+            ]
+          },
+          "multi_column_column_6H8zrX": {
+            "type": "_multi-column-column",
+            "settings": {
+              "color_scheme": "scheme-1",
+              "text_alignment": "left"
+            },
+            "blocks": {
+              "image_qRicWf": {
+                "type": "image",
+                "settings": {
+                  "image": "shopify://shop_images/4ed2ba04-4bfd-454f-82d7-8a6acdd5d386.jpg",
+                  "max_width": 100,
+                  "mobile_max_width": 100
+                },
+                "blocks": {}
+              },
+              "separator_maqkWf": {
+                "type": "separator",
+                "name": "t:blocks.separator.name",
+                "settings": {},
+                "blocks": {}
+              },
+              "heading_AympTn": {
+                "type": "heading",
+                "settings": {
+                  "text": "The Softest Touch",
+                  "heading_size": "h6",
+                  "html_tag": "p",
+                  "indent": "none",
+                  "highlight_effect": "default",
+                  "highlight_accent_color": "",
+                  "highlight_text_color": ""
+                },
+                "blocks": {}
+              },
+              "rich_text_pnGkiL": {
+                "type": "rich-text",
+                "settings": {
+                  "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+                  "content_width": "sm"
+                },
+                "blocks": {}
+              },
+              "button_q9np6A": {
+                "type": "button",
+                "name": "t:blocks.button.name",
+                "disabled": true,
+                "settings": {
+                  "text": "Body cream",
+                  "url": "",
+                  "open_in_new_tab": false,
+                  "style": "outline",
+                  "background": "",
+                  "text_color": ""
+                },
+                "blocks": {}
+              },
+              "accordion_nyiRPP": {
+                "type": "accordion",
+                "name": "t:blocks.accordion.name",
+                "disabled": true,
+                "settings": {
+                  "open_by_default": false,
+                  "title": "Full ingredients list",
+                  "uppercase_title": false
+                },
+                "blocks": {
+                  "rich_text_PPNzTe": {
+                    "type": "rich-text",
+                    "settings": {
+                      "text": "<p>Write content about your brand or products.</p>",
+                      "content_width": "sm"
+                    },
+                    "blocks": {}
+                  }
+                },
+                "block_order": [
+                  "rich_text_PPNzTe"
+                ]
+              }
+            },
+            "block_order": [
+              "image_qRicWf",
+              "separator_maqkWf",
+              "heading_AympTn",
+              "rich_text_pnGkiL",
+              "button_q9np6A",
+              "accordion_nyiRPP"
+            ]
+          },
+          "section-header": {
+            "type": "_section-header",
+            "static": true,
+            "settings": {
+              "subheading": "",
+              "title": "Layered formulas",
+              "content": "<p>Each formula in the Signature Collection is layered with clinically proven, face-grade actives - designed to deliver real transformation.</p>",
+              "button_text": "",
+              "button_link": "",
+              "button_style": "outline",
+              "text_alignment": "left",
+              "heading_size": "h5",
+              "title_icon": "none",
+              "show_scrolling_title": false
+            },
+            "blocks": {}
+          }
+        },
+        "block_order": [
+          "multi_column_column_B6ic7r",
+          "multi_column_column_zw9W3k",
+          "multi_column_column_6H8zrX"
+        ],
+        "name": "t:sections.multi_column.name",
+        "settings": {
+          "color_scheme": "scheme-1",
+          "show_internal_borders": false,
+          "add_horizontal_spacing": true,
+          "add_top_spacing": true,
+          "add_bottom_spacing": true,
+          "items_per_row": 3,
+          "stack_on_mobile": false,
+          "stack_on_desktop": true,
+          "column_spacing": "md",
+          "row_spacing": "md"
+        }
+      },
+      "specifications_QCzVjV": {
+        "type": "specifications",
+        "blocks": {
+          "attribute_pqbPnV": {
+            "type": "attribute",
+            "settings": {
+              "icon": "none",
+              "title": "Potent actives",
+              "content": "<p>Made to melt into skin</p>"
+            }
+          },
+          "attribute_iY3JN6": {
+            "type": "attribute",
+            "settings": {
+              "icon": "none",
+              "title": "Results-driven",
+              "content": "<p>Solutions for visible change</p>"
+            }
+          },
+          "attribute_THdkmF": {
+            "type": "attribute",
+            "settings": {
+              "icon": "none",
+              "title": "Solutions for deeper concerns",
+              "content": "<p>Designed for thicker skin, deeper concerns</p>"
+            }
+          }
+        },
+        "block_order": [
+          "attribute_pqbPnV",
+          "attribute_iY3JN6",
+          "attribute_THdkmF"
+        ],
+        "disabled": true,
+        "name": "t:sections.specifications.name",
+        "settings": {
+          "color_scheme": "scheme-2",
+          "image": "shopify://shop_images/about33.jpg",
+          "layout": "split",
+          "add_image_spacing": false,
+          "image_position": "end",
+          "subheading": "Sopele standards",
+          "title": "A new standard in bodycare",
+          "heading_size": "h5",
+          "content": "<p>What’s considered exceptional for the face, we made foundational for the body.</p>",
+          "collapse_attributes": false,
+          "show_attribute_icon_on_top": true,
+          "uppercase_attribute_title": false
+        }
+      },
+      "specifications_zhViBK": {
+        "type": "specifications",
+        "blocks": {
+          "attribute_kRQyf7": {
+            "type": "attribute",
+            "settings": {
+              "icon": "none",
+              "title": "Learn more",
+              "content": "<p>Made to melt into skin</p>"
+            }
+          }
+        },
+        "block_order": [
+          "attribute_kRQyf7"
+        ],
+        "name": "t:sections.specifications.name",
+        "settings": {
+          "color_scheme": "scheme-2",
+          "image": "shopify://shop_images/8_1.jpg",
+          "layout": "split",
+          "add_image_spacing": false,
+          "image_position": "end",
+          "subheading": "Standards",
+          "title": "A new standard in bodycare",
+          "heading_size": "h5",
+          "content": "<p>What’s long been considered exceptional for the face, we made foundational for the body. At Sopele, every formula is infused with face-grade actives, clinically proven ingredients that don’t just nourish, but transform. </p><p>From clarity and hydration to resilience and radiance, we believe your body deserves the same standard of care as your face, every single day.</p>",
+          "collapse_attributes": true,
+          "show_attribute_icon_on_top": true,
+          "uppercase_attribute_title": false
+        }
+      },
+      "specifications_fyy9xX": {
+        "type": "specifications",
+        "blocks": {
+          "attribute_pE3WpA": {
+            "type": "attribute",
+            "settings": {
+              "icon": "none",
+              "title": "Potent actives",
+              "content": "<p>Made to melt into skin</p>"
+            }
+          },
+          "attribute_LkVWCc": {
+            "type": "attribute",
+            "settings": {
+              "icon": "none",
+              "title": "Results-driven",
+              "content": "<p>Solutions for visible change</p>"
+            }
+          },
+          "attribute_JFXTT3": {
+            "type": "attribute",
+            "settings": {
+              "icon": "none",
+              "title": "Solutions for deeper concerns",
+              "content": "<p>Designed for thicker skin, deeper concerns</p>"
+            }
+          }
+        },
+        "block_order": [
+          "attribute_pE3WpA",
+          "attribute_LkVWCc",
+          "attribute_JFXTT3"
+        ],
+        "disabled": true,
+        "name": "t:sections.specifications.name",
+        "settings": {
+          "color_scheme": "scheme-2",
+          "image": "shopify://shop_images/8_1.jpg",
+          "layout": "split",
+          "add_image_spacing": false,
+          "image_position": "end",
+          "subheading": "Standards",
+          "title": "A new standard in bodycare",
+          "heading_size": "h5",
+          "content": "<p>What’s long been considered exceptional for the face, we made foundational for the body. At Sopele, every formula is infused with face-grade actives, clinically proven ingredients that don’t just nourish, but transform. </p>",
+          "collapse_attributes": false,
+          "show_attribute_icon_on_top": true,
+          "uppercase_attribute_title": false
+        }
+      },
+      "products_with_image_LHAzxN": {
+        "type": "products-with-image",
+        "blocks": {
+          "subheading_nr4Gx8": {
+            "type": "subheading",
+            "disabled": true,
+            "settings": {
+              "text": "Subheading",
+              "position": "bottom_left"
+            }
+          },
+          "heading_6gQRTt": {
+            "type": "heading",
+            "settings": {
+              "text": "Our Products",
+              "heading_tag": "h5",
+              "position": "bottom_left",
+              "highlight_effect": "default",
+              "highlight_accent_color": "",
+              "highlight_text_color": ""
+            }
+          },
+          "richtext_ag9peL": {
+            "type": "richtext",
+            "settings": {
+              "text": "<p>For years, we’ve been formulating Sopele with the same intention: to bring powerful, facial-grade actives to the skin from the neck down.</p>",
+              "position": "bottom_left"
+            }
+          }
+        },
+        "block_order": [
+          "subheading_nr4Gx8",
+          "heading_6gQRTt",
+          "richtext_ag9peL"
+        ],
+        "name": "t:sections.products_with_image.name",
+        "settings": {
+          "color_scheme": "",
+          "products": [
+            "moment-of-clarity-body-scrub-and-mask",
+            "a-flattering-drop-body-serum",
+            "the-softest-touch-body-cream",
+            "signature-collection"
+          ],
+          "desktop_product_list_position": "start",
+          "image": "shopify://shop_images/WhatsApp_Image_2025-09-21_at_22.23.48.jpg",
+          "overlay_color": "#000000",
+          "overlay_opacity": 10,
+          "desktop_product_layout": "grid",
+          "mobile_product_layout": "grid",
+          "mobile_products_per_row": "2"
+        }
+      },
+      "text_with_icons_HDQ7GQ": {
+        "type": "text-with-icons",
+        "blocks": {
+          "item_VnKLeK": {
+            "type": "item",
+            "settings": {
+              "icon": "none",
+              "custom_icon": "shopify://shop_images/2-22-23-Dr-Rogers6163_100j_cropped_2-1_9a8b284f-cacf-4b36-8281-b7fd3fd31cce.jpg",
+              "title": "Dr. Elena Marković, Dermatologist",
+              "heading_tag": "h6",
+              "content": "<p>Sopele brings face-grade science to body care with real, lasting results. The formulations are meticulously crafted to deliver transformation without compromising skin health.</p>"
+            }
+          },
+          "item_aH7aN8": {
+            "type": "item",
+            "settings": {
+              "icon": "none",
+              "custom_icon": "shopify://shop_images/1V2A1132_1_88d9436b-a10a-45df-a946-677b9d95876a.jpg",
+              "title": "Dr. Francesca Whitfield, Dermatologist",
+              "heading_tag": "h6",
+              "content": "<p>Thoughtful formulas that respect the skin barrier while transforming it. Sopele manages to combine active efficacy with gentle, restorative care.</p>"
+            }
+          },
+          "item_EXD6gb": {
+            "type": "item",
+            "settings": {
+              "icon": "none",
+              "custom_icon": "shopify://shop_images/Lisa_Abbott_1_-1_f36a38c9-4bac-4da4-bbba-94e9c2cac4f3.jpg",
+              "title": "Dr. Tereza Petrović, Dermatologist",
+              "heading_tag": "h6",
+              "content": "<p>A rare balance of ritual, nourishment, and clinical effectiveness. These products elevate body care to the same standard we expect in advanced facial skincare.</p>"
+            }
+          }
+        },
+        "block_order": [
+          "item_VnKLeK",
+          "item_aH7aN8",
+          "item_EXD6gb"
+        ],
+        "name": "t:sections.text_with_icons.name",
+        "settings": {
+          "color_scheme": "scheme-2",
+          "subheading": "",
+          "title": "Supported by leading dermatologists",
+          "content": "<p>Earning the trust of dermatologists who recognize our formulations for their effectiveness, safety, and respect for the skin barrier.</p>",
+          "heading_tag": "h5",
+          "text_alignment": "left",
+          "items_per_row_desktop": 2,
+          "stack_on_mobile": true,
+          "separator_style": "horizontal",
+          "icon_position": "inline",
+          "icon_width": 72,
+          "mobile_icon_width": 72,
+          "item_text_alignment": "left"
+        }
+      },
+      "multi_column_RrFhXX": {
+        "type": "multi-column",
+        "blocks": {
+          "multi_column_column_pPNRMN": {
+            "type": "_multi-column-column",
+            "settings": {
+              "color_scheme": "",
+              "text_alignment": "left"
+            },
+            "blocks": {
+              "image_MxP4kE": {
+                "type": "image",
+                "settings": {
+                  "image": "shopify://shop_images/Untitled_design.jpg",
+                  "max_width": 100,
+                  "mobile_max_width": 100
+                },
+                "blocks": {}
+              },
+              "separator_qwrTGj": {
+                "type": "separator",
+                "name": "t:blocks.separator.name",
+                "settings": {},
+                "blocks": {}
+              },
+              "heading_WefGYY": {
+                "type": "heading",
+                "settings": {
+                  "text": "Strawberry skin & texture",
+                  "heading_size": "h6",
+                  "html_tag": "p",
+                  "indent": "none",
+                  "highlight_effect": "default",
+                  "highlight_accent_color": "",
+                  "highlight_text_color": ""
+                },
+                "blocks": {}
+              },
+              "rich_text_9Vcfpr": {
+                "type": "rich-text",
+                "name": "t:blocks.rich_text.name",
+                "disabled": true,
+                "settings": {
+                  "text": "<p>Martina, 26 - Consumer study </p>",
+                  "content_width": "sm"
+                },
+                "blocks": {}
+              },
+              "rich_text_YMV6Lx": {
+                "type": "rich-text",
+                "settings": {
+                  "text": "<p>I was feeling desperate about red bumps on my legs, but this product made a huge difference after just first few uses. I cannot recommend this scrub enough!</p>",
+                  "content_width": "sm"
+                },
+                "blocks": {}
+              },
+              "accordion_cBEhJL": {
+                "type": "accordion",
+                "name": "t:blocks.accordion.name",
+                "settings": {
+                  "open_by_default": false,
+                  "title": "Cause, Solution & Result",
+                  "uppercase_title": false
+                },
+                "blocks": {
+                  "rich_text_dzVqGy": {
+                    "type": "rich-text",
+                    "settings": {
+                      "text": "<p>Strawberry skin is caused by clogged pores and keratin buildup, leading to small red or dark bumps, typically on the legs and arms. This scrub gently resurfaces textured skin, clears buildup, and helps smooth and soften rough patches. With consistent use, it visibly reduces bumps and reveals clearer, more even-toned skin.</p>",
+                      "content_width": "sm"
+                    },
+                    "blocks": {}
+                  }
+                },
+                "block_order": [
+                  "rich_text_dzVqGy"
+                ]
+              }
+            },
+            "block_order": [
+              "image_MxP4kE",
+              "separator_qwrTGj",
+              "heading_WefGYY",
+              "rich_text_9Vcfpr",
+              "rich_text_YMV6Lx",
+              "accordion_cBEhJL"
+            ]
+          },
+          "multi_column_column_6k9dfj": {
+            "type": "_multi-column-column",
+            "settings": {
+              "color_scheme": "",
+              "text_alignment": "left"
+            },
+            "blocks": {
+              "image_94ncBy": {
+                "type": "image",
+                "settings": {
+                  "image": "shopify://shop_images/Untitled_design.jpg",
+                  "max_width": 100,
+                  "mobile_max_width": 100
+                },
+                "blocks": {}
+              },
+              "separator_pQUPLQ": {
+                "type": "separator",
+                "name": "t:blocks.separator.name",
+                "settings": {},
+                "blocks": {}
+              },
+              "heading_mdgWN9": {
+                "type": "heading",
+                "settings": {
+                  "text": "Ingrown hairs & dark spots",
+                  "heading_size": "h6",
+                  "html_tag": "p",
+                  "indent": "none",
+                  "highlight_effect": "default",
+                  "highlight_accent_color": "",
+                  "highlight_text_color": ""
+                },
+                "blocks": {}
+              },
+              "rich_text_4crpBx": {
+                "type": "rich-text",
+                "name": "t:blocks.rich_text.name",
+                "disabled": true,
+                "settings": {
+                  "text": "<p>Sanja, 36 - Verified Customer</p>",
+                  "content_width": "sm"
+                },
+                "blocks": {}
+              },
+              "rich_text_qDMDR8": {
+                "type": "rich-text",
+                "settings": {
+                  "text": "<p>I was feeling desperate about red bumps on my legs, but this product made a huge difference after just first few uses. I cannot recommend this scrub enough!</p>",
+                  "content_width": "sm"
+                },
+                "blocks": {}
+              },
+              "accordion_pgNC8z": {
+                "type": "accordion",
+                "name": "t:blocks.accordion.name",
+                "settings": {
+                  "open_by_default": false,
+                  "title": "Cause, Solution & Result",
+                  "uppercase_title": false
+                },
+                "blocks": {
+                  "rich_text_4jrqBh": {
+                    "type": "rich-text",
+                    "settings": {
+                      "text": "<p>Ingrown hairs form when dead skin builds up and traps the hair beneath the surface, often leading to inflammation, bumps, and post-shave marks. Over time, this can leave behind dark spots and uneven tone. This scrub helps by gently exfoliating the skin’s surface, clearing buildup, and supporting healthy cell turnover. The result is smoother skin, fewer ingrowns, and visibly brighter, more even tone over time.</p>",
+                      "content_width": "sm"
+                    },
+                    "blocks": {}
+                  }
+                },
+                "block_order": [
+                  "rich_text_4jrqBh"
+                ]
+              }
+            },
+            "block_order": [
+              "image_94ncBy",
+              "separator_pQUPLQ",
+              "heading_mdgWN9",
+              "rich_text_4crpBx",
+              "rich_text_qDMDR8",
+              "accordion_pgNC8z"
+            ]
+          },
+          "multi_column_column_gW98Ea": {
+            "type": "_multi-column-column",
+            "settings": {
+              "color_scheme": "",
+              "text_alignment": "left"
+            },
+            "blocks": {
+              "image_UexERB": {
+                "type": "image",
+                "settings": {
+                  "image": "shopify://shop_images/Untitled_design.jpg",
+                  "max_width": 100,
+                  "mobile_max_width": 100
+                },
+                "blocks": {}
+              },
+              "separator_34MFAH": {
+                "type": "separator",
+                "name": "t:blocks.separator.name",
+                "settings": {},
+                "blocks": {}
+              },
+              "heading_wYpKRW": {
+                "type": "heading",
+                "settings": {
+                  "text": "Body acne & uneven skin tone",
+                  "heading_size": "h6",
+                  "html_tag": "p",
+                  "indent": "none",
+                  "highlight_effect": "default",
+                  "highlight_accent_color": "",
+                  "highlight_text_color": ""
+                },
+                "blocks": {}
+              },
+              "rich_text_gjQbge": {
+                "type": "rich-text",
+                "name": "t:blocks.rich_text.name",
+                "disabled": true,
+                "settings": {
+                  "text": "<p>Dorotea, 26 - Verified Customer</p>",
+                  "content_width": "sm"
+                },
+                "blocks": {}
+              },
+              "rich_text_d8TxUD": {
+                "type": "rich-text",
+                "settings": {
+                  "text": "<p>I was feeling desperate about red bumps on my legs, but this product made a huge difference after just first few uses. I cannot recommend this scrub enough!</p>",
+                  "content_width": "sm"
+                },
+                "blocks": {}
+              },
+              "accordion_4XG4BR": {
+                "type": "accordion",
+                "name": "t:blocks.accordion.name",
+                "settings": {
+                  "open_by_default": false,
+                  "title": "Cause, Solution & Result",
+                  "uppercase_title": false
+                },
+                "blocks": {
+                  "rich_text_UdRYiP": {
+                    "type": "rich-text",
+                    "settings": {
+                      "text": "<p>Breakouts and uneven tone are often caused by clogged pores, excess oil, and buildup that disrupts skin clarity. This scrub helps reduce congestion, calm active blemishes, and gently fade dark marks over time—leaving skin visibly clearer, smoother, and more balanced.</p>",
+                      "content_width": "sm"
+                    },
+                    "blocks": {}
+                  }
+                },
+                "block_order": [
+                  "rich_text_UdRYiP"
+                ]
+              }
+            },
+            "block_order": [
+              "image_UexERB",
+              "separator_34MFAH",
+              "heading_wYpKRW",
+              "rich_text_gjQbge",
+              "rich_text_d8TxUD",
+              "accordion_4XG4BR"
+            ]
+          },
+          "multi_column_column_fCwqig": {
+            "type": "_multi-column-column",
+            "settings": {
+              "color_scheme": "",
+              "text_alignment": "left"
+            },
+            "blocks": {
+              "image_3FGUaF": {
+                "type": "image",
+                "settings": {
+                  "image": "shopify://shop_images/Untitled_design.jpg",
+                  "max_width": 100,
+                  "mobile_max_width": 100
+                },
+                "blocks": {}
+              },
+              "separator_Th9FcM": {
+                "type": "separator",
+                "name": "t:blocks.separator.name",
+                "settings": {},
+                "blocks": {}
+              },
+              "heading_mPUCcY": {
+                "type": "heading",
+                "settings": {
+                  "text": "Body acne & uneven skin tone",
+                  "heading_size": "h6",
+                  "html_tag": "p",
+                  "indent": "none",
+                  "highlight_effect": "default",
+                  "highlight_accent_color": "",
+                  "highlight_text_color": ""
+                },
+                "blocks": {}
+              },
+              "rich_text_cMhPRQ": {
+                "type": "rich-text",
+                "name": "t:blocks.rich_text.name",
+                "disabled": true,
+                "settings": {
+                  "text": "<p>Dorotea, 26 - Verified Customer</p>",
+                  "content_width": "sm"
+                },
+                "blocks": {}
+              },
+              "rich_text_FzjH4B": {
+                "type": "rich-text",
+                "settings": {
+                  "text": "<p>I was feeling desperate about red bumps on my legs, but this product made a huge difference after just first few uses. I cannot recommend this scrub enough!</p>",
+                  "content_width": "sm"
+                },
+                "blocks": {}
+              },
+              "accordion_8A9UXK": {
+                "type": "accordion",
+                "name": "t:blocks.accordion.name",
+                "settings": {
+                  "open_by_default": false,
+                  "title": "Cause, Solution & Result",
+                  "uppercase_title": false
+                },
+                "blocks": {
+                  "rich_text_9edN4H": {
+                    "type": "rich-text",
+                    "settings": {
+                      "text": "<p>Breakouts and uneven tone are often caused by clogged pores, excess oil, and buildup that disrupts skin clarity. This scrub helps reduce congestion, calm active blemishes, and gently fade dark marks over time—leaving skin visibly clearer, smoother, and more balanced.</p>",
+                      "content_width": "sm"
+                    },
+                    "blocks": {}
+                  }
+                },
+                "block_order": [
+                  "rich_text_9edN4H"
+                ]
+              }
+            },
+            "block_order": [
+              "image_3FGUaF",
+              "separator_Th9FcM",
+              "heading_mPUCcY",
+              "rich_text_cMhPRQ",
+              "rich_text_FzjH4B",
+              "accordion_8A9UXK"
+            ]
+          },
+          "multi_column_column_zXqqKn": {
+            "type": "_multi-column-column",
+            "settings": {
+              "color_scheme": "",
+              "text_alignment": "left"
+            },
+            "blocks": {
+              "image_cxPyVd": {
+                "type": "image",
+                "settings": {
+                  "image": "shopify://shop_images/Untitled_design.jpg",
+                  "max_width": 100,
+                  "mobile_max_width": 100
+                },
+                "blocks": {}
+              },
+              "separator_qLhadw": {
+                "type": "separator",
+                "name": "t:blocks.separator.name",
+                "settings": {},
+                "blocks": {}
+              },
+              "heading_kXyjCr": {
+                "type": "heading",
+                "settings": {
+                  "text": "Body acne & uneven skin tone",
+                  "heading_size": "h6",
+                  "html_tag": "p",
+                  "indent": "none",
+                  "highlight_effect": "default",
+                  "highlight_accent_color": "",
+                  "highlight_text_color": ""
+                },
+                "blocks": {}
+              },
+              "rich_text_UUwjVX": {
+                "type": "rich-text",
+                "name": "t:blocks.rich_text.name",
+                "disabled": true,
+                "settings": {
+                  "text": "<p>Dorotea, 26 - Verified Customer</p>",
+                  "content_width": "sm"
+                },
+                "blocks": {}
+              },
+              "rich_text_DMA4bG": {
+                "type": "rich-text",
+                "settings": {
+                  "text": "<p>I was feeling desperate about red bumps on my legs, but this product made a huge difference after just first few uses. I cannot recommend this scrub enough!</p>",
+                  "content_width": "sm"
+                },
+                "blocks": {}
+              },
+              "accordion_9DymVx": {
+                "type": "accordion",
+                "name": "t:blocks.accordion.name",
+                "settings": {
+                  "open_by_default": false,
+                  "title": "Cause, Solution & Result",
+                  "uppercase_title": false
+                },
+                "blocks": {
+                  "rich_text_w4fPdE": {
+                    "type": "rich-text",
+                    "settings": {
+                      "text": "<p>Breakouts and uneven tone are often caused by clogged pores, excess oil, and buildup that disrupts skin clarity. This scrub helps reduce congestion, calm active blemishes, and gently fade dark marks over time—leaving skin visibly clearer, smoother, and more balanced.</p>",
+                      "content_width": "sm"
+                    },
+                    "blocks": {}
+                  }
+                },
+                "block_order": [
+                  "rich_text_w4fPdE"
+                ]
+              }
+            },
+            "block_order": [
+              "image_cxPyVd",
+              "separator_qLhadw",
+              "heading_kXyjCr",
+              "rich_text_UUwjVX",
+              "rich_text_DMA4bG",
+              "accordion_9DymVx"
+            ]
+          },
+          "section-header": {
+            "type": "_section-header",
+            "static": true,
+            "settings": {
+              "subheading": "Real problems, real results",
+              "title": "The art of transformation",
+              "content": "<p>When your body gets the same treatment as your face, results stop being a maybe.</p>",
+              "button_text": "",
+              "button_link": "",
+              "button_style": "outline",
+              "text_alignment": "left",
+              "heading_size": "h5",
+              "title_icon": "none",
+              "show_scrolling_title": false
+            },
+            "blocks": {}
+          }
+        },
+        "block_order": [
+          "multi_column_column_pPNRMN",
+          "multi_column_column_6k9dfj",
+          "multi_column_column_gW98Ea",
+          "multi_column_column_fCwqig",
+          "multi_column_column_zXqqKn"
+        ],
+        "name": "t:sections.multi_column.name",
+        "settings": {
+          "color_scheme": "",
+          "show_internal_borders": false,
+          "add_horizontal_spacing": true,
+          "add_top_spacing": true,
+          "add_bottom_spacing": true,
+          "items_per_row": 4,
+          "stack_on_mobile": false,
+          "stack_on_desktop": false,
+          "column_spacing": "md",
+          "row_spacing": "md"
+        }
+      },
+      "text_with_fixed_background_6teMJQ": {
+        "type": "text-with-fixed-background",
+        "blocks": {
+          "title_LREq33": {
+            "type": "title",
+            "settings": {
+              "content_position": "md:place-self-start",
+              "subheading": "Philosophy",
+              "title": "Ritual, heritage, and quiet triumph woven into daily practice",
+              "heading_tag": "h5",
+              "highlight_effect": "default",
+              "highlight_accent_color": "",
+              "highlight_text_color": ""
+            }
+          },
+          "content_ewJrB9": {
+            "type": "content",
+            "settings": {
+              "color_scheme": "scheme-3",
+              "content_position": "md:place-self-end-start",
+              "title": "",
+              "content": "<p>Inspired by the resonant sound of the Istrian sopele and grounded in science, each product is a reminder that caring for your skin is both a necessity and a celebration.</p><p>Our philosophy is simple: when ritual meets results, confidence follows. In every formula, in every illustration, and in every moment of care, Sopele is an ode to skin that feels at home, radiant, and worthy of reverence.</p>",
+              "indent_heading": false
+            }
+          }
+        },
+        "block_order": [
+          "title_LREq33",
+          "content_ewJrB9"
+        ],
+        "name": "t:sections.text_with_fixed_background.name",
+        "settings": {
+          "color_scheme": "",
+          "image": "shopify://shop_images/6_1.jpg",
+          "overlay_color": "#000000",
+          "overlay_opacity": 20
+        }
+      }
+    },
+    "order": [
+      "main",
+      "slideshow_b8FxKt",
+      "slideshow_L9RrnX",
+      "multi_column_cMtzV9",
+      "specifications_LjbjpM",
+      "specifications_anHYJQ",
+      "multi_column_7EyiQx",
+      "video_aqmc9q",
+      "rich_text_phR4Gd",
+      "specifications_G8TkqK",
+      "timeline_a7knAt",
+      "multi_column_cNUDxP",
+      "specifications_QCzVjV",
+      "specifications_zhViBK",
+      "specifications_fyy9xX",
+      "products_with_image_LHAzxN",
+      "text_with_icons_HDQ7GQ",
+      "multi_column_RrFhXX",
+      "text_with_fixed_background_6teMJQ"
+    ]
+  }
+  

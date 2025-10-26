@@ -1,1 +1,2865 @@
-{"sections":{"main":{"type":"main-product","blocks":{"vendor":{"type":"vendor","disabled":true,"settings":{}},"badges":{"type":"badges","settings":{}},"title":{"type":"title","settings":{"heading_tag":"h5"}},"text_LiHTnj":{"type":"text","settings":{"text":"<p>200ml \/ 6.7 fl.oz.<\/p>"}},"rating_fzNmaF":{"type":"rating","disabled":true,"settings":{"show_empty":true}},"price":{"type":"price","disabled":true,"settings":{"show_taxes_notice":false}},"separator":{"type":"separator","disabled":true,"settings":{}},"text_HmDbER":{"type":"text","settings":{"text":"<p>Ultra-rich, moisturizing cream that helps maintain skin's moisture levels and provides intensive nourishment to make your skin effortlessly smooth and radiant. It melts into your skin, unveiling a new level of softness, while the delicate fragrance lingers.<\/p>"}},"icons_with_text_yUhqGD":{"type":"icons_with_text","settings":{"items_per_row":1,"icon_1":"shopify:\/\/shop_images\/check-circle-svgrepo-com.svg","icon_1_width":18,"icon_1_text":"Delivers deep, lasting hydration by drawing moisture into every layer of the skin","icon_2":"shopify:\/\/shop_images\/check-circle-svgrepo-com.svg","icon_2_width":18,"icon_2_text":"Strengthens the skin barrier and helps prevent moisture loss","icon_3":"shopify:\/\/shop_images\/check-circle-svgrepo-com.svg","icon_3_width":18,"icon_3_text":"Calms irritation and supports the skin’s natural repair process","icon_4_width":18,"icon_4_text":""}},"separator_9QtAXC":{"type":"separator","settings":{}},"text_EVarbG":{"type":"text","settings":{"text":"<p><strong>Specifically formulated to help with:<\/strong><\/p><p>Dryness, keratosis pilaris, tight skin, flakiness, post-acne marks, rough texture, discoloration, and barrier sensitivity.<\/p>"}},"buy_buttons":{"type":"buy_buttons","settings":{"show_payment_button":false,"show_gift_card_recipient":false,"show_quantity_selector":true,"add_quantity_selector_spacing":true,"atc_button_style":"solid","atc_button_background":"","atc_button_text_color":"","payment_button_background":"","payment_button_text_color":""}},"icons_with_text_LjqkBz":{"type":"icons_with_text","disabled":true,"settings":{"items_per_row":2,"icon_1":"shopify:\/\/shop_images\/croatia.png","icon_1_width":18,"icon_1_text":"Made in Croatia","icon_2":"shopify:\/\/shop_images\/box.png","icon_2_width":18,"icon_2_text":"Free shipping over €100","icon_3_width":18,"icon_3_text":"","icon_4_width":18,"icon_4_text":""}},"description":{"type":"description","disabled":true,"settings":{"collapse_content":false,"uppercase_title":false}},"text_wkpVJL":{"type":"text","disabled":true,"settings":{"text":"<p>Formulated to help with: strawberry skin, body acne, ingrown hairs & more.<\/p>"}},"icons_with_text_38U3hx":{"type":"icons_with_text","disabled":true,"settings":{"items_per_row":2,"icon_1":"shopify:\/\/shop_images\/check-circle-svgrepo-com.svg","icon_1_width":18,"icon_1_text":"Strawberry skin","icon_2":"shopify:\/\/shop_images\/check-circle-svgrepo-com.svg","icon_2_width":18,"icon_2_text":"Ingrown hairs","icon_3":"shopify:\/\/shop_images\/check-circle-svgrepo-com.svg","icon_3_width":18,"icon_3_text":"Body acne","icon_4":"shopify:\/\/shop_images\/check-circle-svgrepo-com.svg","icon_4_width":18,"icon_4_text":"Texture"}},"modal_6V6HAV":{"type":"modal","disabled":true,"settings":{"dialog_type":"modal","button_title":"View more information","button_style":"link","stretch_button":false,"button_background":"","button_text_color":"","modal_title":"Moment of Clarity - Description","modal_content":"<p>Purifying body exfoliating treatment with face-grade ingredients that instantly transforms your skin from rough and bumpy to soft and radiant.<\/p><ul><li>Contains: 12% of all 3 chemical categories<\/li><li>Reduces: current + prevents future breakouts<\/li><li>Removes: buildup and delivers smoother texture<\/li><\/ul>","modal_size":"sm"}},"offers_MfYRpH":{"type":"offers","disabled":true,"settings":{"layout":"stacked","icon_position":"inline","text_alignment":"left","offer_1_icon":"shopify:\/\/shop_images\/check-circle-svgrepo-com.svg","offer_1_icon_width":16,"offer_1_subheading":"Specifically formulated to help with:","offer_1_content":"Strawberry skin, body acne, ingrown hairs & more.","offer_1_background":"#f9f9f9","offer_1_text_color":"#000000","offer_2_icon_width":16,"offer_2_subheading":"","offer_2_content":"","offer_2_background":"#f9f9f9","offer_2_text_color":"#000000","offer_3_icon_width":16,"offer_3_subheading":"","offer_3_content":"","offer_3_background":"#f9f9f9","offer_3_text_color":"#000000"}},"variant_picker":{"type":"variant_picker","disabled":true,"settings":{"hide_sold_out_variants":false,"separate_options":false,"selector_style":"dropdown","swatch_selector_style":"none","swatch_selector_size":"sm","block_selector_style":"outline","variant_image_options":"","size_chart_page":""}},"payment_terms":{"type":"payment_terms","disabled":true,"settings":{}},"accordion_XVExfn":{"type":"accordion","settings":{"title":"Benefits","content":"<p>Silky and fast-absorbing, this cream wraps the skin in lasting moisture and comfort. It delivers multi-layer hydration that draws water in and locks it down, keeping dryness away for hours.<br\/><\/p><p>Over time, it reinforces the skin barrier, restoring softness, reducing moisture loss, and improving resilience. Texture looks more refined and even as rough patches fade and dullness is smoothed away. With consistent use, it soothes irritation, supports skin renewal, and leaves the body visibly healthier, balanced, and glowing.<\/p>","uppercase_title":false,"icon":"none","page":""}},"accordion_nf4VaW":{"type":"accordion","settings":{"title":"How to use","content":"<p>Apply a thin layer to clean, dry skin and gently massage until absorbed. Use all over, from neck to toes, or just where your skin needs extra care. For best results, apply once or twice daily.<br\/><\/p><p>Sopele's tip: To make the scent linger, apply a little extra to pulse points: neck, wrists, and décolleté - where warmth naturally releases the fragrance throughout the day.<\/p>","uppercase_title":false,"icon":"none","page":""}},"accordion_JUNeRe":{"type":"accordion","settings":{"title":"Key ingredients","content":"<p><strong>Hydration Complex<\/strong><br\/><em>Glycerin, Urea, Sodium Hyaluronate, Squalane<\/em><br\/>Delivers multi-layer hydration, softens rough areas, and locks in moisture for long-lasting<br\/>comfort and smooth, supple skin.<br\/><\/p><p><strong>Barrier & Skin Strengthening<\/strong><br\/><em>Niacinamide, Murumuru Butter, Ceramide Complex<\/em><br\/>Reinforces and restores the skin’s protective barrier, reducing moisture loss, soothing irritation, and improving texture for stronger, healthier-looking skin.<br\/><\/p><p><strong>Texture Refining & Renewal<\/strong><br\/><em>LIPO AHA (C12-13 Alkyl Lactate), Centella Asiatica, Licorice Root Extract, Bifida Ferment<br\/><\/em>Gently refines texture, smooths bumps, and supports skin renewal while calming and balancing sensitive or stressed skin.<\/p>","uppercase_title":false,"icon":"none","page":""}},"accordion_LPPmzd":{"type":"accordion","settings":{"title":"Fragrance profile","content":"<p>Familiar, but impossible to place. The glow of bergamot and rose fades into jasmine and caramel. Everything opens slowly, softly - a bloom on warm skin. The base hums with sandalwood, musk, and vanilla.<br\/><br\/>Top notes: Bergamot, Dewberry, Rose<br\/><\/p><p>Heart notes: Caramel, Patchouli, Jasmine, Lily of the Valley<br\/><\/p><p>Base notes: Vanilla, Musk, Sandalwood<br\/><\/p>","uppercase_title":false,"icon":"none","page":""}},"accordion_zgq3tk":{"type":"accordion","disabled":true,"settings":{"title":"Consumer study","content":"<p>Share some content to your customers about your products.<\/p>","uppercase_title":false,"icon":"none","page":""}},"offers_LKMH6H":{"type":"offers","settings":{"layout":"carousel","icon_position":"inline","text_alignment":"left","offer_1_icon_width":16,"offer_1_subheading":"After 2 weeks — 97%","offer_1_content":"noticed visibly smoother skin and reduced rough texture","offer_1_background":"#f9f9f9","offer_1_text_color":"#000000","offer_2_icon_width":16,"offer_2_subheading":"After 4 weeks — 94%","offer_2_content":"saw a reduction in red bumps, ingrowns, or clogged pores","offer_2_background":"#f9f9f9","offer_2_text_color":"#000000","offer_3_icon_width":16,"offer_3_subheading":"91%","offer_3_content":"reported a more even tone and clearer-looking skin","offer_3_background":"#f9f9f9","offer_3_text_color":"#000000"}},"modal_XRDjBR":{"type":"modal","settings":{"dialog_type":"modal","button_title":"View full consumer study statistics","button_style":"outline","stretch_button":true,"button_background":"","button_text_color":"","modal_title":"Consumer study results","modal_content":"<p>First use:<\/p><ul><li>97% said that it makes that skin extremely soft<\/li><li>94% said that it gives them instant glow<\/li><li>91% said that it helps with their skin concern<\/li><\/ul><p>After 2 weeks:<\/p><ul><li>97% said that it makes that skin extremely soft<\/li><li>94% said that it gives them instant glow<\/li><li>91% said that it helps with their skin concern<\/li><\/ul><p>After 4 weeks:<\/p><ul><li>97% said that it makes that skin extremely soft<\/li><li>94% said that it gives them instant glow<\/li><li>91% said that it helps with their skin concern<\/li><\/ul><p><\/p><p><em>*Based on a 4-week study of 35 participants evaluating skin clarity, smoothness, and tone through weekly progress tracking. <\/em><\/p>","modal_size":"sm"}},"complementary_products_fUt9Cg":{"type":"complementary_products","settings":{"title":"Complete your routine","products_count":10}}},"block_order":["vendor","badges","title","text_LiHTnj","rating_fzNmaF","price","separator","text_HmDbER","icons_with_text_yUhqGD","separator_9QtAXC","text_EVarbG","buy_buttons","icons_with_text_LjqkBz","description","text_wkpVJL","icons_with_text_38U3hx","modal_6V6HAV","offers_MfYRpH","variant_picker","payment_terms","accordion_XVExfn","accordion_nf4VaW","accordion_JUNeRe","accordion_LPPmzd","accordion_zgq3tk","offers_LKMH6H","modal_XRDjBR","complementary_products_fUt9Cg"],"settings":{"color_scheme":"scheme-1","allow_transparent_header":true,"transparent_header_use_primary_colors":true,"add_top_spacing":true,"show_sticky_add_to_cart":false,"product_media_size":50,"content_alignment":"left","desktop_media_layout":"carousel","desktop_carousel_controls":"thumbnails_under","mobile_controls":"dots","enable_media_autoplay":true,"enable_video_looping":true,"enable_image_zoom":true,"max_image_zoom_level":3}},"related-products":{"type":"related-products","blocks":{"section-header":{"type":"_section-header","static":true,"settings":{"subheading":"","title":"Related products","content":"","button_text":"","button_link":"","button_style":"outline","text_alignment":"left","heading_size":"h3","title_icon":"none","show_scrolling_title":false},"blocks":{}}},"disabled":true,"settings":{"color_scheme":"","stack_products":true,"recommendations_count":4,"products_per_row_mobile":"1","products_per_row_desktop":4,"show_view_all_button":true,"show_scrolling_bar":true}},"specifications_Yx4M4E":{"type":"specifications","blocks":{"attribute_KFrLUe":{"type":"attribute","settings":{"icon":"none","title":"Arms & Legs","content":"<p>Dry patches, rough texture, sensitivity<\/p>"}},"attribute_kqpxgG":{"type":"attribute","settings":{"icon":"none","title":"Bikini & Booty","content":"<p>Post-shave irritation, hyperpigmentation, dryness<\/p>"}},"attribute_nh4EM3":{"type":"attribute","settings":{"icon":"none","title":"Back & Chest","content":"<p>Dehydrated skin, flakiness, dark marks, barrier repair<\/p>"}}},"block_order":["attribute_KFrLUe","attribute_kqpxgG","attribute_nh4EM3"],"name":"t:sections.specifications.name","settings":{"color_scheme":"scheme-1","image":"shopify:\/\/shop_images\/IMG_0354_2.jpg","layout":"stacked","add_image_spacing":false,"image_position":"start","subheading":"Body skincare, facial standards","title":"The softest touch your skin has ever felt","heading_size":"h4","content":"<p>Formulated with facial-grade actives to refine rough skin, replenish moisture, and even tone - delivering a silky-soft finish that absorbs instantly and never feels greasy.<\/p>","collapse_attributes":false,"show_attribute_icon_on_top":false,"uppercase_attribute_title":false}},"timeline_xzgwRX":{"type":"timeline","blocks":{"item_EfHbJJ":{"type":"item","settings":{"image":"shopify:\/\/shop_images\/image_5.jpg","label":"BACK","subheading":"Hydrates deeply and smooths persistent roughness","icon":"none","icon_width":32,"mobile_icon_width":24,"title":"Back, but better.","heading_tag":"h4","highlight_effect":"default","content":"<p>Softens, hydrates, and visibly improves texture and tone without residue.<\/p>"}},"item_6JArj6":{"type":"item","settings":{"label":"CHEST","subheading":"Leaves your skin supple, balanced, and visibly smoother.","icon":"none","icon_width":32,"mobile_icon_width":24,"title":"Chest tone corrected","heading_tag":"h4","highlight_effect":"default","content":"<p>Designed to reduce dryness, irritation, and uneven tone where skin is thinnest and most reactive.<\/p>"}},"item_dpegQf":{"type":"item","settings":{"label":"ARMS","subheading":"Hydrates deeply and smooths persistent roughness","icon":"none","icon_width":32,"mobile_icon_width":24,"title":"Arms, softened and even","heading_tag":"h4","highlight_effect":"default","content":"<p>Restores moisture and visibly improves the texture of dry, bumpy skin - especially where keratosis pilaris shows.<\/p>"}},"item_QdNGnY":{"type":"item","settings":{"label":"LEGS","subheading":"Replenishes hydration and improves tone without residue","icon":"none","icon_width":32,"mobile_icon_width":24,"title":"Legs that stay soft, not sticky","heading_tag":"h4","highlight_effect":"default","content":"<p>Melts into skin to relieve dryness, smooth flaky patches, and enhance glow—no greasiness, no transfer.<\/p>"}},"item_DWqLqn":{"type":"item","settings":{"label":"BIKINI","subheading":"Carefully formulated to reduce irritation and dryness in the most sensitive, reactive area.","icon":"none","icon_width":32,"mobile_icon_width":24,"title":"Smooth bikini zone","heading_tag":"h4","highlight_effect":"default","content":"<p>Hydrates and calms the skin while improving tone and reducing visible irritation over time.<\/p>"}},"item_eikPq4":{"type":"item","settings":{"label":"BOOTY","subheading":"Smooths dry texture and restores bounce","icon":"none","icon_width":32,"mobile_icon_width":24,"title":"Clearer. Softer. Booty.","heading_tag":"h4","highlight_effect":"default","content":"<p>Addresses congestion, dryness, and shadowy pigmentation caused by friction, sitting, and post-<br\/>acne scarring.<\/p>"}}},"block_order":["item_EfHbJJ","item_6JArj6","item_dpegQf","item_QdNGnY","item_DWqLqn","item_eikPq4"],"name":"t:sections.timeline.name","settings":{"color_scheme":"scheme-2","timeline_position":"left","image_position":"right","text_alignment":"center","add_image_spacing":false}},"dynamic_grid_T3P9b7":{"type":"dynamic-grid","blocks":{"dynamic_grid_item_mRzbmN":{"type":"_dynamic-grid-item","settings":{"visibility":"both","text_alignment":"center","desktop_row_start":6,"desktop_column_start":6,"desktop_column_end":12,"desktop_horizontal_adjustment":0,"desktop_vertical_adjustment":0,"mobile_row_start":9,"mobile_column_start":1,"mobile_column_end":6,"mobile_horizontal_adjustment":0,"mobile_vertical_adjustment":0,"parallax_speed":0,"parallax_direction":"vertical"},"blocks":{"rich_text_XNRFmC":{"type":"rich-text","settings":{"text":"<p>What’s considered exceptional for the face is now foundational for the body, with potent actives in elevated concentrations setting a new standard in body care.<\/p>","content_width":"sm"},"blocks":{}}},"block_order":["rich_text_XNRFmC"]},"dynamic_grid_item_FCxrKj":{"type":"_dynamic-grid-item","settings":{"visibility":"both","text_alignment":"left","desktop_row_start":1,"desktop_column_start":3,"desktop_column_end":4,"desktop_horizontal_adjustment":0,"desktop_vertical_adjustment":0,"mobile_row_start":1,"mobile_column_start":1,"mobile_column_end":2,"mobile_horizontal_adjustment":0,"mobile_vertical_adjustment":0,"parallax_speed":0,"parallax_direction":"vertical"},"blocks":{"image_with_caption_jNLa3h":{"type":"image-with-caption","settings":{"image":"shopify:\/\/shop_images\/IMG_4493.png","caption":"","max_width":100,"mobile_max_width":100},"blocks":{}}},"block_order":["image_with_caption_jNLa3h"]},"dynamic_grid_item_DXcFkn":{"type":"_dynamic-grid-item","settings":{"visibility":"both","text_alignment":"left","desktop_row_start":1,"desktop_column_start":15,"desktop_column_end":16,"desktop_horizontal_adjustment":0,"desktop_vertical_adjustment":0,"mobile_row_start":1,"mobile_column_start":6,"mobile_column_end":8,"mobile_horizontal_adjustment":0,"mobile_vertical_adjustment":0,"parallax_speed":0,"parallax_direction":"vertical"},"blocks":{"image_with_caption_gttBQ9":{"type":"image-with-caption","settings":{"image":"shopify:\/\/shop_images\/IMG_4494.png","caption":"","max_width":100,"mobile_max_width":100},"blocks":{}}},"block_order":["image_with_caption_gttBQ9"]},"dynamic_grid_item_6ffmDz":{"type":"_dynamic-grid-item","settings":{"visibility":"both","text_alignment":"left","desktop_row_start":3,"desktop_column_start":1,"desktop_column_end":3,"desktop_horizontal_adjustment":0,"desktop_vertical_adjustment":0,"mobile_row_start":12,"mobile_column_start":1,"mobile_column_end":3,"mobile_horizontal_adjustment":0,"mobile_vertical_adjustment":0,"parallax_speed":0,"parallax_direction":"vertical"},"blocks":{"image_with_caption_Yc3Rpc":{"type":"image-with-caption","settings":{"image":"shopify:\/\/shop_images\/IMG_4495.png","caption":"","max_width":100,"mobile_max_width":100},"blocks":{}}},"block_order":["image_with_caption_Yc3Rpc"]},"dynamic_grid_item_TDgjQp":{"type":"_dynamic-grid-item","settings":{"visibility":"both","text_alignment":"left","desktop_row_start":3,"desktop_column_start":12,"desktop_column_end":14,"desktop_horizontal_adjustment":0,"desktop_vertical_adjustment":0,"mobile_row_start":8,"mobile_column_start":6,"mobile_column_end":8,"mobile_horizontal_adjustment":0,"mobile_vertical_adjustment":0,"parallax_speed":0,"parallax_direction":"vertical"},"blocks":{"image_with_caption_GwGW6m":{"type":"image-with-caption","settings":{"image":"shopify:\/\/shop_images\/IMG_4491.png","caption":"","max_width":100,"mobile_max_width":100},"blocks":{}}},"block_order":["image_with_caption_GwGW6m"]},"dynamic_grid_item_LWjBHN":{"type":"_dynamic-grid-item","settings":{"visibility":"both","text_alignment":"left","desktop_row_start":2,"desktop_column_start":5,"desktop_column_end":15,"desktop_horizontal_adjustment":0,"desktop_vertical_adjustment":0,"mobile_row_start":4,"mobile_column_start":1,"mobile_column_end":8,"mobile_horizontal_adjustment":0,"mobile_vertical_adjustment":0,"parallax_speed":0,"parallax_direction":"vertical"},"blocks":{"dynamic_grid_heading_JhKTxH":{"type":"_dynamic-grid-heading","settings":{"text":"When your body gets the same treatment as your face, results stop being a maybe.","show_text_vertically":false,"font_size_desktop":5,"font_size_mobile":10,"font_size_line_height":1,"html_tag":"p","indent":"none","highlight_effect":"default","highlight_accent_color":"","highlight_text_color":""},"blocks":{}}},"block_order":["dynamic_grid_heading_JhKTxH"]}},"block_order":["dynamic_grid_item_mRzbmN","dynamic_grid_item_FCxrKj","dynamic_grid_item_DXcFkn","dynamic_grid_item_6ffmDz","dynamic_grid_item_TDgjQp","dynamic_grid_item_LWjBHN"],"disabled":true,"name":"t:sections.dynamic_grid.name","settings":{"color_scheme":"scheme-1","allow_transparent_header":true,"show_background_image_parallax":false,"add_vertical_spacing":true,"add_horizontal_spacing":true,"gap":16,"mobile_gap":10,"overlay_color":"#000000","overlay_opacity":20}},"multi_column_rQEjUR":{"type":"multi-column","blocks":{"multi_column_column_NCFtCm":{"type":"_multi-column-column","settings":{"color_scheme":"","text_alignment":"left"},"blocks":{"image_wMkDiw":{"type":"image","settings":{"image":"shopify:\/\/shop_images\/before_after_test.png","max_width":100,"mobile_max_width":100},"blocks":{}},"heading_tgyMLR":{"type":"heading","settings":{"text":"Strawberry skin & texture","heading_size":"h5","html_tag":"p","indent":"none","highlight_effect":"default","highlight_accent_color":"","highlight_text_color":""},"blocks":{}},"rich_text_xDbFmn":{"type":"rich-text","name":"t:blocks.rich_text.name","settings":{"text":"<p>Martina, 26 - Consumer study <\/p>","content_width":"sm"},"blocks":{}},"rich_text_Ngia74":{"type":"rich-text","settings":{"text":"<p>I was feeling desperate about red bumps on my legs, but this product made a huge difference after just first few uses. I cannot recommend this scrub enough!<\/p>","content_width":"sm"},"blocks":{}},"accordion_Hydk8F":{"type":"accordion","name":"t:blocks.accordion.name","settings":{"open_by_default":false,"title":"Cause, Solution & Result","uppercase_title":false},"blocks":{"rich_text_7wAJNQ":{"type":"rich-text","settings":{"text":"<p>Strawberry skin is caused by clogged pores and keratin buildup, leading to small red or dark bumps, typically on the legs and arms. This scrub gently resurfaces textured skin, clears buildup, and helps smooth and soften rough patches. With consistent use, it visibly reduces bumps and reveals clearer, more even-toned skin.<\/p>","content_width":"sm"},"blocks":{}}},"block_order":["rich_text_7wAJNQ"]}},"block_order":["image_wMkDiw","heading_tgyMLR","rich_text_xDbFmn","rich_text_Ngia74","accordion_Hydk8F"]},"multi_column_column_xPMDPa":{"type":"_multi-column-column","settings":{"color_scheme":"","text_alignment":"left"},"blocks":{"image_3QTrGp":{"type":"image","settings":{"image":"shopify:\/\/shop_images\/before_after_test.png","max_width":100,"mobile_max_width":100},"blocks":{}},"heading_KmVbny":{"type":"heading","settings":{"text":"Ingrown hairs & dark spots","heading_size":"h5","html_tag":"p","indent":"none","highlight_effect":"default","highlight_accent_color":"","highlight_text_color":""},"blocks":{}},"rich_text_LmH8nD":{"type":"rich-text","name":"t:blocks.rich_text.name","settings":{"text":"<p>Sanja, 36 - Verified Customer<\/p>","content_width":"sm"},"blocks":{}},"rich_text_KRwmDR":{"type":"rich-text","settings":{"text":"<p>I was feeling desperate about red bumps on my legs, but this product made a huge difference after just first few uses. I cannot recommend this scrub enough!<\/p>","content_width":"sm"},"blocks":{}},"accordion_MRPrEe":{"type":"accordion","name":"t:blocks.accordion.name","settings":{"open_by_default":false,"title":"Cause, Solution & Result","uppercase_title":false},"blocks":{"rich_text_8nrgeP":{"type":"rich-text","settings":{"text":"<p>Ingrown hairs form when dead skin builds up and traps the hair beneath the surface, often leading to inflammation, bumps, and post-shave marks. Over time, this can leave behind dark spots and uneven tone. This scrub helps by gently exfoliating the skin’s surface, clearing buildup, and supporting healthy cell turnover. The result is smoother skin, fewer ingrowns, and visibly brighter, more even tone over time.<\/p>","content_width":"sm"},"blocks":{}}},"block_order":["rich_text_8nrgeP"]}},"block_order":["image_3QTrGp","heading_KmVbny","rich_text_LmH8nD","rich_text_KRwmDR","accordion_MRPrEe"]},"multi_column_column_jb8kBG":{"type":"_multi-column-column","settings":{"color_scheme":"","text_alignment":"left"},"blocks":{"image_UdBRWc":{"type":"image","settings":{"image":"shopify:\/\/shop_images\/before_after_test.png","max_width":100,"mobile_max_width":100},"blocks":{}},"heading_neWahn":{"type":"heading","settings":{"text":"Body acne & uneven skin tone","heading_size":"h5","html_tag":"p","indent":"none","highlight_effect":"default","highlight_accent_color":"","highlight_text_color":""},"blocks":{}},"rich_text_AnBUdV":{"type":"rich-text","name":"t:blocks.rich_text.name","settings":{"text":"<p>Dorotea, 26 - Verified Customer<\/p>","content_width":"sm"},"blocks":{}},"rich_text_B8Jw4T":{"type":"rich-text","settings":{"text":"<p>I was feeling desperate about red bumps on my legs, but this product made a huge difference after just first few uses. I cannot recommend this scrub enough!<\/p>","content_width":"sm"},"blocks":{}},"accordion_wX9c7n":{"type":"accordion","name":"t:blocks.accordion.name","settings":{"open_by_default":false,"title":"Cause, Solution & Result","uppercase_title":false},"blocks":{"rich_text_aVmgBt":{"type":"rich-text","settings":{"text":"<p>Breakouts and uneven tone are often caused by clogged pores, excess oil, and buildup that disrupts skin clarity. This scrub helps reduce congestion, calm active blemishes, and gently fade dark marks over time—leaving skin visibly clearer, smoother, and more balanced.<\/p>","content_width":"sm"},"blocks":{}}},"block_order":["rich_text_aVmgBt"]}},"block_order":["image_UdBRWc","heading_neWahn","rich_text_AnBUdV","rich_text_B8Jw4T","accordion_wX9c7n"]},"section-header":{"type":"_section-header","static":true,"settings":{"subheading":"Real problems, real results","title":"When your body gets the same treatment as your face, results stop being a maybe.","content":"","button_text":"","button_link":"","button_style":"outline","text_alignment":"left","heading_size":"h4","title_icon":"none","show_scrolling_title":false},"blocks":{}}},"block_order":["multi_column_column_NCFtCm","multi_column_column_xPMDPa","multi_column_column_jb8kBG"],"name":"t:sections.multi_column.name","settings":{"color_scheme":"","show_internal_borders":false,"add_horizontal_spacing":true,"add_top_spacing":true,"add_bottom_spacing":true,"items_per_row":3,"stack_on_mobile":false,"stack_on_desktop":true,"column_spacing":"md","row_spacing":"md"}},"text_with_icons_WVdHJP":{"type":"text-with-icons","blocks":{"item_NfYC9t":{"type":"item","settings":{"icon":"none","title":"97%","heading_tag":"h3","content":"<p>noticed visibly smoother skin and reduced rough texture<\/p>"}},"item_WUxhQf":{"type":"item","settings":{"icon":"none","title":"94%","heading_tag":"h3","content":"<p>saw a reduction in red bumps, ingrowns, or clogged pores<\/p>"}},"item_gfHa3V":{"type":"item","settings":{"icon":"none","title":"91%","heading_tag":"h3","content":"<p>reported a more even tone and clearer-looking skin<\/p>"}}},"block_order":["item_NfYC9t","item_WUxhQf","item_gfHa3V"],"disabled":true,"name":"t:sections.text_with_icons.name","settings":{"color_scheme":"scheme-2","subheading":"","title":"Consumer study results","content":"<p>A 4-week study of 30 participants evaluating skin clarity, smoothness, and tone through weekly progress tracking. <\/p>","heading_tag":"h4","text_alignment":"center","items_per_row_desktop":3,"stack_on_mobile":true,"separator_style":"horizontal","icon_position":"stacked","icon_width":36,"mobile_icon_width":32,"item_text_alignment":"left"}},"specifications_eNcJTp":{"type":"specifications","blocks":{"attribute_xFxiDa":{"type":"attribute","settings":{"icon":"none","title":"97%","content":"<p>noticed visibly smoother skin and reduced rough texture<\/p>"}},"attribute_WwKLKQ":{"type":"attribute","settings":{"icon":"none","title":"94%","content":"<p>saw a reduction in red bumps, ingrowns, or clogged pores<\/p>"}},"attribute_bqxeAi":{"type":"attribute","settings":{"icon":"none","title":"91%","content":"<p>reported a more even tone and clearer-looking skin<\/p>"}}},"block_order":["attribute_xFxiDa","attribute_WwKLKQ","attribute_bqxeAi"],"disabled":true,"name":"t:sections.specifications.name","settings":{"color_scheme":"","layout":"split","add_image_spacing":false,"image_position":"start","subheading":"Learn more","title":"Specifications","heading_size":"h3","content":"<p>Add specification attributes to help your customers choose the most appropriate product or to share brand values.<\/p>","collapse_attributes":false,"show_attribute_icon_on_top":false,"uppercase_attribute_title":false}},"testimonials_yatPCz":{"type":"testimonials","blocks":{"testimonial_ENnqnW":{"type":"testimonial","settings":{"image":"shopify:\/\/shop_images\/before_after_test.png","show_rating":true,"rating":5,"author":"John S.","title":"Share a testimonial about your product or services and highlight your brand's strengths.","heading_tag":"h3","product":"","position":"place-self-start"}},"testimonial_rFXAbU":{"type":"testimonial","settings":{"show_rating":false,"rating":5,"author":"Mary U.","title":"Share a testimonial about your product or services and highlight your brand's strengths.","heading_tag":"h3","product":"","position":"place-self-start"}},"testimonial_w3LjJJ":{"type":"testimonial","settings":{"show_rating":false,"rating":4,"author":"Joshua A.","title":"Share a testimonial about your product or services and highlight your brand's strengths.","heading_tag":"h3","product":"","position":"place-self-start"}}},"block_order":["testimonial_ENnqnW","testimonial_rFXAbU","testimonial_w3LjJJ"],"disabled":true,"name":"t:sections.testimonials.name","settings":{"color_scheme":"","text_alignment":"left","image_position":"start","autoplay":true,"cycle_speed":6}},"multi_column_X6LX8q":{"type":"multi-column","blocks":{"multi_column_column_AXCyAJ":{"type":"_multi-column-column","settings":{"color_scheme":"","text_alignment":"left"},"blocks":{"image_KGpdhn":{"type":"image","settings":{"image":"shopify:\/\/shop_images\/IMG_6547_52a9a9b2-a967-4cf0-ac32-0d8fe5a49df3.jpg","max_width":100,"mobile_max_width":100},"blocks":{}},"heading_bwjyAL":{"type":"heading","settings":{"text":"Treats current and prevents future breakouts","heading_size":"h4","html_tag":"p","indent":"none","highlight_effect":"default","highlight_accent_color":"","highlight_text_color":""},"blocks":{}},"rich_text_PYmDyU":{"type":"rich-text","settings":{"text":"<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>","content_width":"sm"},"blocks":{}}},"block_order":["image_KGpdhn","heading_bwjyAL","rich_text_PYmDyU"]},"multi_column_column_x9WxzM":{"type":"_multi-column-column","settings":{"color_scheme":"","text_alignment":"left"},"blocks":{"image_VcANjD":{"type":"image","settings":{"image":"shopify:\/\/shop_images\/IMG_6311_218167a5-7d65-47d7-928b-2456607bc09b.jpg","max_width":100,"mobile_max_width":100},"blocks":{}},"heading_9yCGRE":{"type":"heading","settings":{"text":"Unclogs pores and sheds dead skin cells","heading_size":"h4","html_tag":"p","indent":"none","highlight_effect":"default","highlight_accent_color":"","highlight_text_color":""},"blocks":{}},"rich_text_Pb8Jph":{"type":"rich-text","settings":{"text":"<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>","content_width":"sm"},"blocks":{}}},"block_order":["image_VcANjD","heading_9yCGRE","rich_text_Pb8Jph"]},"multi_column_column_YcWJfk":{"type":"_multi-column-column","settings":{"color_scheme":"","text_alignment":"left"},"blocks":{"image_yWq37X":{"type":"image","settings":{"image":"shopify:\/\/shop_images\/IMG_6545.jpg","max_width":100,"mobile_max_width":100},"blocks":{}},"heading_Gq3PXK":{"type":"heading","settings":{"text":"Instantly hydrates and smoothes","heading_size":"h4","html_tag":"p","indent":"none","highlight_effect":"default","highlight_accent_color":"","highlight_text_color":""},"blocks":{}},"rich_text_Xt6HcJ":{"type":"rich-text","settings":{"text":"<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>","content_width":"sm"},"blocks":{}}},"block_order":["image_yWq37X","heading_Gq3PXK","rich_text_Xt6HcJ"]},"section-header":{"type":"_section-header","static":true,"settings":{"subheading":"","title":"More than a scrub. More than a mask.","content":"<p>Use this content to share information about your store and products.<\/p>","button_text":"","button_link":"","button_style":"outline","text_alignment":"left","heading_size":"h3","title_icon":"none","show_scrolling_title":false},"blocks":{}}},"block_order":["multi_column_column_AXCyAJ","multi_column_column_x9WxzM","multi_column_column_YcWJfk"],"disabled":true,"name":"t:sections.multi_column.name","settings":{"color_scheme":"","show_internal_borders":false,"add_horizontal_spacing":true,"add_top_spacing":true,"add_bottom_spacing":true,"items_per_row":3,"stack_on_mobile":false,"stack_on_desktop":true,"column_spacing":"md","row_spacing":"md"}},"specifications_A8d3eb":{"type":"specifications","blocks":{"attribute_AVjdpU":{"type":"attribute","settings":{"icon":"picto-checked","title":"Restores moisture and repairs the skin barrier","content":"<p>Urea, ceramides, and postbiotics work together to deeply hydrate and strengthen the skin’s protective barrier - relieving dryness and restoring balance.<\/p>"}},"attribute_fYrpxF":{"type":"attribute","settings":{"icon":"picto-checked","title":"Smooths texture and softens rough patches","content":"<ul><li>Removes any buildup and purifies pores to reduce the visible appearance of blemishes<\/li><li>Effectively restores balance to the skin's<br\/>natural oils for a clarified complexion appearance<\/li><li>Exfoliates by breaking down the material that holds dead skin together, allowing it to shed naturally as it once did<\/li><\/ul>"}},"attribute_pgbnFw":{"type":"attribute","settings":{"icon":"picto-checked","title":"Reveals a smoother and glowing complexion","content":"<ul><li>Beyond exfoliation, this formula nourishes and replenishes moisture to keep your skin soft and prepped for the next steps in<br\/>your routine<\/li><li>Prepares skin to better absorb the rest of your regimen, making every product and ingredient that follows more effective<\/li><li>Has significant calming properties and increases skin’s hydration that enhance the result of smooth, soft skin<\/li><\/ul>"}}},"block_order":["attribute_AVjdpU","attribute_fYrpxF","attribute_pgbnFw"],"name":"t:sections.specifications.name","settings":{"color_scheme":"scheme-2","image":"shopify:\/\/shop_images\/IMG_5823_2.jpg","layout":"split","add_image_spacing":false,"image_position":"start","subheading":"Velvety-soft and irresistibly smooth","title":"For softer, smoother skin from the neck down.","heading_size":"h4","content":"<p>Combines barrier-repairing and skin-smoothing ingredients in their most effective forms for visible transformation.<\/p>","collapse_attributes":true,"show_attribute_icon_on_top":false,"uppercase_attribute_title":false}},"multi_column_3RUrGQ":{"type":"multi-column","blocks":{"multi_column_column_WVG37z":{"type":"_multi-column-column","settings":{"color_scheme":"","text_alignment":"left"},"blocks":{"image_URhPYE":{"type":"image","settings":{"image":"shopify:\/\/shop_images\/IMG_9734.jpg","max_width":100,"mobile_max_width":100},"blocks":{}},"subheading_tYY3Rp":{"type":"subheading","name":"t:blocks.subheading.name","settings":{"text":"01"},"blocks":{}},"heading_H7w4DC":{"type":"heading","settings":{"text":"Apply to clean skin","heading_size":"h5","html_tag":"p","indent":"none","highlight_effect":"default","highlight_accent_color":"","highlight_text_color":""},"blocks":{}},"rich_text_PHq9fD":{"type":"rich-text","settings":{"text":"<p>Apply right after showering, while skin is still warm and damp. Damp skin enhances absorption and ingredient delivery - applying to dry skin creates a barrier that reduces effectiveness.<\/p>","content_width":"sm"},"blocks":{}}},"block_order":["image_URhPYE","subheading_tYY3Rp","heading_H7w4DC","rich_text_PHq9fD"]},"multi_column_column_M48U9n":{"type":"_multi-column-column","settings":{"color_scheme":"","text_alignment":"left"},"blocks":{"image_3BkA3X":{"type":"image","settings":{"image":"shopify:\/\/shop_images\/IMG_0370_2.jpg","max_width":100,"mobile_max_width":100},"blocks":{}},"subheading_3mz77K":{"type":"subheading","name":"t:blocks.subheading.name","settings":{"text":"02"},"blocks":{}},"heading_YWkfJV":{"type":"heading","settings":{"text":"Your last layer","heading_size":"h5","html_tag":"p","indent":"none","highlight_effect":"default","highlight_accent_color":"","highlight_text_color":""},"blocks":{}},"rich_text_dpw74w":{"type":"rich-text","settings":{"text":"<p>Massage in as your final step. It locks in moisture, soothes and reinforces barrier function like a soft, invisible shield for your skin.<\/p>","content_width":"sm"},"blocks":{}}},"block_order":["image_3BkA3X","subheading_3mz77K","heading_YWkfJV","rich_text_dpw74w"]},"multi_column_column_RyMKrR":{"type":"_multi-column-column","settings":{"color_scheme":"","text_alignment":"left"},"blocks":{"image_MmjR66":{"type":"image","settings":{"image":"shopify:\/\/shop_images\/IMG_0353.jpg","max_width":100,"mobile_max_width":100},"blocks":{}},"subheading_FhCWFL":{"type":"subheading","name":"t:blocks.subheading.name","settings":{"text":"03"},"blocks":{}},"heading_LPxLgp":{"type":"heading","settings":{"text":"Consistency is key","heading_size":"h5","html_tag":"p","indent":"none","highlight_effect":"default","highlight_accent_color":"","highlight_text_color":""},"blocks":{}},"rich_text_m4xXLd":{"type":"rich-text","settings":{"text":"<p>Your skin responds the moment you care for it but it’s the rituals you return to that create lasting results. Keep coming back to what works, and let the rest take care of itself.<\/p>","content_width":"sm"},"blocks":{}}},"block_order":["image_MmjR66","subheading_FhCWFL","heading_LPxLgp","rich_text_m4xXLd"]},"section-header":{"type":"_section-header","static":true,"settings":{"subheading":"","title":"How to use","content":"","button_text":"","button_link":"","button_style":"outline","text_alignment":"left","heading_size":"h4","title_icon":"none","show_scrolling_title":false},"blocks":{}}},"block_order":["multi_column_column_WVG37z","multi_column_column_M48U9n","multi_column_column_RyMKrR"],"name":"t:sections.multi_column.name","settings":{"color_scheme":"","show_internal_borders":false,"add_horizontal_spacing":true,"add_top_spacing":true,"add_bottom_spacing":true,"items_per_row":3,"stack_on_mobile":false,"stack_on_desktop":true,"column_spacing":"md","row_spacing":"md"}},"specifications_YyBUQE":{"type":"specifications","blocks":{"attribute_gP9YJh":{"type":"attribute","settings":{"icon":"none","title":"Top Notes","content":"<p>Bergamot, Dewberry, Rose<\/p>"}},"attribute_WTMtTK":{"type":"attribute","settings":{"icon":"none","title":"Middle Notes","content":"<p>Caramel, Patchouli, Jasmine, Lily of the Valley<\/p>"}},"attribute_BTPaDC":{"type":"attribute","settings":{"icon":"none","title":"Dry-down Notes","content":"<p>Vanilla, Musk, Sandalwood<\/p>"}}},"block_order":["attribute_gP9YJh","attribute_WTMtTK","attribute_BTPaDC"],"name":"t:sections.specifications.name","settings":{"color_scheme":"scheme-2","image":"shopify:\/\/shop_images\/IMG_6399.jpg","layout":"stacked","add_image_spacing":false,"image_position":"start","subheading":"Fragrance profile","title":"Velvet meets vanilla","heading_size":"h4","content":"<p>A soft-spoken seduction: rose and dewberry drift into a heart of caramel and jasmine, finishing with vanilla and sandalwood that lingers like golden hour. Familiar, but impossible to place.<\/p>","collapse_attributes":false,"show_attribute_icon_on_top":false,"uppercase_attribute_title":false}},"text_with_icons_NGPqJG":{"type":"text-with-icons","blocks":{"item_TyniXP":{"type":"item","settings":{"icon":"picto-heart","title":"Salicylic, Glycolic & Lactic Acids","heading_tag":"h6","content":"<p>Free worldwide shipping and returns - customs and duties taxes included<\/p>"}},"item_PDa7XW":{"type":"item","settings":{"icon":"none","title":"Kaolin Clay, Volcanic Sand & Volcanic Pumice","heading_tag":"h6","content":"<p>We are available from monday to friday to answer your questions.<\/p>"}},"item_e47HrC":{"type":"item","settings":{"icon":"none","title":"Colloidal Oatmeal, Prickley Pear Extract, Black and Green Tea Ferment","heading_tag":"h6","content":"<p>Your payment information is processed securely.<\/p>"}},"item_VQQVAn":{"type":"item","settings":{"icon":"none","title":"Sodium Hyaluronate, Centella Asiatica & Allantoin","heading_tag":"h6","content":"<p>Enjoy a 30-day money-back guarantee for a risk-free shopping experience.<\/p>"}}},"block_order":["item_TyniXP","item_PDa7XW","item_e47HrC","item_VQQVAn"],"disabled":true,"name":"t:sections.text_with_icons.name","settings":{"color_scheme":"scheme-4","subheading":"","title":"Key ingredients","content":"<p>Every ingredient is chosen for a reason. To exfoliate without stripping. To smooth without irritation. To hydrate while treating.<\/p>","heading_tag":"h3","text_alignment":"left","items_per_row_desktop":2,"stack_on_mobile":false,"separator_style":"horizontal","icon_position":"stacked","icon_width":36,"mobile_icon_width":32,"item_text_alignment":"left"}},"before_after_DzEPHP":{"type":"before-after","blocks":{"before_whkMNA":{"type":"before","settings":{"color_scheme":"","image":"shopify:\/\/shop_images\/martina_1_before.jpg","text":"Before","text_size":"h7","text_position":"start"}},"after_yK63Bd":{"type":"after","settings":{"color_scheme":"","image":"shopify:\/\/shop_images\/martina_2_after.jpg","text":"After","text_size":"h7","text_position":"start"}}},"block_order":["before_whkMNA","after_yK63Bd"],"disabled":true,"name":"t:sections.before_after.name","settings":{"color_scheme":"","layout":"split_image_left","add_comparison_spacing":true,"subheading":"","title":"Before\/after","title_tag":"h3","content":"<p>Showcase your product benefit by using before\/after image comparison.<\/p>","button_text":"Learn more","button_url":"","button_style":"solid","cursor_direction":"horizontal","cursor_initial_position":50,"cursor_background":"#ffffff","cursor_arrows_color":"#000000"}},"multi_column_7FCmxb":{"type":"multi-column","blocks":{"multi_column_column_cej9xV":{"type":"_multi-column-column","settings":{"color_scheme":"scheme-1","text_alignment":"left"},"blocks":{"icon_rDCBRr":{"type":"icon","name":"t:blocks.icon.name","settings":{"icon":"picto-science","icon_width":32,"mobile_icon_width":24,"stroke_width":1.5},"blocks":{}},"image_pRzQHp":{"type":"image","disabled":true,"settings":{"max_width":100,"mobile_max_width":100},"blocks":{}},"heading_7pBnQX":{"type":"heading","settings":{"text":"Exfoliate + Resurface","heading_size":"h5","html_tag":"p","indent":"none","highlight_effect":"default","highlight_accent_color":"","highlight_text_color":""},"blocks":{}},"rich_text_8Rzjif":{"type":"rich-text","disabled":true,"settings":{"text":"<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>","content_width":"sm"},"blocks":{}},"accordion_EaaQfK":{"type":"accordion","name":"t:blocks.accordion.name","settings":{"open_by_default":false,"title":"12% AHA, BHA, PHA","uppercase_title":false},"blocks":{"rich_text_F3zRXP":{"type":"rich-text","settings":{"text":"<p><strong>Salicylic acid (BHA) <\/strong>-<strong> <\/strong>unclogs pores, clears body acne, and helps treat keratosis pilaris.<\/p><p><strong>Glycolic + Lactic acid (AHA) <\/strong>- resurfaces rough, bumpy skin and encourages glow through gentle cell renewal.<\/p><p><strong>Gluconolactone (PHA) <\/strong>- a gentle PHA that exfoliates while hydrating and strengthening the skin barrier.<\/p>","content_width":"sm"},"blocks":{}}},"block_order":["rich_text_F3zRXP"]},"accordion_EhYC3E":{"type":"accordion","name":"t:blocks.accordion.name","settings":{"open_by_default":false,"title":"Tranexamic Acid","uppercase_title":false},"blocks":{"rich_text_7jaxrN":{"type":"rich-text","settings":{"text":"<p><strong>Tranexamic acid<\/strong> - a brightening active that helps fade dark spots, post-acne marks, and uneven tone by reducing excess melanin production.<\/p>","content_width":"sm"},"blocks":{}}},"block_order":["rich_text_7jaxrN"]},"accordion_a4eQeM":{"type":"accordion","name":"t:blocks.accordion.name","disabled":true,"settings":{"open_by_default":false,"title":"Purifying: Kaolin Clay","uppercase_title":false},"blocks":{"rich_text_dn7mVD":{"type":"rich-text","settings":{"text":"<p>Kaolin clay acts as a gentle andeffective purifying agent - absorbing excess oil, drawing out deep-set impurities, and decongesting pores without stripping the skin. It supports clarity and balance, especially in areas prone to buildup, congestion, and dullness.<\/p>","content_width":"sm"},"blocks":{}}},"block_order":["rich_text_dn7mVD"]}},"block_order":["icon_rDCBRr","image_pRzQHp","heading_7pBnQX","rich_text_8Rzjif","accordion_EaaQfK","accordion_EhYC3E","accordion_a4eQeM"]},"multi_column_column_CGnrUL":{"type":"_multi-column-column","settings":{"color_scheme":"scheme-1","text_alignment":"left"},"blocks":{"icon_gxTACa":{"type":"icon","name":"t:blocks.icon.name","settings":{"icon":"picto-feather","icon_width":32,"mobile_icon_width":24,"stroke_width":1.5},"blocks":{}},"image_PKNJGU":{"type":"image","disabled":true,"settings":{"max_width":100,"mobile_max_width":100},"blocks":{}},"heading_VaiLHD":{"type":"heading","settings":{"text":"","heading_size":"h4","html_tag":"p","indent":"none","highlight_effect":"default","highlight_accent_color":"","highlight_text_color":""},"blocks":{}},"rich_text_by36gJ":{"type":"rich-text","disabled":true,"settings":{"text":"<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>","content_width":"sm"},"blocks":{}},"heading_KYdxY7":{"type":"heading","name":"t:blocks.heading.name","settings":{"text":"Smooth + Purify","heading_size":"h5","html_tag":"p","indent":"none","highlight_effect":"default","highlight_accent_color":"","highlight_text_color":""},"blocks":{}},"accordion_abCM3q":{"type":"accordion","name":"t:blocks.accordion.name","settings":{"open_by_default":false,"title":"Pumice and Volcanic sand","uppercase_title":false},"blocks":{"rich_text_RgjeqX":{"type":"rich-text","settings":{"text":"<p><strong>Pumice <\/strong>- a natural exfoliant derived from volcanic rock that buffs away dead skin and rough texture, perfect for areas prone to keratosis pilaris and buildup.<\/p><p><strong>Volcanic sand <\/strong>- ultra-fine mineral particles that gently polish the skin, lifting trapped debris and leaving a soft, even finish.<\/p>","content_width":"sm"},"blocks":{}}},"block_order":["rich_text_RgjeqX"]},"accordion_VnY8cF":{"type":"accordion","name":"t:blocks.accordion.name","disabled":true,"settings":{"open_by_default":false,"title":"Physical Exfoliation: Volcanic Sand","uppercase_title":false},"blocks":{"rich_text_GzBh7G":{"type":"rich-text","settings":{"text":"<p>Write content about your brand or products.<\/p>","content_width":"sm"},"blocks":{}}},"block_order":["rich_text_GzBh7G"]},"accordion_iPexNW":{"type":"accordion","name":"t:blocks.accordion.name","settings":{"open_by_default":false,"title":"Kaolin Clay","uppercase_title":false},"blocks":{"rich_text_hFDDLw":{"type":"rich-text","settings":{"text":"<p><strong>Kaolin clay<\/strong> - a gentle, non-drying clay that draws out impurities and absorbs excess oil—leaving skin clear, smooth, and balanced.<\/p>","content_width":"sm"},"blocks":{}}},"block_order":["rich_text_hFDDLw"]}},"block_order":["icon_gxTACa","image_PKNJGU","heading_VaiLHD","rich_text_by36gJ","heading_KYdxY7","accordion_abCM3q","accordion_VnY8cF","accordion_iPexNW"]},"multi_column_column_MtgVje":{"type":"_multi-column-column","settings":{"color_scheme":"scheme-1","text_alignment":"left"},"blocks":{"icon_4p6bGi":{"type":"icon","name":"t:blocks.icon.name","settings":{"icon":"picto-drop-of-water","icon_width":32,"mobile_icon_width":24,"stroke_width":1.5},"blocks":{}},"image_iL7HM9":{"type":"image","disabled":true,"settings":{"max_width":100,"mobile_max_width":100},"blocks":{}},"heading_Um8VJM":{"type":"heading","settings":{"text":"Repair + Calm","heading_size":"h5","html_tag":"p","indent":"none","highlight_effect":"default","highlight_accent_color":"","highlight_text_color":""},"blocks":{}},"accordion_ryJGfC":{"type":"accordion","name":"t:blocks.accordion.name","settings":{"open_by_default":false,"title":"Moisture Lockers","uppercase_title":false},"blocks":{"rich_text_478mRa":{"type":"rich-text","settings":{"text":"<p><strong>Squalane <\/strong>- a skin-identical lipid that restores softness, prevents moisture loss, and supports the skin barrier.<\/p><p><strong>Sodium hyaluronate <\/strong>- a form of hyaluronic acid that draws water deep into the skin, keeping it plump and hydrated.<\/p><p><strong>Glycerin <\/strong>- a powerful humectant that attracts and retains moisture, helping skin stay smooth and balanced.<\/p>","content_width":"sm"},"blocks":{}}},"block_order":["rich_text_478mRa"]},"accordion_hFHhwk":{"type":"accordion","name":"t:blocks.accordion.name","settings":{"open_by_default":false,"title":"Ferments and Botanicas","uppercase_title":false},"blocks":{"rich_text_Q9mLRy":{"type":"rich-text","settings":{"text":"<p><strong>Centella asiatica <\/strong>- a healing herb known to calm inflammation, speed up skin recovery, and reduce redness.<\/p><p><strong>Green tea <\/strong>- rich in antioxidants, it helps soothe irritation, protect against environmental stress, and reduce signs of inflammation.<\/p><p><strong>Colloidal oatmeal <\/strong>- clinically proven to calm dry, sensitive, or reactive skin while supporting the skin’s moisture barrier.<\/p><p><strong>Fermented yeast extract <\/strong>- helps renew and rebalance the skin microbiome, promoting a smoother, healthier-looking complexion.<\/p><p><strong>Probiotic ferment <\/strong>- strengthens the skin’s natural defenses and helps reduce sensitivity and dryness after exfoliation.<\/p><p><strong>Radish root ferment <\/strong>- a gentle plant-based ferment with natural soothing and antimicrobial properties to help calm and protect skin.<\/p>","content_width":"sm"},"blocks":{}}},"block_order":["rich_text_Q9mLRy"]},"accordion_tAfeeE":{"type":"accordion","name":"t:blocks.accordion.name","disabled":true,"settings":{"open_by_default":false,"title":"Accordion title","uppercase_title":false},"blocks":{"rich_text_ExndpF":{"type":"rich-text","settings":{"text":"<p>Write content about your brand or products.<\/p>","content_width":"sm"},"blocks":{}}},"block_order":["rich_text_ExndpF"]},"rich_text_CMD4EE":{"type":"rich-text","settings":{"text":"","content_width":"sm"},"blocks":{}}},"block_order":["icon_4p6bGi","image_iL7HM9","heading_Um8VJM","accordion_ryJGfC","accordion_hFHhwk","accordion_tAfeeE","rich_text_CMD4EE"]},"section-header":{"type":"_section-header","static":true,"settings":{"subheading":"","title":"Key ingredients","content":"<p>Every ingredient is chosen for a reason. To exfoliate without stripping. To smooth without irritation. To hydrate while treating.<\/p>","button_text":"","button_link":"","button_style":"link","text_alignment":"left","heading_size":"h4","title_icon":"none","show_scrolling_title":false},"blocks":{}}},"block_order":["multi_column_column_cej9xV","multi_column_column_CGnrUL","multi_column_column_MtgVje"],"disabled":true,"name":"t:sections.multi_column.name","settings":{"color_scheme":"scheme-1","show_internal_borders":false,"add_horizontal_spacing":true,"add_top_spacing":true,"add_bottom_spacing":true,"items_per_row":3,"stack_on_mobile":true,"stack_on_desktop":true,"column_spacing":"md","row_spacing":"md"}},"multi_column_fKj4Wp":{"type":"multi-column","blocks":{"multi_column_column_bLkDTR":{"type":"_multi-column-column","settings":{"color_scheme":"scheme-1","text_alignment":"left"},"blocks":{"icon_JFgkrG":{"type":"icon","name":"t:blocks.icon.name","disabled":true,"settings":{"icon":"picto-science","icon_width":32,"mobile_icon_width":24,"stroke_width":1.5},"blocks":{}},"image_9ACwDa":{"type":"image","settings":{"image":"shopify:\/\/shop_images\/IMG_0611.jpg","max_width":100,"mobile_max_width":100},"blocks":{}},"heading_Figd3r":{"type":"heading","settings":{"text":"Exfoliate + Resurface","heading_size":"h5","html_tag":"p","indent":"none","highlight_effect":"default","highlight_accent_color":"","highlight_text_color":""},"blocks":{}},"rich_text_far6Nn":{"type":"rich-text","disabled":true,"settings":{"text":"<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>","content_width":"sm"},"blocks":{}},"accordion_m9nrxq":{"type":"accordion","name":"t:blocks.accordion.name","settings":{"open_by_default":false,"title":"12% AHA, BHA, PHA","uppercase_title":false},"blocks":{"rich_text_nBPQxH":{"type":"rich-text","settings":{"text":"<p><strong>Salicylic acid (BHA) <\/strong>-<strong> <\/strong>unclogs pores, clears body acne, and helps treat keratosis pilaris.<\/p><p><strong>Glycolic + Lactic acid (AHA) <\/strong>- resurfaces rough, bumpy skin and encourages glow through gentle cell renewal.<\/p><p><strong>Gluconolactone (PHA) <\/strong>- a gentle PHA that exfoliates while hydrating and strengthening the skin barrier.<\/p>","content_width":"sm"},"blocks":{}}},"block_order":["rich_text_nBPQxH"]},"accordion_gHYfCU":{"type":"accordion","name":"t:blocks.accordion.name","settings":{"open_by_default":false,"title":"Tranexamic Acid","uppercase_title":false},"blocks":{"rich_text_L6ng8g":{"type":"rich-text","settings":{"text":"<p><strong>Tranexamic acid<\/strong> - a brightening active that helps fade dark spots, post-acne marks, and uneven tone by reducing excess melanin production.<\/p>","content_width":"sm"},"blocks":{}}},"block_order":["rich_text_L6ng8g"]},"accordion_7bCXJK":{"type":"accordion","name":"t:blocks.accordion.name","disabled":true,"settings":{"open_by_default":false,"title":"Purifying: Kaolin Clay","uppercase_title":false},"blocks":{"rich_text_TqWjVx":{"type":"rich-text","settings":{"text":"<p>Kaolin clay acts as a gentle andeffective purifying agent - absorbing excess oil, drawing out deep-set impurities, and decongesting pores without stripping the skin. It supports clarity and balance, especially in areas prone to buildup, congestion, and dullness.<\/p>","content_width":"sm"},"blocks":{}}},"block_order":["rich_text_TqWjVx"]}},"block_order":["icon_JFgkrG","image_9ACwDa","heading_Figd3r","rich_text_far6Nn","accordion_m9nrxq","accordion_gHYfCU","accordion_7bCXJK"]},"multi_column_column_tWP8QL":{"type":"_multi-column-column","settings":{"color_scheme":"scheme-1","text_alignment":"left"},"blocks":{"icon_7PWUkH":{"type":"icon","name":"t:blocks.icon.name","disabled":true,"settings":{"icon":"picto-feather","icon_width":32,"mobile_icon_width":24,"stroke_width":1.5},"blocks":{}},"image_eHLE74":{"type":"image","settings":{"image":"shopify:\/\/shop_images\/IMG_0615.jpg","max_width":100,"mobile_max_width":100},"blocks":{}},"heading_papNcJ":{"type":"heading","name":"t:blocks.heading.name","settings":{"text":"Smooth + Purify","heading_size":"h5","html_tag":"p","indent":"none","highlight_effect":"default","highlight_accent_color":"","highlight_text_color":""},"blocks":{}},"rich_text_zbHEfY":{"type":"rich-text","disabled":true,"settings":{"text":"<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>","content_width":"sm"},"blocks":{}},"accordion_mFKktE":{"type":"accordion","name":"t:blocks.accordion.name","settings":{"open_by_default":false,"title":"Pumice and Volcanic sand","uppercase_title":false},"blocks":{"rich_text_Jaw4UJ":{"type":"rich-text","settings":{"text":"<p><strong>Pumice <\/strong>- a natural exfoliant derived from volcanic rock that buffs away dead skin and rough texture, perfect for areas prone to keratosis pilaris and buildup.<\/p><p><strong>Volcanic sand <\/strong>- ultra-fine mineral particles that gently polish the skin, lifting trapped debris and leaving a soft, even finish.<\/p>","content_width":"sm"},"blocks":{}}},"block_order":["rich_text_Jaw4UJ"]},"accordion_7b89gn":{"type":"accordion","name":"t:blocks.accordion.name","disabled":true,"settings":{"open_by_default":false,"title":"Physical Exfoliation: Volcanic Sand","uppercase_title":false},"blocks":{"rich_text_mqcLwB":{"type":"rich-text","settings":{"text":"<p>Write content about your brand or products.<\/p>","content_width":"sm"},"blocks":{}}},"block_order":["rich_text_mqcLwB"]},"accordion_qHq4fd":{"type":"accordion","name":"t:blocks.accordion.name","settings":{"open_by_default":false,"title":"Kaolin Clay","uppercase_title":false},"blocks":{"rich_text_fd8dxB":{"type":"rich-text","settings":{"text":"<p><strong>Kaolin clay<\/strong> - a gentle, non-drying clay that draws out impurities and absorbs excess oil—leaving skin clear, smooth, and balanced.<\/p>","content_width":"sm"},"blocks":{}}},"block_order":["rich_text_fd8dxB"]}},"block_order":["icon_7PWUkH","image_eHLE74","heading_papNcJ","rich_text_zbHEfY","accordion_mFKktE","accordion_7b89gn","accordion_qHq4fd"]},"multi_column_column_9B6m3c":{"type":"_multi-column-column","settings":{"color_scheme":"scheme-1","text_alignment":"left"},"blocks":{"icon_UtPaAe":{"type":"icon","name":"t:blocks.icon.name","disabled":true,"settings":{"icon":"picto-drop-of-water","icon_width":32,"mobile_icon_width":24,"stroke_width":1.5},"blocks":{}},"image_B4M3PC":{"type":"image","settings":{"image":"shopify:\/\/shop_images\/IMG_0636.jpg","max_width":100,"mobile_max_width":100},"blocks":{}},"heading_TELicJ":{"type":"heading","settings":{"text":"Repair + Calm","heading_size":"h5","html_tag":"p","indent":"none","highlight_effect":"default","highlight_accent_color":"","highlight_text_color":""},"blocks":{}},"accordion_QMnE4D":{"type":"accordion","name":"t:blocks.accordion.name","settings":{"open_by_default":false,"title":"Moisture Lockers","uppercase_title":false},"blocks":{"rich_text_kdizTG":{"type":"rich-text","settings":{"text":"<p><strong>Squalane <\/strong>- a skin-identical lipid that restores softness, prevents moisture loss, and supports the skin barrier.<\/p><p><strong>Sodium hyaluronate <\/strong>- a form of hyaluronic acid that draws water deep into the skin, keeping it plump and hydrated.<\/p><p><strong>Glycerin <\/strong>- a powerful humectant that attracts and retains moisture, helping skin stay smooth and balanced.<\/p>","content_width":"sm"},"blocks":{}}},"block_order":["rich_text_kdizTG"]},"accordion_UagCfd":{"type":"accordion","name":"t:blocks.accordion.name","settings":{"open_by_default":false,"title":"Ferments and Botanicas","uppercase_title":false},"blocks":{"rich_text_cJWzHF":{"type":"rich-text","settings":{"text":"<p><strong>Centella asiatica <\/strong>- a healing herb known to calm inflammation, speed up skin recovery, and reduce redness.<\/p><p><strong>Green tea <\/strong>- rich in antioxidants, it helps soothe irritation, protect against environmental stress, and reduce signs of inflammation.<\/p><p><strong>Colloidal oatmeal <\/strong>- clinically proven to calm dry, sensitive, or reactive skin while supporting the skin’s moisture barrier.<\/p><p><strong>Fermented yeast extract <\/strong>- helps renew and rebalance the skin microbiome, promoting a smoother, healthier-looking complexion.<\/p><p><strong>Probiotic ferment <\/strong>- strengthens the skin’s natural defenses and helps reduce sensitivity and dryness after exfoliation.<\/p><p><strong>Radish root ferment <\/strong>- a gentle plant-based ferment with natural soothing and antimicrobial properties to help calm and protect skin.<\/p>","content_width":"sm"},"blocks":{}}},"block_order":["rich_text_cJWzHF"]},"accordion_MWdwB3":{"type":"accordion","name":"t:blocks.accordion.name","disabled":true,"settings":{"open_by_default":false,"title":"Accordion title","uppercase_title":false},"blocks":{"rich_text_HNge37":{"type":"rich-text","settings":{"text":"<p>Write content about your brand or products.<\/p>","content_width":"sm"},"blocks":{}}},"block_order":["rich_text_HNge37"]}},"block_order":["icon_UtPaAe","image_B4M3PC","heading_TELicJ","accordion_QMnE4D","accordion_UagCfd","accordion_MWdwB3"]},"section-header":{"type":"_section-header","static":true,"settings":{"subheading":"","title":"Key ingredients","content":"<p>Every ingredient is chosen for a reason. To exfoliate without stripping. To smooth without irritation. To hydrate while treating.<\/p>","button_text":"","button_link":"","button_style":"link","text_alignment":"left","heading_size":"h4","title_icon":"none","show_scrolling_title":false},"blocks":{}}},"block_order":["multi_column_column_bLkDTR","multi_column_column_tWP8QL","multi_column_column_9B6m3c"],"name":"t:sections.multi_column.name","settings":{"color_scheme":"scheme-1","show_internal_borders":false,"add_horizontal_spacing":true,"add_top_spacing":true,"add_bottom_spacing":true,"items_per_row":3,"stack_on_mobile":false,"stack_on_desktop":true,"column_spacing":"md","row_spacing":"md"}},"featured_collections_jGjyMx":{"type":"featured-collections","blocks":{"collection_qEeC4C":{"type":"collection","settings":{"collection":"test-1","products_count":8,"title":"Complete your routine","content":"","link":"{{ block.settings.collection.url }}"}}},"block_order":["collection_qEeC4C"],"disabled":true,"name":"t:sections.featured_collections.name","settings":{"color_scheme":"","stack_products_mobile":false,"stack_products_desktop":true,"products_per_row_mobile":"2","products_per_row_desktop":4,"tabs_alignment":"start","tabs_icon":"none","show_view_all_button":false,"show_scrolling_bar":true}},"faq_yQDJDw":{"type":"faq","blocks":{"category_PAHy4E":{"type":"category","settings":{"title":"Product","icon":"none","icon_width":24,"mobile_icon_width":20}},"question_gMmEBj":{"type":"question","settings":{"question":"How is it different from other body creams?","answer":"<p>Designed to meet the standards of advanced facial care, this cream combines clinically inspired ingredients with a deeply comforting texture. It goes beyond surface-level moisturization to support skin renewal, reinforce the barrier, and leave the body feeling smooth, soothed, and resilient - without compromising on sensorial pleasure.<\/p>","icon":"none","icon_width":24,"mobile_icon_width":20}},"question_xNcHcf":{"type":"question","settings":{"question":"Where does Sopele body cream fit into my daily routine?","answer":"<p>Use it as the final step in your body care routine, after cleansing and applying serum. It locks in hydration, reinforces the skin barrier, and leaves a soft, silky finish.<\/p>","icon":"none","icon_width":24,"mobile_icon_width":20}},"question_9drz63":{"type":"question","settings":{"question":"Can I use it on keratosis pilaris?","answer":"<p>Yes. This cream was designed to help with common body skin concerns, including rough texture and clogged follicles. With consistent use, it can help smooth bumps, reduce redness, and improve the overall appearance of areas affected by keratosis pilaris.<\/p>","icon":"none","icon_width":24,"mobile_icon_width":20}},"question_GHpBY7":{"type":"question","settings":{"question":"How is it different from other body scrubs?","answer":"","icon":"none","icon_width":24,"mobile_icon_width":20}},"question_Kkdfic":{"type":"question","settings":{"question":"Can I layer it with other actives?","answer":"<p>Absolutely. The formula was thoughtfully made to play well with others - including exfoliating acids, retinoids, or treatments you might use before. It’s gentle enough to soothe the skin after actives while sealing in hydration and supporting recovery.<\/p>","icon":"none","icon_width":24,"mobile_icon_width":20}},"question_icHTtB":{"type":"question","settings":{"question":"How long does it take to see results?","answer":"<p>Many users notice immediate improvements in softness and comfort after the first application. For visible improvements in skin texture, tone, and resilience, results typically appear within 2 to 4 weeks of consistent daily use, especially when the cream is used daily as part of the whole Sopele body care routine.<\/p>","icon":"none","icon_width":24,"mobile_icon_width":20}},"question_LhEQCr":{"type":"question","settings":{"question":"Is it safe to use during pregnancy?","answer":"<p>Yes, the cream is suitable for use during pregnancy. It does not contain retinoids or other ingredients typically restricted during this time. However, if you have any specific concerns, we recommend checking with your healthcare provider.<\/p>","icon":"none","icon_width":24,"mobile_icon_width":20}},"question_mXPVqT":{"type":"question","settings":{"question":"Is it dermatologist tested?","answer":"<p>Write a clear and concise answer to guide your customers.<\/p>","icon":"none","icon_width":24,"mobile_icon_width":20}},"question_Mbh6aU":{"type":"question","settings":{"question":"Is it vegan and cruelty free?","answer":"<p>Yes, this product is 100% vegan and cruelty-free. No animal-derived ingredients are used, and we do not test on animals.<\/p>","icon":"none","icon_width":24,"mobile_icon_width":20}},"category_hUTDww":{"type":"category","settings":{"title":"Order","icon":"none","icon_width":24,"mobile_icon_width":20}},"question_nnLDdz":{"type":"question","settings":{"question":"Do you ship overseas?","answer":"<p>Yes, we ship all over the world. Shipping costs will apply, and will be added at checkout. We run discounts and promotions all year, so stay tuned for exclusive deals.<\/p>","icon":"none","icon_width":24,"mobile_icon_width":20}},"question_KdjngA":{"type":"question","settings":{"question":"How long will it take to get my orders?","answer":"<p>It depends on where you are. Orders processed here will take 5-7 business days to arrive. Overseas deliveries can take anywhere from 7-16 days. Delivery details will be provided in your confirmation email.<\/p>","icon":"none","icon_width":24,"mobile_icon_width":20}},"question_9pfVmD":{"type":"question","settings":{"question":"Any question?","answer":"<p>You can contact us through our contact page! We will be happy to assist you.<\/p>","icon":"none","icon_width":24,"mobile_icon_width":20}}},"block_order":["category_PAHy4E","question_gMmEBj","question_xNcHcf","question_9drz63","question_GHpBY7","question_Kkdfic","question_icHTtB","question_LhEQCr","question_mXPVqT","question_Mbh6aU","category_hUTDww","question_nnLDdz","question_KdjngA","question_9pfVmD"],"name":"t:sections.faq.name","settings":{"color_scheme":"scheme-2","layout":"split","accordion_style":"border","question_style":"text","subheading":"We're here to help","title":"Frequently asked questions","title_tag":"h4","content":"<p>Find out more about your Softest Touch.<\/p>","button_text":"","button_url":"","button_style":"solid"}}},"order":["main","related-products","specifications_Yx4M4E","timeline_xzgwRX","dynamic_grid_T3P9b7","multi_column_rQEjUR","text_with_icons_WVdHJP","specifications_eNcJTp","testimonials_yatPCz","multi_column_X6LX8q","specifications_A8d3eb","multi_column_3RUrGQ","specifications_YyBUQE","text_with_icons_NGPqJG","before_after_DzEPHP","multi_column_7FCmxb","multi_column_fKj4Wp","featured_collections_jGjyMx","faq_yQDJDw"]}
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+ {
+    "sections": {
+      "main": {
+        "type": "main-product",
+        "blocks": {
+          "vendor": {
+            "type": "vendor",
+            "disabled": true,
+            "settings": {}
+          },
+          "badges": {
+            "type": "badges",
+            "settings": {}
+          },
+          "title": {
+            "type": "title",
+            "settings": {
+              "heading_tag": "h5"
+            }
+          },
+          "text_LiHTnj": {
+            "type": "text",
+            "settings": {
+              "text": "<p>200ml / 6.7 fl.oz.</p>"
+            }
+          },
+          "rating_fzNmaF": {
+            "type": "rating",
+            "disabled": true,
+            "settings": {
+              "show_empty": true
+            }
+          },
+          "price": {
+            "type": "price",
+            "disabled": true,
+            "settings": {
+              "show_taxes_notice": false
+            }
+          },
+          "separator": {
+            "type": "separator",
+            "disabled": true,
+            "settings": {}
+          },
+          "text_HmDbER": {
+            "type": "text",
+            "settings": {
+              "text": "<p>Ultra-rich, moisturizing cream that helps maintain skin's moisture levels and provides intensive nourishment to make your skin effortlessly smooth and radiant. It melts into your skin, unveiling a new level of softness, while the delicate fragrance lingers.</p>"
+            }
+          },
+          "icons_with_text_yUhqGD": {
+            "type": "icons_with_text",
+            "settings": {
+              "items_per_row": 1,
+              "icon_1": "shopify://shop_images/check-circle-svgrepo-com.svg",
+              "icon_1_width": 18,
+              "icon_1_text": "Delivers deep, lasting hydration by drawing moisture into every layer of the skin",
+              "icon_2": "shopify://shop_images/check-circle-svgrepo-com.svg",
+              "icon_2_width": 18,
+              "icon_2_text": "Strengthens the skin barrier and helps prevent moisture loss",
+              "icon_3": "shopify://shop_images/check-circle-svgrepo-com.svg",
+              "icon_3_width": 18,
+              "icon_3_text": "Calms irritation and supports the skin’s natural repair process",
+              "icon_4_width": 18,
+              "icon_4_text": ""
+            }
+          },
+          "separator_9QtAXC": {
+            "type": "separator",
+            "settings": {}
+          },
+          "text_EVarbG": {
+            "type": "text",
+            "settings": {
+              "text": "<p><strong>Specifically formulated to help with:</strong></p><p>Dryness, keratosis pilaris, tight skin, flakiness, post-acne marks, rough texture, discoloration, and barrier sensitivity.</p>"
+            }
+          },
+          "buy_buttons": {
+            "type": "buy_buttons",
+            "settings": {
+              "show_payment_button": false,
+              "show_gift_card_recipient": false,
+              "show_quantity_selector": true,
+              "add_quantity_selector_spacing": true,
+              "atc_button_style": "solid",
+              "atc_button_background": "",
+              "atc_button_text_color": "",
+              "payment_button_background": "",
+              "payment_button_text_color": ""
+            }
+          },
+          "icons_with_text_LjqkBz": {
+            "type": "icons_with_text",
+            "disabled": true,
+            "settings": {
+              "items_per_row": 2,
+              "icon_1": "shopify://shop_images/croatia.png",
+              "icon_1_width": 18,
+              "icon_1_text": "Made in Croatia",
+              "icon_2": "shopify://shop_images/box.png",
+              "icon_2_width": 18,
+              "icon_2_text": "Free shipping over €100",
+              "icon_3_width": 18,
+              "icon_3_text": "",
+              "icon_4_width": 18,
+              "icon_4_text": ""
+            }
+          },
+          "description": {
+            "type": "description",
+            "disabled": true,
+            "settings": {
+              "collapse_content": false,
+              "uppercase_title": false
+            }
+          },
+          "text_wkpVJL": {
+            "type": "text",
+            "disabled": true,
+            "settings": {
+              "text": "<p>Formulated to help with: strawberry skin, body acne, ingrown hairs & more.</p>"
+            }
+          },
+          "icons_with_text_38U3hx": {
+            "type": "icons_with_text",
+            "disabled": true,
+            "settings": {
+              "items_per_row": 2,
+              "icon_1": "shopify://shop_images/check-circle-svgrepo-com.svg",
+              "icon_1_width": 18,
+              "icon_1_text": "Strawberry skin",
+              "icon_2": "shopify://shop_images/check-circle-svgrepo-com.svg",
+              "icon_2_width": 18,
+              "icon_2_text": "Ingrown hairs",
+              "icon_3": "shopify://shop_images/check-circle-svgrepo-com.svg",
+              "icon_3_width": 18,
+              "icon_3_text": "Body acne",
+              "icon_4": "shopify://shop_images/check-circle-svgrepo-com.svg",
+              "icon_4_width": 18,
+              "icon_4_text": "Texture"
+            }
+          },
+          "modal_6V6HAV": {
+            "type": "modal",
+            "disabled": true,
+            "settings": {
+              "dialog_type": "modal",
+              "button_title": "View more information",
+              "button_style": "link",
+              "stretch_button": false,
+              "button_background": "",
+              "button_text_color": "",
+              "modal_title": "Moment of Clarity - Description",
+              "modal_content": "<p>Purifying body exfoliating treatment with face-grade ingredients that instantly transforms your skin from rough and bumpy to soft and radiant.</p><ul><li>Contains: 12% of all 3 chemical categories</li><li>Reduces: current + prevents future breakouts</li><li>Removes: buildup and delivers smoother texture</li></ul>",
+              "modal_size": "sm"
+            }
+          },
+          "offers_MfYRpH": {
+            "type": "offers",
+            "disabled": true,
+            "settings": {
+              "layout": "stacked",
+              "icon_position": "inline",
+              "text_alignment": "left",
+              "offer_1_icon": "shopify://shop_images/check-circle-svgrepo-com.svg",
+              "offer_1_icon_width": 16,
+              "offer_1_subheading": "Specifically formulated to help with:",
+              "offer_1_content": "Strawberry skin, body acne, ingrown hairs & more.",
+              "offer_1_background": "#f9f9f9",
+              "offer_1_text_color": "#000000",
+              "offer_2_icon_width": 16,
+              "offer_2_subheading": "",
+              "offer_2_content": "",
+              "offer_2_background": "#f9f9f9",
+              "offer_2_text_color": "#000000",
+              "offer_3_icon_width": 16,
+              "offer_3_subheading": "",
+              "offer_3_content": "",
+              "offer_3_background": "#f9f9f9",
+              "offer_3_text_color": "#000000"
+            }
+          },
+          "variant_picker": {
+            "type": "variant_picker",
+            "disabled": true,
+            "settings": {
+              "hide_sold_out_variants": false,
+              "separate_options": false,
+              "selector_style": "dropdown",
+              "swatch_selector_style": "none",
+              "swatch_selector_size": "sm",
+              "block_selector_style": "outline",
+              "variant_image_options": "",
+              "size_chart_page": ""
+            }
+          },
+          "payment_terms": {
+            "type": "payment_terms",
+            "disabled": true,
+            "settings": {}
+          },
+          "accordion_XVExfn": {
+            "type": "accordion",
+            "settings": {
+              "title": "Benefits",
+              "content": "<p>Silky and fast-absorbing, this cream wraps the skin in lasting moisture and comfort. It delivers multi-layer hydration that draws water in and locks it down, keeping dryness away for hours.<br/></p><p>Over time, it reinforces the skin barrier, restoring softness, reducing moisture loss, and improving resilience. Texture looks more refined and even as rough patches fade and dullness is smoothed away. With consistent use, it soothes irritation, supports skin renewal, and leaves the body visibly healthier, balanced, and glowing.</p>",
+              "uppercase_title": false,
+              "icon": "none",
+              "page": ""
+            }
+          },
+          "accordion_nf4VaW": {
+            "type": "accordion",
+            "settings": {
+              "title": "How to use",
+              "content": "<p>Apply a thin layer to clean, dry skin and gently massage until absorbed. Use all over, from neck to toes, or just where your skin needs extra care. For best results, apply once or twice daily.<br/></p><p>Sopele's tip: To make the scent linger, apply a little extra to pulse points: neck, wrists, and décolleté - where warmth naturally releases the fragrance throughout the day.</p>",
+              "uppercase_title": false,
+              "icon": "none",
+              "page": ""
+            }
+          },
+          "accordion_JUNeRe": {
+            "type": "accordion",
+            "settings": {
+              "title": "Key ingredients",
+              "content": "<p><strong>Hydration Complex</strong><br/><em>Glycerin, Urea, Sodium Hyaluronate, Squalane</em><br/>Delivers multi-layer hydration, softens rough areas, and locks in moisture for long-lasting<br/>comfort and smooth, supple skin.<br/></p><p><strong>Barrier & Skin Strengthening</strong><br/><em>Niacinamide, Murumuru Butter, Ceramide Complex</em><br/>Reinforces and restores the skin’s protective barrier, reducing moisture loss, soothing irritation, and improving texture for stronger, healthier-looking skin.<br/></p><p><strong>Texture Refining & Renewal</strong><br/><em>LIPO AHA (C12-13 Alkyl Lactate), Centella Asiatica, Licorice Root Extract, Bifida Ferment<br/></em>Gently refines texture, smooths bumps, and supports skin renewal while calming and balancing sensitive or stressed skin.</p>",
+              "uppercase_title": false,
+              "icon": "none",
+              "page": ""
+            }
+          },
+          "accordion_LPPmzd": {
+            "type": "accordion",
+            "settings": {
+              "title": "Fragrance profile",
+              "content": "<p>Familiar, but impossible to place. The glow of bergamot and rose fades into jasmine and caramel. Everything opens slowly, softly - a bloom on warm skin. The base hums with sandalwood, musk, and vanilla.<br/><br/>Top notes: Bergamot, Dewberry, Rose<br/></p><p>Heart notes: Caramel, Patchouli, Jasmine, Lily of the Valley<br/></p><p>Base notes: Vanilla, Musk, Sandalwood<br/></p>",
+              "uppercase_title": false,
+              "icon": "none",
+              "page": ""
+            }
+          },
+          "accordion_zgq3tk": {
+            "type": "accordion",
+            "disabled": true,
+            "settings": {
+              "title": "Consumer study",
+              "content": "<p>Share some content to your customers about your products.</p>",
+              "uppercase_title": false,
+              "icon": "none",
+              "page": ""
+            }
+          },
+          "offers_LKMH6H": {
+            "type": "offers",
+            "settings": {
+              "layout": "carousel",
+              "icon_position": "inline",
+              "text_alignment": "left",
+              "offer_1_icon_width": 16,
+              "offer_1_subheading": "After 2 weeks — 97%",
+              "offer_1_content": "noticed visibly smoother skin and reduced rough texture",
+              "offer_1_background": "#f9f9f9",
+              "offer_1_text_color": "#000000",
+              "offer_2_icon_width": 16,
+              "offer_2_subheading": "After 4 weeks — 94%",
+              "offer_2_content": "saw a reduction in red bumps, ingrowns, or clogged pores",
+              "offer_2_background": "#f9f9f9",
+              "offer_2_text_color": "#000000",
+              "offer_3_icon_width": 16,
+              "offer_3_subheading": "91%",
+              "offer_3_content": "reported a more even tone and clearer-looking skin",
+              "offer_3_background": "#f9f9f9",
+              "offer_3_text_color": "#000000"
+            }
+          },
+          "modal_XRDjBR": {
+            "type": "modal",
+            "settings": {
+              "dialog_type": "modal",
+              "button_title": "View full consumer study statistics",
+              "button_style": "outline",
+              "stretch_button": true,
+              "button_background": "",
+              "button_text_color": "",
+              "modal_title": "Consumer study results",
+              "modal_content": "<p>First use:</p><ul><li>97% said that it makes that skin extremely soft</li><li>94% said that it gives them instant glow</li><li>91% said that it helps with their skin concern</li></ul><p>After 2 weeks:</p><ul><li>97% said that it makes that skin extremely soft</li><li>94% said that it gives them instant glow</li><li>91% said that it helps with their skin concern</li></ul><p>After 4 weeks:</p><ul><li>97% said that it makes that skin extremely soft</li><li>94% said that it gives them instant glow</li><li>91% said that it helps with their skin concern</li></ul><p></p><p><em>*Based on a 4-week study of 35 participants evaluating skin clarity, smoothness, and tone through weekly progress tracking. </em></p>",
+              "modal_size": "sm"
+            }
+          },
+          "complementary_products_fUt9Cg": {
+            "type": "complementary_products",
+            "settings": {
+              "title": "Complete your routine",
+              "products_count": 10
+            }
+          }
+        },
+        "block_order": [
+          "vendor",
+          "badges",
+          "title",
+          "text_LiHTnj",
+          "rating_fzNmaF",
+          "price",
+          "separator",
+          "text_HmDbER",
+          "icons_with_text_yUhqGD",
+          "separator_9QtAXC",
+          "text_EVarbG",
+          "buy_buttons",
+          "icons_with_text_LjqkBz",
+          "description",
+          "text_wkpVJL",
+          "icons_with_text_38U3hx",
+          "modal_6V6HAV",
+          "offers_MfYRpH",
+          "variant_picker",
+          "payment_terms",
+          "accordion_XVExfn",
+          "accordion_nf4VaW",
+          "accordion_JUNeRe",
+          "accordion_LPPmzd",
+          "accordion_zgq3tk",
+          "offers_LKMH6H",
+          "modal_XRDjBR",
+          "complementary_products_fUt9Cg"
+        ],
+        "settings": {
+          "color_scheme": "scheme-1",
+          "allow_transparent_header": true,
+          "transparent_header_use_primary_colors": true,
+          "add_top_spacing": true,
+          "show_sticky_add_to_cart": false,
+          "product_media_size": 50,
+          "content_alignment": "left",
+          "desktop_media_layout": "carousel",
+          "desktop_carousel_controls": "thumbnails_under",
+          "mobile_controls": "dots",
+          "enable_media_autoplay": true,
+          "enable_video_looping": true,
+          "enable_image_zoom": true,
+          "max_image_zoom_level": 3
+        }
+      },
+      "related-products": {
+        "type": "related-products",
+        "blocks": {
+          "section-header": {
+            "type": "_section-header",
+            "static": true,
+            "settings": {
+              "subheading": "",
+              "title": "Related products",
+              "content": "",
+              "button_text": "",
+              "button_link": "",
+              "button_style": "outline",
+              "text_alignment": "left",
+              "heading_size": "h3",
+              "title_icon": "none",
+              "show_scrolling_title": false
+            },
+            "blocks": {}
+          }
+        },
+        "disabled": true,
+        "settings": {
+          "color_scheme": "",
+          "stack_products": true,
+          "recommendations_count": 4,
+          "products_per_row_mobile": "1",
+          "products_per_row_desktop": 4,
+          "show_view_all_button": true,
+          "show_scrolling_bar": true
+        }
+      },
+      "specifications_Yx4M4E": {
+        "type": "specifications",
+        "blocks": {
+          "attribute_KFrLUe": {
+            "type": "attribute",
+            "settings": {
+              "icon": "none",
+              "title": "Arms & Legs",
+              "content": "<p>Dry patches, rough texture, sensitivity</p>"
+            }
+          },
+          "attribute_kqpxgG": {
+            "type": "attribute",
+            "settings": {
+              "icon": "none",
+              "title": "Bikini & Booty",
+              "content": "<p>Post-shave irritation, hyperpigmentation, dryness</p>"
+            }
+          },
+          "attribute_nh4EM3": {
+            "type": "attribute",
+            "settings": {
+              "icon": "none",
+              "title": "Back & Chest",
+              "content": "<p>Dehydrated skin, flakiness, dark marks, barrier repair</p>"
+            }
+          }
+        },
+        "block_order": [
+          "attribute_KFrLUe",
+          "attribute_kqpxgG",
+          "attribute_nh4EM3"
+        ],
+        "name": "t:sections.specifications.name",
+        "settings": {
+          "color_scheme": "scheme-1",
+          "image": "shopify://shop_images/IMG_0354_2.jpg",
+          "layout": "stacked",
+          "add_image_spacing": false,
+          "image_position": "start",
+          "subheading": "Body skincare, facial standards",
+          "title": "The softest touch your skin has ever felt",
+          "heading_size": "h4",
+          "content": "<p>Formulated with facial-grade actives to refine rough skin, replenish moisture, and even tone - delivering a silky-soft finish that absorbs instantly and never feels greasy.</p>",
+          "collapse_attributes": false,
+          "show_attribute_icon_on_top": false,
+          "uppercase_attribute_title": false
+        }
+      },
+      "timeline_xzgwRX": {
+        "type": "timeline",
+        "blocks": {
+          "item_EfHbJJ": {
+            "type": "item",
+            "settings": {
+              "image": "shopify://shop_images/image_5.jpg",
+              "label": "BACK",
+              "subheading": "Hydrates deeply and smooths persistent roughness",
+              "icon": "none",
+              "icon_width": 32,
+              "mobile_icon_width": 24,
+              "title": "Back, but better.",
+              "heading_tag": "h4",
+              "highlight_effect": "default",
+              "content": "<p>Softens, hydrates, and visibly improves texture and tone without residue.</p>"
+            }
+          },
+          "item_6JArj6": {
+            "type": "item",
+            "settings": {
+              "label": "CHEST",
+              "subheading": "Leaves your skin supple, balanced, and visibly smoother.",
+              "icon": "none",
+              "icon_width": 32,
+              "mobile_icon_width": 24,
+              "title": "Chest tone corrected",
+              "heading_tag": "h4",
+              "highlight_effect": "default",
+              "content": "<p>Designed to reduce dryness, irritation, and uneven tone where skin is thinnest and most reactive.</p>"
+            }
+          },
+          "item_dpegQf": {
+            "type": "item",
+            "settings": {
+              "label": "ARMS",
+              "subheading": "Hydrates deeply and smooths persistent roughness",
+              "icon": "none",
+              "icon_width": 32,
+              "mobile_icon_width": 24,
+              "title": "Arms, softened and even",
+              "heading_tag": "h4",
+              "highlight_effect": "default",
+              "content": "<p>Restores moisture and visibly improves the texture of dry, bumpy skin - especially where keratosis pilaris shows.</p>"
+            }
+          },
+          "item_QdNGnY": {
+            "type": "item",
+            "settings": {
+              "label": "LEGS",
+              "subheading": "Replenishes hydration and improves tone without residue",
+              "icon": "none",
+              "icon_width": 32,
+              "mobile_icon_width": 24,
+              "title": "Legs that stay soft, not sticky",
+              "heading_tag": "h4",
+              "highlight_effect": "default",
+              "content": "<p>Melts into skin to relieve dryness, smooth flaky patches, and enhance glow—no greasiness, no transfer.</p>"
+            }
+          },
+          "item_DWqLqn": {
+            "type": "item",
+            "settings": {
+              "label": "BIKINI",
+              "subheading": "Carefully formulated to reduce irritation and dryness in the most sensitive, reactive area.",
+              "icon": "none",
+              "icon_width": 32,
+              "mobile_icon_width": 24,
+              "title": "Smooth bikini zone",
+              "heading_tag": "h4",
+              "highlight_effect": "default",
+              "content": "<p>Hydrates and calms the skin while improving tone and reducing visible irritation over time.</p>"
+            }
+          },
+          "item_eikPq4": {
+            "type": "item",
+            "settings": {
+              "label": "BOOTY",
+              "subheading": "Smooths dry texture and restores bounce",
+              "icon": "none",
+              "icon_width": 32,
+              "mobile_icon_width": 24,
+              "title": "Clearer. Softer. Booty.",
+              "heading_tag": "h4",
+              "highlight_effect": "default",
+              "content": "<p>Addresses congestion, dryness, and shadowy pigmentation caused by friction, sitting, and post-<br/>acne scarring.</p>"
+            }
+          }
+        },
+        "block_order": [
+          "item_EfHbJJ",
+          "item_6JArj6",
+          "item_dpegQf",
+          "item_QdNGnY",
+          "item_DWqLqn",
+          "item_eikPq4"
+        ],
+        "name": "t:sections.timeline.name",
+        "settings": {
+          "color_scheme": "scheme-2",
+          "timeline_position": "left",
+          "image_position": "right",
+          "text_alignment": "center",
+          "add_image_spacing": false
+        }
+      },
+      "dynamic_grid_T3P9b7": {
+        "type": "dynamic-grid",
+        "blocks": {
+          "dynamic_grid_item_mRzbmN": {
+            "type": "_dynamic-grid-item",
+            "settings": {
+              "visibility": "both",
+              "text_alignment": "center",
+              "desktop_row_start": 6,
+              "desktop_column_start": 6,
+              "desktop_column_end": 12,
+              "desktop_horizontal_adjustment": 0,
+              "desktop_vertical_adjustment": 0,
+              "mobile_row_start": 9,
+              "mobile_column_start": 1,
+              "mobile_column_end": 6,
+              "mobile_horizontal_adjustment": 0,
+              "mobile_vertical_adjustment": 0,
+              "parallax_speed": 0,
+              "parallax_direction": "vertical"
+            },
+            "blocks": {
+              "rich_text_XNRFmC": {
+                "type": "rich-text",
+                "settings": {
+                  "text": "<p>What’s considered exceptional for the face is now foundational for the body, with potent actives in elevated concentrations setting a new standard in body care.</p>",
+                  "content_width": "sm"
+                },
+                "blocks": {}
+              }
+            },
+            "block_order": [
+              "rich_text_XNRFmC"
+            ]
+          },
+          "dynamic_grid_item_FCxrKj": {
+            "type": "_dynamic-grid-item",
+            "settings": {
+              "visibility": "both",
+              "text_alignment": "left",
+              "desktop_row_start": 1,
+              "desktop_column_start": 3,
+              "desktop_column_end": 4,
+              "desktop_horizontal_adjustment": 0,
+              "desktop_vertical_adjustment": 0,
+              "mobile_row_start": 1,
+              "mobile_column_start": 1,
+              "mobile_column_end": 2,
+              "mobile_horizontal_adjustment": 0,
+              "mobile_vertical_adjustment": 0,
+              "parallax_speed": 0,
+              "parallax_direction": "vertical"
+            },
+            "blocks": {
+              "image_with_caption_jNLa3h": {
+                "type": "image-with-caption",
+                "settings": {
+                  "image": "shopify://shop_images/IMG_4493.png",
+                  "caption": "",
+                  "max_width": 100,
+                  "mobile_max_width": 100
+                },
+                "blocks": {}
+              }
+            },
+            "block_order": [
+              "image_with_caption_jNLa3h"
+            ]
+          },
+          "dynamic_grid_item_DXcFkn": {
+            "type": "_dynamic-grid-item",
+            "settings": {
+              "visibility": "both",
+              "text_alignment": "left",
+              "desktop_row_start": 1,
+              "desktop_column_start": 15,
+              "desktop_column_end": 16,
+              "desktop_horizontal_adjustment": 0,
+              "desktop_vertical_adjustment": 0,
+              "mobile_row_start": 1,
+              "mobile_column_start": 6,
+              "mobile_column_end": 8,
+              "mobile_horizontal_adjustment": 0,
+              "mobile_vertical_adjustment": 0,
+              "parallax_speed": 0,
+              "parallax_direction": "vertical"
+            },
+            "blocks": {
+              "image_with_caption_gttBQ9": {
+                "type": "image-with-caption",
+                "settings": {
+                  "image": "shopify://shop_images/IMG_4494.png",
+                  "caption": "",
+                  "max_width": 100,
+                  "mobile_max_width": 100
+                },
+                "blocks": {}
+              }
+            },
+            "block_order": [
+              "image_with_caption_gttBQ9"
+            ]
+          },
+          "dynamic_grid_item_6ffmDz": {
+            "type": "_dynamic-grid-item",
+            "settings": {
+              "visibility": "both",
+              "text_alignment": "left",
+              "desktop_row_start": 3,
+              "desktop_column_start": 1,
+              "desktop_column_end": 3,
+              "desktop_horizontal_adjustment": 0,
+              "desktop_vertical_adjustment": 0,
+              "mobile_row_start": 12,
+              "mobile_column_start": 1,
+              "mobile_column_end": 3,
+              "mobile_horizontal_adjustment": 0,
+              "mobile_vertical_adjustment": 0,
+              "parallax_speed": 0,
+              "parallax_direction": "vertical"
+            },
+            "blocks": {
+              "image_with_caption_Yc3Rpc": {
+                "type": "image-with-caption",
+                "settings": {
+                  "image": "shopify://shop_images/IMG_4495.png",
+                  "caption": "",
+                  "max_width": 100,
+                  "mobile_max_width": 100
+                },
+                "blocks": {}
+              }
+            },
+            "block_order": [
+              "image_with_caption_Yc3Rpc"
+            ]
+          },
+          "dynamic_grid_item_TDgjQp": {
+            "type": "_dynamic-grid-item",
+            "settings": {
+              "visibility": "both",
+              "text_alignment": "left",
+              "desktop_row_start": 3,
+              "desktop_column_start": 12,
+              "desktop_column_end": 14,
+              "desktop_horizontal_adjustment": 0,
+              "desktop_vertical_adjustment": 0,
+              "mobile_row_start": 8,
+              "mobile_column_start": 6,
+              "mobile_column_end": 8,
+              "mobile_horizontal_adjustment": 0,
+              "mobile_vertical_adjustment": 0,
+              "parallax_speed": 0,
+              "parallax_direction": "vertical"
+            },
+            "blocks": {
+              "image_with_caption_GwGW6m": {
+                "type": "image-with-caption",
+                "settings": {
+                  "image": "shopify://shop_images/IMG_4491.png",
+                  "caption": "",
+                  "max_width": 100,
+                  "mobile_max_width": 100
+                },
+                "blocks": {}
+              }
+            },
+            "block_order": [
+              "image_with_caption_GwGW6m"
+            ]
+          },
+          "dynamic_grid_item_LWjBHN": {
+            "type": "_dynamic-grid-item",
+            "settings": {
+              "visibility": "both",
+              "text_alignment": "left",
+              "desktop_row_start": 2,
+              "desktop_column_start": 5,
+              "desktop_column_end": 15,
+              "desktop_horizontal_adjustment": 0,
+              "desktop_vertical_adjustment": 0,
+              "mobile_row_start": 4,
+              "mobile_column_start": 1,
+              "mobile_column_end": 8,
+              "mobile_horizontal_adjustment": 0,
+              "mobile_vertical_adjustment": 0,
+              "parallax_speed": 0,
+              "parallax_direction": "vertical"
+            },
+            "blocks": {
+              "dynamic_grid_heading_JhKTxH": {
+                "type": "_dynamic-grid-heading",
+                "settings": {
+                  "text": "When your body gets the same treatment as your face, results stop being a maybe.",
+                  "show_text_vertically": false,
+                  "font_size_desktop": 5,
+                  "font_size_mobile": 10,
+                  "font_size_line_height": 1,
+                  "html_tag": "p",
+                  "indent": "none",
+                  "highlight_effect": "default",
+                  "highlight_accent_color": "",
+                  "highlight_text_color": ""
+                },
+                "blocks": {}
+              }
+            },
+            "block_order": [
+              "dynamic_grid_heading_JhKTxH"
+            ]
+          }
+        },
+        "block_order": [
+          "dynamic_grid_item_mRzbmN",
+          "dynamic_grid_item_FCxrKj",
+          "dynamic_grid_item_DXcFkn",
+          "dynamic_grid_item_6ffmDz",
+          "dynamic_grid_item_TDgjQp",
+          "dynamic_grid_item_LWjBHN"
+        ],
+        "disabled": true,
+        "name": "t:sections.dynamic_grid.name",
+        "settings": {
+          "color_scheme": "scheme-1",
+          "allow_transparent_header": true,
+          "show_background_image_parallax": false,
+          "add_vertical_spacing": true,
+          "add_horizontal_spacing": true,
+          "gap": 16,
+          "mobile_gap": 10,
+          "overlay_color": "#000000",
+          "overlay_opacity": 20
+        }
+      },
+      "multi_column_rQEjUR": {
+        "type": "multi-column",
+        "blocks": {
+          "multi_column_column_NCFtCm": {
+            "type": "_multi-column-column",
+            "settings": {
+              "color_scheme": "",
+              "text_alignment": "left"
+            },
+            "blocks": {
+              "image_wMkDiw": {
+                "type": "image",
+                "settings": {
+                  "image": "shopify://shop_images/before_after_test.png",
+                  "max_width": 100,
+                  "mobile_max_width": 100
+                },
+                "blocks": {}
+              },
+              "heading_tgyMLR": {
+                "type": "heading",
+                "settings": {
+                  "text": "Strawberry skin & texture",
+                  "heading_size": "h5",
+                  "html_tag": "p",
+                  "indent": "none",
+                  "highlight_effect": "default",
+                  "highlight_accent_color": "",
+                  "highlight_text_color": ""
+                },
+                "blocks": {}
+              },
+              "rich_text_xDbFmn": {
+                "type": "rich-text",
+                "name": "t:blocks.rich_text.name",
+                "settings": {
+                  "text": "<p>Martina, 26 - Consumer study </p>",
+                  "content_width": "sm"
+                },
+                "blocks": {}
+              },
+              "rich_text_Ngia74": {
+                "type": "rich-text",
+                "settings": {
+                  "text": "<p>I was feeling desperate about red bumps on my legs, but this product made a huge difference after just first few uses. I cannot recommend this scrub enough!</p>",
+                  "content_width": "sm"
+                },
+                "blocks": {}
+              },
+              "accordion_Hydk8F": {
+                "type": "accordion",
+                "name": "t:blocks.accordion.name",
+                "settings": {
+                  "open_by_default": false,
+                  "title": "Cause, Solution & Result",
+                  "uppercase_title": false
+                },
+                "blocks": {
+                  "rich_text_7wAJNQ": {
+                    "type": "rich-text",
+                    "settings": {
+                      "text": "<p>Strawberry skin is caused by clogged pores and keratin buildup, leading to small red or dark bumps, typically on the legs and arms. This scrub gently resurfaces textured skin, clears buildup, and helps smooth and soften rough patches. With consistent use, it visibly reduces bumps and reveals clearer, more even-toned skin.</p>",
+                      "content_width": "sm"
+                    },
+                    "blocks": {}
+                  }
+                },
+                "block_order": [
+                  "rich_text_7wAJNQ"
+                ]
+              }
+            },
+            "block_order": [
+              "image_wMkDiw",
+              "heading_tgyMLR",
+              "rich_text_xDbFmn",
+              "rich_text_Ngia74",
+              "accordion_Hydk8F"
+            ]
+          },
+          "multi_column_column_xPMDPa": {
+            "type": "_multi-column-column",
+            "settings": {
+              "color_scheme": "",
+              "text_alignment": "left"
+            },
+            "blocks": {
+              "image_3QTrGp": {
+                "type": "image",
+                "settings": {
+                  "image": "shopify://shop_images/before_after_test.png",
+                  "max_width": 100,
+                  "mobile_max_width": 100
+                },
+                "blocks": {}
+              },
+              "heading_KmVbny": {
+                "type": "heading",
+                "settings": {
+                  "text": "Ingrown hairs & dark spots",
+                  "heading_size": "h5",
+                  "html_tag": "p",
+                  "indent": "none",
+                  "highlight_effect": "default",
+                  "highlight_accent_color": "",
+                  "highlight_text_color": ""
+                },
+                "blocks": {}
+              },
+              "rich_text_LmH8nD": {
+                "type": "rich-text",
+                "name": "t:blocks.rich_text.name",
+                "settings": {
+                  "text": "<p>Sanja, 36 - Verified Customer</p>",
+                  "content_width": "sm"
+                },
+                "blocks": {}
+              },
+              "rich_text_KRwmDR": {
+                "type": "rich-text",
+                "settings": {
+                  "text": "<p>I was feeling desperate about red bumps on my legs, but this product made a huge difference after just first few uses. I cannot recommend this scrub enough!</p>",
+                  "content_width": "sm"
+                },
+                "blocks": {}
+              },
+              "accordion_MRPrEe": {
+                "type": "accordion",
+                "name": "t:blocks.accordion.name",
+                "settings": {
+                  "open_by_default": false,
+                  "title": "Cause, Solution & Result",
+                  "uppercase_title": false
+                },
+                "blocks": {
+                  "rich_text_8nrgeP": {
+                    "type": "rich-text",
+                    "settings": {
+                      "text": "<p>Ingrown hairs form when dead skin builds up and traps the hair beneath the surface, often leading to inflammation, bumps, and post-shave marks. Over time, this can leave behind dark spots and uneven tone. This scrub helps by gently exfoliating the skin’s surface, clearing buildup, and supporting healthy cell turnover. The result is smoother skin, fewer ingrowns, and visibly brighter, more even tone over time.</p>",
+                      "content_width": "sm"
+                    },
+                    "blocks": {}
+                  }
+                },
+                "block_order": [
+                  "rich_text_8nrgeP"
+                ]
+              }
+            },
+            "block_order": [
+              "image_3QTrGp",
+              "heading_KmVbny",
+              "rich_text_LmH8nD",
+              "rich_text_KRwmDR",
+              "accordion_MRPrEe"
+            ]
+          },
+          "multi_column_column_jb8kBG": {
+            "type": "_multi-column-column",
+            "settings": {
+              "color_scheme": "",
+              "text_alignment": "left"
+            },
+            "blocks": {
+              "image_UdBRWc": {
+                "type": "image",
+                "settings": {
+                  "image": "shopify://shop_images/before_after_test.png",
+                  "max_width": 100,
+                  "mobile_max_width": 100
+                },
+                "blocks": {}
+              },
+              "heading_neWahn": {
+                "type": "heading",
+                "settings": {
+                  "text": "Body acne & uneven skin tone",
+                  "heading_size": "h5",
+                  "html_tag": "p",
+                  "indent": "none",
+                  "highlight_effect": "default",
+                  "highlight_accent_color": "",
+                  "highlight_text_color": ""
+                },
+                "blocks": {}
+              },
+              "rich_text_AnBUdV": {
+                "type": "rich-text",
+                "name": "t:blocks.rich_text.name",
+                "settings": {
+                  "text": "<p>Dorotea, 26 - Verified Customer</p>",
+                  "content_width": "sm"
+                },
+                "blocks": {}
+              },
+              "rich_text_B8Jw4T": {
+                "type": "rich-text",
+                "settings": {
+                  "text": "<p>I was feeling desperate about red bumps on my legs, but this product made a huge difference after just first few uses. I cannot recommend this scrub enough!</p>",
+                  "content_width": "sm"
+                },
+                "blocks": {}
+              },
+              "accordion_wX9c7n": {
+                "type": "accordion",
+                "name": "t:blocks.accordion.name",
+                "settings": {
+                  "open_by_default": false,
+                  "title": "Cause, Solution & Result",
+                  "uppercase_title": false
+                },
+                "blocks": {
+                  "rich_text_aVmgBt": {
+                    "type": "rich-text",
+                    "settings": {
+                      "text": "<p>Breakouts and uneven tone are often caused by clogged pores, excess oil, and buildup that disrupts skin clarity. This scrub helps reduce congestion, calm active blemishes, and gently fade dark marks over time—leaving skin visibly clearer, smoother, and more balanced.</p>",
+                      "content_width": "sm"
+                    },
+                    "blocks": {}
+                  }
+                },
+                "block_order": [
+                  "rich_text_aVmgBt"
+                ]
+              }
+            },
+            "block_order": [
+              "image_UdBRWc",
+              "heading_neWahn",
+              "rich_text_AnBUdV",
+              "rich_text_B8Jw4T",
+              "accordion_wX9c7n"
+            ]
+          },
+          "section-header": {
+            "type": "_section-header",
+            "static": true,
+            "settings": {
+              "subheading": "Real problems, real results",
+              "title": "When your body gets the same treatment as your face, results stop being a maybe.",
+              "content": "",
+              "button_text": "",
+              "button_link": "",
+              "button_style": "outline",
+              "text_alignment": "left",
+              "heading_size": "h4",
+              "title_icon": "none",
+              "show_scrolling_title": false
+            },
+            "blocks": {}
+          }
+        },
+        "block_order": [
+          "multi_column_column_NCFtCm",
+          "multi_column_column_xPMDPa",
+          "multi_column_column_jb8kBG"
+        ],
+        "name": "t:sections.multi_column.name",
+        "settings": {
+          "color_scheme": "",
+          "show_internal_borders": false,
+          "add_horizontal_spacing": true,
+          "add_top_spacing": true,
+          "add_bottom_spacing": true,
+          "items_per_row": 3,
+          "stack_on_mobile": false,
+          "stack_on_desktop": true,
+          "column_spacing": "md",
+          "row_spacing": "md"
+        }
+      },
+      "text_with_icons_WVdHJP": {
+        "type": "text-with-icons",
+        "blocks": {
+          "item_NfYC9t": {
+            "type": "item",
+            "settings": {
+              "icon": "none",
+              "title": "97%",
+              "heading_tag": "h3",
+              "content": "<p>noticed visibly smoother skin and reduced rough texture</p>"
+            }
+          },
+          "item_WUxhQf": {
+            "type": "item",
+            "settings": {
+              "icon": "none",
+              "title": "94%",
+              "heading_tag": "h3",
+              "content": "<p>saw a reduction in red bumps, ingrowns, or clogged pores</p>"
+            }
+          },
+          "item_gfHa3V": {
+            "type": "item",
+            "settings": {
+              "icon": "none",
+              "title": "91%",
+              "heading_tag": "h3",
+              "content": "<p>reported a more even tone and clearer-looking skin</p>"
+            }
+          }
+        },
+        "block_order": [
+          "item_NfYC9t",
+          "item_WUxhQf",
+          "item_gfHa3V"
+        ],
+        "disabled": true,
+        "name": "t:sections.text_with_icons.name",
+        "settings": {
+          "color_scheme": "scheme-2",
+          "subheading": "",
+          "title": "Consumer study results",
+          "content": "<p>A 4-week study of 30 participants evaluating skin clarity, smoothness, and tone through weekly progress tracking. </p>",
+          "heading_tag": "h4",
+          "text_alignment": "center",
+          "items_per_row_desktop": 3,
+          "stack_on_mobile": true,
+          "separator_style": "horizontal",
+          "icon_position": "stacked",
+          "icon_width": 36,
+          "mobile_icon_width": 32,
+          "item_text_alignment": "left"
+        }
+      },
+      "specifications_eNcJTp": {
+        "type": "specifications",
+        "blocks": {
+          "attribute_xFxiDa": {
+            "type": "attribute",
+            "settings": {
+              "icon": "none",
+              "title": "97%",
+              "content": "<p>noticed visibly smoother skin and reduced rough texture</p>"
+            }
+          },
+          "attribute_WwKLKQ": {
+            "type": "attribute",
+            "settings": {
+              "icon": "none",
+              "title": "94%",
+              "content": "<p>saw a reduction in red bumps, ingrowns, or clogged pores</p>"
+            }
+          },
+          "attribute_bqxeAi": {
+            "type": "attribute",
+            "settings": {
+              "icon": "none",
+              "title": "91%",
+              "content": "<p>reported a more even tone and clearer-looking skin</p>"
+            }
+          }
+        },
+        "block_order": [
+          "attribute_xFxiDa",
+          "attribute_WwKLKQ",
+          "attribute_bqxeAi"
+        ],
+        "disabled": true,
+        "name": "t:sections.specifications.name",
+        "settings": {
+          "color_scheme": "",
+          "layout": "split",
+          "add_image_spacing": false,
+          "image_position": "start",
+          "subheading": "Learn more",
+          "title": "Specifications",
+          "heading_size": "h3",
+          "content": "<p>Add specification attributes to help your customers choose the most appropriate product or to share brand values.</p>",
+          "collapse_attributes": false,
+          "show_attribute_icon_on_top": false,
+          "uppercase_attribute_title": false
+        }
+      },
+      "testimonials_yatPCz": {
+        "type": "testimonials",
+        "blocks": {
+          "testimonial_ENnqnW": {
+            "type": "testimonial",
+            "settings": {
+              "image": "shopify://shop_images/before_after_test.png",
+              "show_rating": true,
+              "rating": 5,
+              "author": "John S.",
+              "title": "Share a testimonial about your product or services and highlight your brand's strengths.",
+              "heading_tag": "h3",
+              "product": "",
+              "position": "place-self-start"
+            }
+          },
+          "testimonial_rFXAbU": {
+            "type": "testimonial",
+            "settings": {
+              "show_rating": false,
+              "rating": 5,
+              "author": "Mary U.",
+              "title": "Share a testimonial about your product or services and highlight your brand's strengths.",
+              "heading_tag": "h3",
+              "product": "",
+              "position": "place-self-start"
+            }
+          },
+          "testimonial_w3LjJJ": {
+            "type": "testimonial",
+            "settings": {
+              "show_rating": false,
+              "rating": 4,
+              "author": "Joshua A.",
+              "title": "Share a testimonial about your product or services and highlight your brand's strengths.",
+              "heading_tag": "h3",
+              "product": "",
+              "position": "place-self-start"
+            }
+          }
+        },
+        "block_order": [
+          "testimonial_ENnqnW",
+          "testimonial_rFXAbU",
+          "testimonial_w3LjJJ"
+        ],
+        "disabled": true,
+        "name": "t:sections.testimonials.name",
+        "settings": {
+          "color_scheme": "",
+          "text_alignment": "left",
+          "image_position": "start",
+          "autoplay": true,
+          "cycle_speed": 6
+        }
+      },
+      "multi_column_X6LX8q": {
+        "type": "multi-column",
+        "blocks": {
+          "multi_column_column_AXCyAJ": {
+            "type": "_multi-column-column",
+            "settings": {
+              "color_scheme": "",
+              "text_alignment": "left"
+            },
+            "blocks": {
+              "image_KGpdhn": {
+                "type": "image",
+                "settings": {
+                  "image": "shopify://shop_images/IMG_6547_52a9a9b2-a967-4cf0-ac32-0d8fe5a49df3.jpg",
+                  "max_width": 100,
+                  "mobile_max_width": 100
+                },
+                "blocks": {}
+              },
+              "heading_bwjyAL": {
+                "type": "heading",
+                "settings": {
+                  "text": "Treats current and prevents future breakouts",
+                  "heading_size": "h4",
+                  "html_tag": "p",
+                  "indent": "none",
+                  "highlight_effect": "default",
+                  "highlight_accent_color": "",
+                  "highlight_text_color": ""
+                },
+                "blocks": {}
+              },
+              "rich_text_PYmDyU": {
+                "type": "rich-text",
+                "settings": {
+                  "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+                  "content_width": "sm"
+                },
+                "blocks": {}
+              }
+            },
+            "block_order": [
+              "image_KGpdhn",
+              "heading_bwjyAL",
+              "rich_text_PYmDyU"
+            ]
+          },
+          "multi_column_column_x9WxzM": {
+            "type": "_multi-column-column",
+            "settings": {
+              "color_scheme": "",
+              "text_alignment": "left"
+            },
+            "blocks": {
+              "image_VcANjD": {
+                "type": "image",
+                "settings": {
+                  "image": "shopify://shop_images/IMG_6311_218167a5-7d65-47d7-928b-2456607bc09b.jpg",
+                  "max_width": 100,
+                  "mobile_max_width": 100
+                },
+                "blocks": {}
+              },
+              "heading_9yCGRE": {
+                "type": "heading",
+                "settings": {
+                  "text": "Unclogs pores and sheds dead skin cells",
+                  "heading_size": "h4",
+                  "html_tag": "p",
+                  "indent": "none",
+                  "highlight_effect": "default",
+                  "highlight_accent_color": "",
+                  "highlight_text_color": ""
+                },
+                "blocks": {}
+              },
+              "rich_text_Pb8Jph": {
+                "type": "rich-text",
+                "settings": {
+                  "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+                  "content_width": "sm"
+                },
+                "blocks": {}
+              }
+            },
+            "block_order": [
+              "image_VcANjD",
+              "heading_9yCGRE",
+              "rich_text_Pb8Jph"
+            ]
+          },
+          "multi_column_column_YcWJfk": {
+            "type": "_multi-column-column",
+            "settings": {
+              "color_scheme": "",
+              "text_alignment": "left"
+            },
+            "blocks": {
+              "image_yWq37X": {
+                "type": "image",
+                "settings": {
+                  "image": "shopify://shop_images/IMG_6545.jpg",
+                  "max_width": 100,
+                  "mobile_max_width": 100
+                },
+                "blocks": {}
+              },
+              "heading_Gq3PXK": {
+                "type": "heading",
+                "settings": {
+                  "text": "Instantly hydrates and smoothes",
+                  "heading_size": "h4",
+                  "html_tag": "p",
+                  "indent": "none",
+                  "highlight_effect": "default",
+                  "highlight_accent_color": "",
+                  "highlight_text_color": ""
+                },
+                "blocks": {}
+              },
+              "rich_text_Xt6HcJ": {
+                "type": "rich-text",
+                "settings": {
+                  "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+                  "content_width": "sm"
+                },
+                "blocks": {}
+              }
+            },
+            "block_order": [
+              "image_yWq37X",
+              "heading_Gq3PXK",
+              "rich_text_Xt6HcJ"
+            ]
+          },
+          "section-header": {
+            "type": "_section-header",
+            "static": true,
+            "settings": {
+              "subheading": "",
+              "title": "More than a scrub. More than a mask.",
+              "content": "<p>Use this content to share information about your store and products.</p>",
+              "button_text": "",
+              "button_link": "",
+              "button_style": "outline",
+              "text_alignment": "left",
+              "heading_size": "h3",
+              "title_icon": "none",
+              "show_scrolling_title": false
+            },
+            "blocks": {}
+          }
+        },
+        "block_order": [
+          "multi_column_column_AXCyAJ",
+          "multi_column_column_x9WxzM",
+          "multi_column_column_YcWJfk"
+        ],
+        "disabled": true,
+        "name": "t:sections.multi_column.name",
+        "settings": {
+          "color_scheme": "",
+          "show_internal_borders": false,
+          "add_horizontal_spacing": true,
+          "add_top_spacing": true,
+          "add_bottom_spacing": true,
+          "items_per_row": 3,
+          "stack_on_mobile": false,
+          "stack_on_desktop": true,
+          "column_spacing": "md",
+          "row_spacing": "md"
+        }
+      },
+      "specifications_A8d3eb": {
+        "type": "specifications",
+        "blocks": {
+          "attribute_AVjdpU": {
+            "type": "attribute",
+            "settings": {
+              "icon": "picto-checked",
+              "title": "Restores moisture and repairs the skin barrier",
+              "content": "<p>Urea, ceramides, and postbiotics work together to deeply hydrate and strengthen the skin’s protective barrier - relieving dryness and restoring balance.</p>"
+            }
+          },
+          "attribute_fYrpxF": {
+            "type": "attribute",
+            "settings": {
+              "icon": "picto-checked",
+              "title": "Smooths texture and softens rough patches",
+              "content": "<ul><li>Removes any buildup and purifies pores to reduce the visible appearance of blemishes</li><li>Effectively restores balance to the skin's<br/>natural oils for a clarified complexion appearance</li><li>Exfoliates by breaking down the material that holds dead skin together, allowing it to shed naturally as it once did</li></ul>"
+            }
+          },
+          "attribute_pgbnFw": {
+            "type": "attribute",
+            "settings": {
+              "icon": "picto-checked",
+              "title": "Reveals a smoother and glowing complexion",
+              "content": "<ul><li>Beyond exfoliation, this formula nourishes and replenishes moisture to keep your skin soft and prepped for the next steps in<br/>your routine</li><li>Prepares skin to better absorb the rest of your regimen, making every product and ingredient that follows more effective</li><li>Has significant calming properties and increases skin’s hydration that enhance the result of smooth, soft skin</li></ul>"
+            }
+          }
+        },
+        "block_order": [
+          "attribute_AVjdpU",
+          "attribute_fYrpxF",
+          "attribute_pgbnFw"
+        ],
+        "name": "t:sections.specifications.name",
+        "settings": {
+          "color_scheme": "scheme-2",
+          "image": "shopify://shop_images/IMG_5823_2.jpg",
+          "layout": "split",
+          "add_image_spacing": false,
+          "image_position": "start",
+          "subheading": "Velvety-soft and irresistibly smooth",
+          "title": "For softer, smoother skin from the neck down.",
+          "heading_size": "h4",
+          "content": "<p>Combines barrier-repairing and skin-smoothing ingredients in their most effective forms for visible transformation.</p>",
+          "collapse_attributes": true,
+          "show_attribute_icon_on_top": false,
+          "uppercase_attribute_title": false
+        }
+      },
+      "multi_column_3RUrGQ": {
+        "type": "multi-column",
+        "blocks": {
+          "multi_column_column_WVG37z": {
+            "type": "_multi-column-column",
+            "settings": {
+              "color_scheme": "",
+              "text_alignment": "left"
+            },
+            "blocks": {
+              "image_URhPYE": {
+                "type": "image",
+                "settings": {
+                  "image": "shopify://shop_images/IMG_9734.jpg",
+                  "max_width": 100,
+                  "mobile_max_width": 100
+                },
+                "blocks": {}
+              },
+              "subheading_tYY3Rp": {
+                "type": "subheading",
+                "name": "t:blocks.subheading.name",
+                "settings": {
+                  "text": "01"
+                },
+                "blocks": {}
+              },
+              "heading_H7w4DC": {
+                "type": "heading",
+                "settings": {
+                  "text": "Apply to clean skin",
+                  "heading_size": "h5",
+                  "html_tag": "p",
+                  "indent": "none",
+                  "highlight_effect": "default",
+                  "highlight_accent_color": "",
+                  "highlight_text_color": ""
+                },
+                "blocks": {}
+              },
+              "rich_text_PHq9fD": {
+                "type": "rich-text",
+                "settings": {
+                  "text": "<p>Apply right after showering, while skin is still warm and damp. Damp skin enhances absorption and ingredient delivery - applying to dry skin creates a barrier that reduces effectiveness.</p>",
+                  "content_width": "sm"
+                },
+                "blocks": {}
+              }
+            },
+            "block_order": [
+              "image_URhPYE",
+              "subheading_tYY3Rp",
+              "heading_H7w4DC",
+              "rich_text_PHq9fD"
+            ]
+          },
+          "multi_column_column_M48U9n": {
+            "type": "_multi-column-column",
+            "settings": {
+              "color_scheme": "",
+              "text_alignment": "left"
+            },
+            "blocks": {
+              "image_3BkA3X": {
+                "type": "image",
+                "settings": {
+                  "image": "shopify://shop_images/IMG_0370_2.jpg",
+                  "max_width": 100,
+                  "mobile_max_width": 100
+                },
+                "blocks": {}
+              },
+              "subheading_3mz77K": {
+                "type": "subheading",
+                "name": "t:blocks.subheading.name",
+                "settings": {
+                  "text": "02"
+                },
+                "blocks": {}
+              },
+              "heading_YWkfJV": {
+                "type": "heading",
+                "settings": {
+                  "text": "Your last layer",
+                  "heading_size": "h5",
+                  "html_tag": "p",
+                  "indent": "none",
+                  "highlight_effect": "default",
+                  "highlight_accent_color": "",
+                  "highlight_text_color": ""
+                },
+                "blocks": {}
+              },
+              "rich_text_dpw74w": {
+                "type": "rich-text",
+                "settings": {
+                  "text": "<p>Massage in as your final step. It locks in moisture, soothes and reinforces barrier function like a soft, invisible shield for your skin.</p>",
+                  "content_width": "sm"
+                },
+                "blocks": {}
+              }
+            },
+            "block_order": [
+              "image_3BkA3X",
+              "subheading_3mz77K",
+              "heading_YWkfJV",
+              "rich_text_dpw74w"
+            ]
+          },
+          "multi_column_column_RyMKrR": {
+            "type": "_multi-column-column",
+            "settings": {
+              "color_scheme": "",
+              "text_alignment": "left"
+            },
+            "blocks": {
+              "image_MmjR66": {
+                "type": "image",
+                "settings": {
+                  "image": "shopify://shop_images/IMG_0353.jpg",
+                  "max_width": 100,
+                  "mobile_max_width": 100
+                },
+                "blocks": {}
+              },
+              "subheading_FhCWFL": {
+                "type": "subheading",
+                "name": "t:blocks.subheading.name",
+                "settings": {
+                  "text": "03"
+                },
+                "blocks": {}
+              },
+              "heading_LPxLgp": {
+                "type": "heading",
+                "settings": {
+                  "text": "Consistency is key",
+                  "heading_size": "h5",
+                  "html_tag": "p",
+                  "indent": "none",
+                  "highlight_effect": "default",
+                  "highlight_accent_color": "",
+                  "highlight_text_color": ""
+                },
+                "blocks": {}
+              },
+              "rich_text_m4xXLd": {
+                "type": "rich-text",
+                "settings": {
+                  "text": "<p>Your skin responds the moment you care for it but it’s the rituals you return to that create lasting results. Keep coming back to what works, and let the rest take care of itself.</p>",
+                  "content_width": "sm"
+                },
+                "blocks": {}
+              }
+            },
+            "block_order": [
+              "image_MmjR66",
+              "subheading_FhCWFL",
+              "heading_LPxLgp",
+              "rich_text_m4xXLd"
+            ]
+          },
+          "section-header": {
+            "type": "_section-header",
+            "static": true,
+            "settings": {
+              "subheading": "",
+              "title": "How to use",
+              "content": "",
+              "button_text": "",
+              "button_link": "",
+              "button_style": "outline",
+              "text_alignment": "left",
+              "heading_size": "h4",
+              "title_icon": "none",
+              "show_scrolling_title": false
+            },
+            "blocks": {}
+          }
+        },
+        "block_order": [
+          "multi_column_column_WVG37z",
+          "multi_column_column_M48U9n",
+          "multi_column_column_RyMKrR"
+        ],
+        "name": "t:sections.multi_column.name",
+        "settings": {
+          "color_scheme": "",
+          "show_internal_borders": false,
+          "add_horizontal_spacing": true,
+          "add_top_spacing": true,
+          "add_bottom_spacing": true,
+          "items_per_row": 3,
+          "stack_on_mobile": false,
+          "stack_on_desktop": true,
+          "column_spacing": "md",
+          "row_spacing": "md"
+        }
+      },
+      "specifications_YyBUQE": {
+        "type": "specifications",
+        "blocks": {
+          "attribute_gP9YJh": {
+            "type": "attribute",
+            "settings": {
+              "icon": "none",
+              "title": "Top Notes",
+              "content": "<p>Bergamot, Dewberry, Rose</p>"
+            }
+          },
+          "attribute_WTMtTK": {
+            "type": "attribute",
+            "settings": {
+              "icon": "none",
+              "title": "Middle Notes",
+              "content": "<p>Caramel, Patchouli, Jasmine, Lily of the Valley</p>"
+            }
+          },
+          "attribute_BTPaDC": {
+            "type": "attribute",
+            "settings": {
+              "icon": "none",
+              "title": "Dry-down Notes",
+              "content": "<p>Vanilla, Musk, Sandalwood</p>"
+            }
+          }
+        },
+        "block_order": [
+          "attribute_gP9YJh",
+          "attribute_WTMtTK",
+          "attribute_BTPaDC"
+        ],
+        "name": "t:sections.specifications.name",
+        "settings": {
+          "color_scheme": "scheme-2",
+          "image": "shopify://shop_images/IMG_6399.jpg",
+          "layout": "stacked",
+          "add_image_spacing": false,
+          "image_position": "start",
+          "subheading": "Fragrance profile",
+          "title": "Velvet meets vanilla",
+          "heading_size": "h4",
+          "content": "<p>A soft-spoken seduction: rose and dewberry drift into a heart of caramel and jasmine, finishing with vanilla and sandalwood that lingers like golden hour. Familiar, but impossible to place.</p>",
+          "collapse_attributes": false,
+          "show_attribute_icon_on_top": false,
+          "uppercase_attribute_title": false
+        }
+      },
+      "text_with_icons_NGPqJG": {
+        "type": "text-with-icons",
+        "blocks": {
+          "item_TyniXP": {
+            "type": "item",
+            "settings": {
+              "icon": "picto-heart",
+              "title": "Salicylic, Glycolic & Lactic Acids",
+              "heading_tag": "h6",
+              "content": "<p>Free worldwide shipping and returns - customs and duties taxes included</p>"
+            }
+          },
+          "item_PDa7XW": {
+            "type": "item",
+            "settings": {
+              "icon": "none",
+              "title": "Kaolin Clay, Volcanic Sand & Volcanic Pumice",
+              "heading_tag": "h6",
+              "content": "<p>We are available from monday to friday to answer your questions.</p>"
+            }
+          },
+          "item_e47HrC": {
+            "type": "item",
+            "settings": {
+              "icon": "none",
+              "title": "Colloidal Oatmeal, Prickley Pear Extract, Black and Green Tea Ferment",
+              "heading_tag": "h6",
+              "content": "<p>Your payment information is processed securely.</p>"
+            }
+          },
+          "item_VQQVAn": {
+            "type": "item",
+            "settings": {
+              "icon": "none",
+              "title": "Sodium Hyaluronate, Centella Asiatica & Allantoin",
+              "heading_tag": "h6",
+              "content": "<p>Enjoy a 30-day money-back guarantee for a risk-free shopping experience.</p>"
+            }
+          }
+        },
+        "block_order": [
+          "item_TyniXP",
+          "item_PDa7XW",
+          "item_e47HrC",
+          "item_VQQVAn"
+        ],
+        "disabled": true,
+        "name": "t:sections.text_with_icons.name",
+        "settings": {
+          "color_scheme": "scheme-4",
+          "subheading": "",
+          "title": "Key ingredients",
+          "content": "<p>Every ingredient is chosen for a reason. To exfoliate without stripping. To smooth without irritation. To hydrate while treating.</p>",
+          "heading_tag": "h3",
+          "text_alignment": "left",
+          "items_per_row_desktop": 2,
+          "stack_on_mobile": false,
+          "separator_style": "horizontal",
+          "icon_position": "stacked",
+          "icon_width": 36,
+          "mobile_icon_width": 32,
+          "item_text_alignment": "left"
+        }
+      },
+      "before_after_DzEPHP": {
+        "type": "before-after",
+        "blocks": {
+          "before_whkMNA": {
+            "type": "before",
+            "settings": {
+              "color_scheme": "",
+              "image": "shopify://shop_images/martina_1_before.jpg",
+              "text": "Before",
+              "text_size": "h7",
+              "text_position": "start"
+            }
+          },
+          "after_yK63Bd": {
+            "type": "after",
+            "settings": {
+              "color_scheme": "",
+              "image": "shopify://shop_images/martina_2_after.jpg",
+              "text": "After",
+              "text_size": "h7",
+              "text_position": "start"
+            }
+          }
+        },
+        "block_order": [
+          "before_whkMNA",
+          "after_yK63Bd"
+        ],
+        "disabled": true,
+        "name": "t:sections.before_after.name",
+        "settings": {
+          "color_scheme": "",
+          "layout": "split_image_left",
+          "add_comparison_spacing": true,
+          "subheading": "",
+          "title": "Before/after",
+          "title_tag": "h3",
+          "content": "<p>Showcase your product benefit by using before/after image comparison.</p>",
+          "button_text": "Learn more",
+          "button_url": "",
+          "button_style": "solid",
+          "cursor_direction": "horizontal",
+          "cursor_initial_position": 50,
+          "cursor_background": "#ffffff",
+          "cursor_arrows_color": "#000000"
+        }
+      },
+      "multi_column_7FCmxb": {
+        "type": "multi-column",
+        "blocks": {
+          "multi_column_column_cej9xV": {
+            "type": "_multi-column-column",
+            "settings": {
+              "color_scheme": "scheme-1",
+              "text_alignment": "left"
+            },
+            "blocks": {
+              "icon_rDCBRr": {
+                "type": "icon",
+                "name": "t:blocks.icon.name",
+                "settings": {
+                  "icon": "picto-science",
+                  "icon_width": 32,
+                  "mobile_icon_width": 24,
+                  "stroke_width": 1.5
+                },
+                "blocks": {}
+              },
+              "image_pRzQHp": {
+                "type": "image",
+                "disabled": true,
+                "settings": {
+                  "max_width": 100,
+                  "mobile_max_width": 100
+                },
+                "blocks": {}
+              },
+              "heading_7pBnQX": {
+                "type": "heading",
+                "settings": {
+                  "text": "Exfoliate + Resurface",
+                  "heading_size": "h5",
+                  "html_tag": "p",
+                  "indent": "none",
+                  "highlight_effect": "default",
+                  "highlight_accent_color": "",
+                  "highlight_text_color": ""
+                },
+                "blocks": {}
+              },
+              "rich_text_8Rzjif": {
+                "type": "rich-text",
+                "disabled": true,
+                "settings": {
+                  "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+                  "content_width": "sm"
+                },
+                "blocks": {}
+              },
+              "accordion_EaaQfK": {
+                "type": "accordion",
+                "name": "t:blocks.accordion.name",
+                "settings": {
+                  "open_by_default": false,
+                  "title": "12% AHA, BHA, PHA",
+                  "uppercase_title": false
+                },
+                "blocks": {
+                  "rich_text_F3zRXP": {
+                    "type": "rich-text",
+                    "settings": {
+                      "text": "<p><strong>Salicylic acid (BHA) </strong>-<strong> </strong>unclogs pores, clears body acne, and helps treat keratosis pilaris.</p><p><strong>Glycolic + Lactic acid (AHA) </strong>- resurfaces rough, bumpy skin and encourages glow through gentle cell renewal.</p><p><strong>Gluconolactone (PHA) </strong>- a gentle PHA that exfoliates while hydrating and strengthening the skin barrier.</p>",
+                      "content_width": "sm"
+                    },
+                    "blocks": {}
+                  }
+                },
+                "block_order": [
+                  "rich_text_F3zRXP"
+                ]
+              },
+              "accordion_EhYC3E": {
+                "type": "accordion",
+                "name": "t:blocks.accordion.name",
+                "settings": {
+                  "open_by_default": false,
+                  "title": "Tranexamic Acid",
+                  "uppercase_title": false
+                },
+                "blocks": {
+                  "rich_text_7jaxrN": {
+                    "type": "rich-text",
+                    "settings": {
+                      "text": "<p><strong>Tranexamic acid</strong> - a brightening active that helps fade dark spots, post-acne marks, and uneven tone by reducing excess melanin production.</p>",
+                      "content_width": "sm"
+                    },
+                    "blocks": {}
+                  }
+                },
+                "block_order": [
+                  "rich_text_7jaxrN"
+                ]
+              },
+              "accordion_a4eQeM": {
+                "type": "accordion",
+                "name": "t:blocks.accordion.name",
+                "disabled": true,
+                "settings": {
+                  "open_by_default": false,
+                  "title": "Purifying: Kaolin Clay",
+                  "uppercase_title": false
+                },
+                "blocks": {
+                  "rich_text_dn7mVD": {
+                    "type": "rich-text",
+                    "settings": {
+                      "text": "<p>Kaolin clay acts as a gentle andeffective purifying agent - absorbing excess oil, drawing out deep-set impurities, and decongesting pores without stripping the skin. It supports clarity and balance, especially in areas prone to buildup, congestion, and dullness.</p>",
+                      "content_width": "sm"
+                    },
+                    "blocks": {}
+                  }
+                },
+                "block_order": [
+                  "rich_text_dn7mVD"
+                ]
+              }
+            },
+            "block_order": [
+              "icon_rDCBRr",
+              "image_pRzQHp",
+              "heading_7pBnQX",
+              "rich_text_8Rzjif",
+              "accordion_EaaQfK",
+              "accordion_EhYC3E",
+              "accordion_a4eQeM"
+            ]
+          },
+          "multi_column_column_CGnrUL": {
+            "type": "_multi-column-column",
+            "settings": {
+              "color_scheme": "scheme-1",
+              "text_alignment": "left"
+            },
+            "blocks": {
+              "icon_gxTACa": {
+                "type": "icon",
+                "name": "t:blocks.icon.name",
+                "settings": {
+                  "icon": "picto-feather",
+                  "icon_width": 32,
+                  "mobile_icon_width": 24,
+                  "stroke_width": 1.5
+                },
+                "blocks": {}
+              },
+              "image_PKNJGU": {
+                "type": "image",
+                "disabled": true,
+                "settings": {
+                  "max_width": 100,
+                  "mobile_max_width": 100
+                },
+                "blocks": {}
+              },
+              "heading_VaiLHD": {
+                "type": "heading",
+                "settings": {
+                  "text": "",
+                  "heading_size": "h4",
+                  "html_tag": "p",
+                  "indent": "none",
+                  "highlight_effect": "default",
+                  "highlight_accent_color": "",
+                  "highlight_text_color": ""
+                },
+                "blocks": {}
+              },
+              "rich_text_by36gJ": {
+                "type": "rich-text",
+                "disabled": true,
+                "settings": {
+                  "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+                  "content_width": "sm"
+                },
+                "blocks": {}
+              },
+              "heading_KYdxY7": {
+                "type": "heading",
+                "name": "t:blocks.heading.name",
+                "settings": {
+                  "text": "Smooth + Purify",
+                  "heading_size": "h5",
+                  "html_tag": "p",
+                  "indent": "none",
+                  "highlight_effect": "default",
+                  "highlight_accent_color": "",
+                  "highlight_text_color": ""
+                },
+                "blocks": {}
+              },
+              "accordion_abCM3q": {
+                "type": "accordion",
+                "name": "t:blocks.accordion.name",
+                "settings": {
+                  "open_by_default": false,
+                  "title": "Pumice and Volcanic sand",
+                  "uppercase_title": false
+                },
+                "blocks": {
+                  "rich_text_RgjeqX": {
+                    "type": "rich-text",
+                    "settings": {
+                      "text": "<p><strong>Pumice </strong>- a natural exfoliant derived from volcanic rock that buffs away dead skin and rough texture, perfect for areas prone to keratosis pilaris and buildup.</p><p><strong>Volcanic sand </strong>- ultra-fine mineral particles that gently polish the skin, lifting trapped debris and leaving a soft, even finish.</p>",
+                      "content_width": "sm"
+                    },
+                    "blocks": {}
+                  }
+                },
+                "block_order": [
+                  "rich_text_RgjeqX"
+                ]
+              },
+              "accordion_VnY8cF": {
+                "type": "accordion",
+                "name": "t:blocks.accordion.name",
+                "disabled": true,
+                "settings": {
+                  "open_by_default": false,
+                  "title": "Physical Exfoliation: Volcanic Sand",
+                  "uppercase_title": false
+                },
+                "blocks": {
+                  "rich_text_GzBh7G": {
+                    "type": "rich-text",
+                    "settings": {
+                      "text": "<p>Write content about your brand or products.</p>",
+                      "content_width": "sm"
+                    },
+                    "blocks": {}
+                  }
+                },
+                "block_order": [
+                  "rich_text_GzBh7G"
+                ]
+              },
+              "accordion_iPexNW": {
+                "type": "accordion",
+                "name": "t:blocks.accordion.name",
+                "settings": {
+                  "open_by_default": false,
+                  "title": "Kaolin Clay",
+                  "uppercase_title": false
+                },
+                "blocks": {
+                  "rich_text_hFDDLw": {
+                    "type": "rich-text",
+                    "settings": {
+                      "text": "<p><strong>Kaolin clay</strong> - a gentle, non-drying clay that draws out impurities and absorbs excess oil—leaving skin clear, smooth, and balanced.</p>",
+                      "content_width": "sm"
+                    },
+                    "blocks": {}
+                  }
+                },
+                "block_order": [
+                  "rich_text_hFDDLw"
+                ]
+              }
+            },
+            "block_order": [
+              "icon_gxTACa",
+              "image_PKNJGU",
+              "heading_VaiLHD",
+              "rich_text_by36gJ",
+              "heading_KYdxY7",
+              "accordion_abCM3q",
+              "accordion_VnY8cF",
+              "accordion_iPexNW"
+            ]
+          },
+          "multi_column_column_MtgVje": {
+            "type": "_multi-column-column",
+            "settings": {
+              "color_scheme": "scheme-1",
+              "text_alignment": "left"
+            },
+            "blocks": {
+              "icon_4p6bGi": {
+                "type": "icon",
+                "name": "t:blocks.icon.name",
+                "settings": {
+                  "icon": "picto-drop-of-water",
+                  "icon_width": 32,
+                  "mobile_icon_width": 24,
+                  "stroke_width": 1.5
+                },
+                "blocks": {}
+              },
+              "image_iL7HM9": {
+                "type": "image",
+                "disabled": true,
+                "settings": {
+                  "max_width": 100,
+                  "mobile_max_width": 100
+                },
+                "blocks": {}
+              },
+              "heading_Um8VJM": {
+                "type": "heading",
+                "settings": {
+                  "text": "Repair + Calm",
+                  "heading_size": "h5",
+                  "html_tag": "p",
+                  "indent": "none",
+                  "highlight_effect": "default",
+                  "highlight_accent_color": "",
+                  "highlight_text_color": ""
+                },
+                "blocks": {}
+              },
+              "accordion_ryJGfC": {
+                "type": "accordion",
+                "name": "t:blocks.accordion.name",
+                "settings": {
+                  "open_by_default": false,
+                  "title": "Moisture Lockers",
+                  "uppercase_title": false
+                },
+                "blocks": {
+                  "rich_text_478mRa": {
+                    "type": "rich-text",
+                    "settings": {
+                      "text": "<p><strong>Squalane </strong>- a skin-identical lipid that restores softness, prevents moisture loss, and supports the skin barrier.</p><p><strong>Sodium hyaluronate </strong>- a form of hyaluronic acid that draws water deep into the skin, keeping it plump and hydrated.</p><p><strong>Glycerin </strong>- a powerful humectant that attracts and retains moisture, helping skin stay smooth and balanced.</p>",
+                      "content_width": "sm"
+                    },
+                    "blocks": {}
+                  }
+                },
+                "block_order": [
+                  "rich_text_478mRa"
+                ]
+              },
+              "accordion_hFHhwk": {
+                "type": "accordion",
+                "name": "t:blocks.accordion.name",
+                "settings": {
+                  "open_by_default": false,
+                  "title": "Ferments and Botanicas",
+                  "uppercase_title": false
+                },
+                "blocks": {
+                  "rich_text_Q9mLRy": {
+                    "type": "rich-text",
+                    "settings": {
+                      "text": "<p><strong>Centella asiatica </strong>- a healing herb known to calm inflammation, speed up skin recovery, and reduce redness.</p><p><strong>Green tea </strong>- rich in antioxidants, it helps soothe irritation, protect against environmental stress, and reduce signs of inflammation.</p><p><strong>Colloidal oatmeal </strong>- clinically proven to calm dry, sensitive, or reactive skin while supporting the skin’s moisture barrier.</p><p><strong>Fermented yeast extract </strong>- helps renew and rebalance the skin microbiome, promoting a smoother, healthier-looking complexion.</p><p><strong>Probiotic ferment </strong>- strengthens the skin’s natural defenses and helps reduce sensitivity and dryness after exfoliation.</p><p><strong>Radish root ferment </strong>- a gentle plant-based ferment with natural soothing and antimicrobial properties to help calm and protect skin.</p>",
+                      "content_width": "sm"
+                    },
+                    "blocks": {}
+                  }
+                },
+                "block_order": [
+                  "rich_text_Q9mLRy"
+                ]
+              },
+              "accordion_tAfeeE": {
+                "type": "accordion",
+                "name": "t:blocks.accordion.name",
+                "disabled": true,
+                "settings": {
+                  "open_by_default": false,
+                  "title": "Accordion title",
+                  "uppercase_title": false
+                },
+                "blocks": {
+                  "rich_text_ExndpF": {
+                    "type": "rich-text",
+                    "settings": {
+                      "text": "<p>Write content about your brand or products.</p>",
+                      "content_width": "sm"
+                    },
+                    "blocks": {}
+                  }
+                },
+                "block_order": [
+                  "rich_text_ExndpF"
+                ]
+              },
+              "rich_text_CMD4EE": {
+                "type": "rich-text",
+                "settings": {
+                  "text": "",
+                  "content_width": "sm"
+                },
+                "blocks": {}
+              }
+            },
+            "block_order": [
+              "icon_4p6bGi",
+              "image_iL7HM9",
+              "heading_Um8VJM",
+              "accordion_ryJGfC",
+              "accordion_hFHhwk",
+              "accordion_tAfeeE",
+              "rich_text_CMD4EE"
+            ]
+          },
+          "section-header": {
+            "type": "_section-header",
+            "static": true,
+            "settings": {
+              "subheading": "",
+              "title": "Key ingredients",
+              "content": "<p>Every ingredient is chosen for a reason. To exfoliate without stripping. To smooth without irritation. To hydrate while treating.</p>",
+              "button_text": "",
+              "button_link": "",
+              "button_style": "link",
+              "text_alignment": "left",
+              "heading_size": "h4",
+              "title_icon": "none",
+              "show_scrolling_title": false
+            },
+            "blocks": {}
+          }
+        },
+        "block_order": [
+          "multi_column_column_cej9xV",
+          "multi_column_column_CGnrUL",
+          "multi_column_column_MtgVje"
+        ],
+        "disabled": true,
+        "name": "t:sections.multi_column.name",
+        "settings": {
+          "color_scheme": "scheme-1",
+          "show_internal_borders": false,
+          "add_horizontal_spacing": true,
+          "add_top_spacing": true,
+          "add_bottom_spacing": true,
+          "items_per_row": 3,
+          "stack_on_mobile": true,
+          "stack_on_desktop": true,
+          "column_spacing": "md",
+          "row_spacing": "md"
+        }
+      },
+      "multi_column_fKj4Wp": {
+        "type": "multi-column",
+        "blocks": {
+          "multi_column_column_bLkDTR": {
+            "type": "_multi-column-column",
+            "settings": {
+              "color_scheme": "scheme-1",
+              "text_alignment": "left"
+            },
+            "blocks": {
+              "icon_JFgkrG": {
+                "type": "icon",
+                "name": "t:blocks.icon.name",
+                "disabled": true,
+                "settings": {
+                  "icon": "picto-science",
+                  "icon_width": 32,
+                  "mobile_icon_width": 24,
+                  "stroke_width": 1.5
+                },
+                "blocks": {}
+              },
+              "image_9ACwDa": {
+                "type": "image",
+                "settings": {
+                  "image": "shopify://shop_images/IMG_0611.jpg",
+                  "max_width": 100,
+                  "mobile_max_width": 100
+                },
+                "blocks": {}
+              },
+              "heading_Figd3r": {
+                "type": "heading",
+                "settings": {
+                  "text": "Exfoliate + Resurface",
+                  "heading_size": "h5",
+                  "html_tag": "p",
+                  "indent": "none",
+                  "highlight_effect": "default",
+                  "highlight_accent_color": "",
+                  "highlight_text_color": ""
+                },
+                "blocks": {}
+              },
+              "rich_text_far6Nn": {
+                "type": "rich-text",
+                "disabled": true,
+                "settings": {
+                  "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+                  "content_width": "sm"
+                },
+                "blocks": {}
+              },
+              "accordion_m9nrxq": {
+                "type": "accordion",
+                "name": "t:blocks.accordion.name",
+                "settings": {
+                  "open_by_default": false,
+                  "title": "12% AHA, BHA, PHA",
+                  "uppercase_title": false
+                },
+                "blocks": {
+                  "rich_text_nBPQxH": {
+                    "type": "rich-text",
+                    "settings": {
+                      "text": "<p><strong>Salicylic acid (BHA) </strong>-<strong> </strong>unclogs pores, clears body acne, and helps treat keratosis pilaris.</p><p><strong>Glycolic + Lactic acid (AHA) </strong>- resurfaces rough, bumpy skin and encourages glow through gentle cell renewal.</p><p><strong>Gluconolactone (PHA) </strong>- a gentle PHA that exfoliates while hydrating and strengthening the skin barrier.</p>",
+                      "content_width": "sm"
+                    },
+                    "blocks": {}
+                  }
+                },
+                "block_order": [
+                  "rich_text_nBPQxH"
+                ]
+              },
+              "accordion_gHYfCU": {
+                "type": "accordion",
+                "name": "t:blocks.accordion.name",
+                "settings": {
+                  "open_by_default": false,
+                  "title": "Tranexamic Acid",
+                  "uppercase_title": false
+                },
+                "blocks": {
+                  "rich_text_L6ng8g": {
+                    "type": "rich-text",
+                    "settings": {
+                      "text": "<p><strong>Tranexamic acid</strong> - a brightening active that helps fade dark spots, post-acne marks, and uneven tone by reducing excess melanin production.</p>",
+                      "content_width": "sm"
+                    },
+                    "blocks": {}
+                  }
+                },
+                "block_order": [
+                  "rich_text_L6ng8g"
+                ]
+              },
+              "accordion_7bCXJK": {
+                "type": "accordion",
+                "name": "t:blocks.accordion.name",
+                "disabled": true,
+                "settings": {
+                  "open_by_default": false,
+                  "title": "Purifying: Kaolin Clay",
+                  "uppercase_title": false
+                },
+                "blocks": {
+                  "rich_text_TqWjVx": {
+                    "type": "rich-text",
+                    "settings": {
+                      "text": "<p>Kaolin clay acts as a gentle andeffective purifying agent - absorbing excess oil, drawing out deep-set impurities, and decongesting pores without stripping the skin. It supports clarity and balance, especially in areas prone to buildup, congestion, and dullness.</p>",
+                      "content_width": "sm"
+                    },
+                    "blocks": {}
+                  }
+                },
+                "block_order": [
+                  "rich_text_TqWjVx"
+                ]
+              }
+            },
+            "block_order": [
+              "icon_JFgkrG",
+              "image_9ACwDa",
+              "heading_Figd3r",
+              "rich_text_far6Nn",
+              "accordion_m9nrxq",
+              "accordion_gHYfCU",
+              "accordion_7bCXJK"
+            ]
+          },
+          "multi_column_column_tWP8QL": {
+            "type": "_multi-column-column",
+            "settings": {
+              "color_scheme": "scheme-1",
+              "text_alignment": "left"
+            },
+            "blocks": {
+              "icon_7PWUkH": {
+                "type": "icon",
+                "name": "t:blocks.icon.name",
+                "disabled": true,
+                "settings": {
+                  "icon": "picto-feather",
+                  "icon_width": 32,
+                  "mobile_icon_width": 24,
+                  "stroke_width": 1.5
+                },
+                "blocks": {}
+              },
+              "image_eHLE74": {
+                "type": "image",
+                "settings": {
+                  "image": "shopify://shop_images/IMG_0615.jpg",
+                  "max_width": 100,
+                  "mobile_max_width": 100
+                },
+                "blocks": {}
+              },
+              "heading_papNcJ": {
+                "type": "heading",
+                "name": "t:blocks.heading.name",
+                "settings": {
+                  "text": "Smooth + Purify",
+                  "heading_size": "h5",
+                  "html_tag": "p",
+                  "indent": "none",
+                  "highlight_effect": "default",
+                  "highlight_accent_color": "",
+                  "highlight_text_color": ""
+                },
+                "blocks": {}
+              },
+              "rich_text_zbHEfY": {
+                "type": "rich-text",
+                "disabled": true,
+                "settings": {
+                  "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+                  "content_width": "sm"
+                },
+                "blocks": {}
+              },
+              "accordion_mFKktE": {
+                "type": "accordion",
+                "name": "t:blocks.accordion.name",
+                "settings": {
+                  "open_by_default": false,
+                  "title": "Pumice and Volcanic sand",
+                  "uppercase_title": false
+                },
+                "blocks": {
+                  "rich_text_Jaw4UJ": {
+                    "type": "rich-text",
+                    "settings": {
+                      "text": "<p><strong>Pumice </strong>- a natural exfoliant derived from volcanic rock that buffs away dead skin and rough texture, perfect for areas prone to keratosis pilaris and buildup.</p><p><strong>Volcanic sand </strong>- ultra-fine mineral particles that gently polish the skin, lifting trapped debris and leaving a soft, even finish.</p>",
+                      "content_width": "sm"
+                    },
+                    "blocks": {}
+                  }
+                },
+                "block_order": [
+                  "rich_text_Jaw4UJ"
+                ]
+              },
+              "accordion_7b89gn": {
+                "type": "accordion",
+                "name": "t:blocks.accordion.name",
+                "disabled": true,
+                "settings": {
+                  "open_by_default": false,
+                  "title": "Physical Exfoliation: Volcanic Sand",
+                  "uppercase_title": false
+                },
+                "blocks": {
+                  "rich_text_mqcLwB": {
+                    "type": "rich-text",
+                    "settings": {
+                      "text": "<p>Write content about your brand or products.</p>",
+                      "content_width": "sm"
+                    },
+                    "blocks": {}
+                  }
+                },
+                "block_order": [
+                  "rich_text_mqcLwB"
+                ]
+              },
+              "accordion_qHq4fd": {
+                "type": "accordion",
+                "name": "t:blocks.accordion.name",
+                "settings": {
+                  "open_by_default": false,
+                  "title": "Kaolin Clay",
+                  "uppercase_title": false
+                },
+                "blocks": {
+                  "rich_text_fd8dxB": {
+                    "type": "rich-text",
+                    "settings": {
+                      "text": "<p><strong>Kaolin clay</strong> - a gentle, non-drying clay that draws out impurities and absorbs excess oil—leaving skin clear, smooth, and balanced.</p>",
+                      "content_width": "sm"
+                    },
+                    "blocks": {}
+                  }
+                },
+                "block_order": [
+                  "rich_text_fd8dxB"
+                ]
+              }
+            },
+            "block_order": [
+              "icon_7PWUkH",
+              "image_eHLE74",
+              "heading_papNcJ",
+              "rich_text_zbHEfY",
+              "accordion_mFKktE",
+              "accordion_7b89gn",
+              "accordion_qHq4fd"
+            ]
+          },
+          "multi_column_column_9B6m3c": {
+            "type": "_multi-column-column",
+            "settings": {
+              "color_scheme": "scheme-1",
+              "text_alignment": "left"
+            },
+            "blocks": {
+              "icon_UtPaAe": {
+                "type": "icon",
+                "name": "t:blocks.icon.name",
+                "disabled": true,
+                "settings": {
+                  "icon": "picto-drop-of-water",
+                  "icon_width": 32,
+                  "mobile_icon_width": 24,
+                  "stroke_width": 1.5
+                },
+                "blocks": {}
+              },
+              "image_B4M3PC": {
+                "type": "image",
+                "settings": {
+                  "image": "shopify://shop_images/IMG_0636.jpg",
+                  "max_width": 100,
+                  "mobile_max_width": 100
+                },
+                "blocks": {}
+              },
+              "heading_TELicJ": {
+                "type": "heading",
+                "settings": {
+                  "text": "Repair + Calm",
+                  "heading_size": "h5",
+                  "html_tag": "p",
+                  "indent": "none",
+                  "highlight_effect": "default",
+                  "highlight_accent_color": "",
+                  "highlight_text_color": ""
+                },
+                "blocks": {}
+              },
+              "accordion_QMnE4D": {
+                "type": "accordion",
+                "name": "t:blocks.accordion.name",
+                "settings": {
+                  "open_by_default": false,
+                  "title": "Moisture Lockers",
+                  "uppercase_title": false
+                },
+                "blocks": {
+                  "rich_text_kdizTG": {
+                    "type": "rich-text",
+                    "settings": {
+                      "text": "<p><strong>Squalane </strong>- a skin-identical lipid that restores softness, prevents moisture loss, and supports the skin barrier.</p><p><strong>Sodium hyaluronate </strong>- a form of hyaluronic acid that draws water deep into the skin, keeping it plump and hydrated.</p><p><strong>Glycerin </strong>- a powerful humectant that attracts and retains moisture, helping skin stay smooth and balanced.</p>",
+                      "content_width": "sm"
+                    },
+                    "blocks": {}
+                  }
+                },
+                "block_order": [
+                  "rich_text_kdizTG"
+                ]
+              },
+              "accordion_UagCfd": {
+                "type": "accordion",
+                "name": "t:blocks.accordion.name",
+                "settings": {
+                  "open_by_default": false,
+                  "title": "Ferments and Botanicas",
+                  "uppercase_title": false
+                },
+                "blocks": {
+                  "rich_text_cJWzHF": {
+                    "type": "rich-text",
+                    "settings": {
+                      "text": "<p><strong>Centella asiatica </strong>- a healing herb known to calm inflammation, speed up skin recovery, and reduce redness.</p><p><strong>Green tea </strong>- rich in antioxidants, it helps soothe irritation, protect against environmental stress, and reduce signs of inflammation.</p><p><strong>Colloidal oatmeal </strong>- clinically proven to calm dry, sensitive, or reactive skin while supporting the skin’s moisture barrier.</p><p><strong>Fermented yeast extract </strong>- helps renew and rebalance the skin microbiome, promoting a smoother, healthier-looking complexion.</p><p><strong>Probiotic ferment </strong>- strengthens the skin’s natural defenses and helps reduce sensitivity and dryness after exfoliation.</p><p><strong>Radish root ferment </strong>- a gentle plant-based ferment with natural soothing and antimicrobial properties to help calm and protect skin.</p>",
+                      "content_width": "sm"
+                    },
+                    "blocks": {}
+                  }
+                },
+                "block_order": [
+                  "rich_text_cJWzHF"
+                ]
+              },
+              "accordion_MWdwB3": {
+                "type": "accordion",
+                "name": "t:blocks.accordion.name",
+                "disabled": true,
+                "settings": {
+                  "open_by_default": false,
+                  "title": "Accordion title",
+                  "uppercase_title": false
+                },
+                "blocks": {
+                  "rich_text_HNge37": {
+                    "type": "rich-text",
+                    "settings": {
+                      "text": "<p>Write content about your brand or products.</p>",
+                      "content_width": "sm"
+                    },
+                    "blocks": {}
+                  }
+                },
+                "block_order": [
+                  "rich_text_HNge37"
+                ]
+              }
+            },
+            "block_order": [
+              "icon_UtPaAe",
+              "image_B4M3PC",
+              "heading_TELicJ",
+              "accordion_QMnE4D",
+              "accordion_UagCfd",
+              "accordion_MWdwB3"
+            ]
+          },
+          "section-header": {
+            "type": "_section-header",
+            "static": true,
+            "settings": {
+              "subheading": "",
+              "title": "Key ingredients",
+              "content": "<p>Every ingredient is chosen for a reason. To exfoliate without stripping. To smooth without irritation. To hydrate while treating.</p>",
+              "button_text": "",
+              "button_link": "",
+              "button_style": "link",
+              "text_alignment": "left",
+              "heading_size": "h4",
+              "title_icon": "none",
+              "show_scrolling_title": false
+            },
+            "blocks": {}
+          }
+        },
+        "block_order": [
+          "multi_column_column_bLkDTR",
+          "multi_column_column_tWP8QL",
+          "multi_column_column_9B6m3c"
+        ],
+        "name": "t:sections.multi_column.name",
+        "settings": {
+          "color_scheme": "scheme-1",
+          "show_internal_borders": false,
+          "add_horizontal_spacing": true,
+          "add_top_spacing": true,
+          "add_bottom_spacing": true,
+          "items_per_row": 3,
+          "stack_on_mobile": false,
+          "stack_on_desktop": true,
+          "column_spacing": "md",
+          "row_spacing": "md"
+        }
+      },
+      "featured_collections_jGjyMx": {
+        "type": "featured-collections",
+        "blocks": {
+          "collection_qEeC4C": {
+            "type": "collection",
+            "settings": {
+              "collection": "test-1",
+              "products_count": 8,
+              "title": "Complete your routine",
+              "content": "",
+              "link": "{{ block.settings.collection.url }}"
+            }
+          }
+        },
+        "block_order": [
+          "collection_qEeC4C"
+        ],
+        "disabled": true,
+        "name": "t:sections.featured_collections.name",
+        "settings": {
+          "color_scheme": "",
+          "stack_products_mobile": false,
+          "stack_products_desktop": true,
+          "products_per_row_mobile": "2",
+          "products_per_row_desktop": 4,
+          "tabs_alignment": "start",
+          "tabs_icon": "none",
+          "show_view_all_button": false,
+          "show_scrolling_bar": true
+        }
+      },
+      "faq_yQDJDw": {
+        "type": "faq",
+        "blocks": {
+          "category_PAHy4E": {
+            "type": "category",
+            "settings": {
+              "title": "Product",
+              "icon": "none",
+              "icon_width": 24,
+              "mobile_icon_width": 20
+            }
+          },
+          "question_gMmEBj": {
+            "type": "question",
+            "settings": {
+              "question": "How is it different from other body creams?",
+              "answer": "<p>Designed to meet the standards of advanced facial care, this cream combines clinically inspired ingredients with a deeply comforting texture. It goes beyond surface-level moisturization to support skin renewal, reinforce the barrier, and leave the body feeling smooth, soothed, and resilient - without compromising on sensorial pleasure.</p>",
+              "icon": "none",
+              "icon_width": 24,
+              "mobile_icon_width": 20
+            }
+          },
+          "question_xNcHcf": {
+            "type": "question",
+            "settings": {
+              "question": "Where does Sopele body cream fit into my daily routine?",
+              "answer": "<p>Use it as the final step in your body care routine, after cleansing and applying serum. It locks in hydration, reinforces the skin barrier, and leaves a soft, silky finish.</p>",
+              "icon": "none",
+              "icon_width": 24,
+              "mobile_icon_width": 20
+            }
+          },
+          "question_9drz63": {
+            "type": "question",
+            "settings": {
+              "question": "Can I use it on keratosis pilaris?",
+              "answer": "<p>Yes. This cream was designed to help with common body skin concerns, including rough texture and clogged follicles. With consistent use, it can help smooth bumps, reduce redness, and improve the overall appearance of areas affected by keratosis pilaris.</p>",
+              "icon": "none",
+              "icon_width": 24,
+              "mobile_icon_width": 20
+            }
+          },
+          "question_GHpBY7": {
+            "type": "question",
+            "settings": {
+              "question": "How is it different from other body scrubs?",
+              "answer": "",
+              "icon": "none",
+              "icon_width": 24,
+              "mobile_icon_width": 20
+            }
+          },
+          "question_Kkdfic": {
+            "type": "question",
+            "settings": {
+              "question": "Can I layer it with other actives?",
+              "answer": "<p>Absolutely. The formula was thoughtfully made to play well with others - including exfoliating acids, retinoids, or treatments you might use before. It’s gentle enough to soothe the skin after actives while sealing in hydration and supporting recovery.</p>",
+              "icon": "none",
+              "icon_width": 24,
+              "mobile_icon_width": 20
+            }
+          },
+          "question_icHTtB": {
+            "type": "question",
+            "settings": {
+              "question": "How long does it take to see results?",
+              "answer": "<p>Many users notice immediate improvements in softness and comfort after the first application. For visible improvements in skin texture, tone, and resilience, results typically appear within 2 to 4 weeks of consistent daily use, especially when the cream is used daily as part of the whole Sopele body care routine.</p>",
+              "icon": "none",
+              "icon_width": 24,
+              "mobile_icon_width": 20
+            }
+          },
+          "question_LhEQCr": {
+            "type": "question",
+            "settings": {
+              "question": "Is it safe to use during pregnancy?",
+              "answer": "<p>Yes, the cream is suitable for use during pregnancy. It does not contain retinoids or other ingredients typically restricted during this time. However, if you have any specific concerns, we recommend checking with your healthcare provider.</p>",
+              "icon": "none",
+              "icon_width": 24,
+              "mobile_icon_width": 20
+            }
+          },
+          "question_mXPVqT": {
+            "type": "question",
+            "settings": {
+              "question": "Is it dermatologist tested?",
+              "answer": "<p>Write a clear and concise answer to guide your customers.</p>",
+              "icon": "none",
+              "icon_width": 24,
+              "mobile_icon_width": 20
+            }
+          },
+          "question_Mbh6aU": {
+            "type": "question",
+            "settings": {
+              "question": "Is it vegan and cruelty free?",
+              "answer": "<p>Yes, this product is 100% vegan and cruelty-free. No animal-derived ingredients are used, and we do not test on animals.</p>",
+              "icon": "none",
+              "icon_width": 24,
+              "mobile_icon_width": 20
+            }
+          },
+          "category_hUTDww": {
+            "type": "category",
+            "settings": {
+              "title": "Order",
+              "icon": "none",
+              "icon_width": 24,
+              "mobile_icon_width": 20
+            }
+          },
+          "question_nnLDdz": {
+            "type": "question",
+            "settings": {
+              "question": "Do you ship overseas?",
+              "answer": "<p>Yes, we ship all over the world. Shipping costs will apply, and will be added at checkout. We run discounts and promotions all year, so stay tuned for exclusive deals.</p>",
+              "icon": "none",
+              "icon_width": 24,
+              "mobile_icon_width": 20
+            }
+          },
+          "question_KdjngA": {
+            "type": "question",
+            "settings": {
+              "question": "How long will it take to get my orders?",
+              "answer": "<p>It depends on where you are. Orders processed here will take 5-7 business days to arrive. Overseas deliveries can take anywhere from 7-16 days. Delivery details will be provided in your confirmation email.</p>",
+              "icon": "none",
+              "icon_width": 24,
+              "mobile_icon_width": 20
+            }
+          },
+          "question_9pfVmD": {
+            "type": "question",
+            "settings": {
+              "question": "Any question?",
+              "answer": "<p>You can contact us through our contact page! We will be happy to assist you.</p>",
+              "icon": "none",
+              "icon_width": 24,
+              "mobile_icon_width": 20
+            }
+          }
+        },
+        "block_order": [
+          "category_PAHy4E",
+          "question_gMmEBj",
+          "question_xNcHcf",
+          "question_9drz63",
+          "question_GHpBY7",
+          "question_Kkdfic",
+          "question_icHTtB",
+          "question_LhEQCr",
+          "question_mXPVqT",
+          "question_Mbh6aU",
+          "category_hUTDww",
+          "question_nnLDdz",
+          "question_KdjngA",
+          "question_9pfVmD"
+        ],
+        "name": "t:sections.faq.name",
+        "settings": {
+          "color_scheme": "scheme-2",
+          "layout": "split",
+          "accordion_style": "border",
+          "question_style": "text",
+          "subheading": "We're here to help",
+          "title": "Frequently asked questions",
+          "title_tag": "h4",
+          "content": "<p>Find out more about your Softest Touch.</p>",
+          "button_text": "",
+          "button_url": "",
+          "button_style": "solid"
+        }
+      }
+    },
+    "order": [
+      "main",
+      "related-products",
+      "specifications_Yx4M4E",
+      "timeline_xzgwRX",
+      "dynamic_grid_T3P9b7",
+      "multi_column_rQEjUR",
+      "text_with_icons_WVdHJP",
+      "specifications_eNcJTp",
+      "testimonials_yatPCz",
+      "multi_column_X6LX8q",
+      "specifications_A8d3eb",
+      "multi_column_3RUrGQ",
+      "specifications_YyBUQE",
+      "text_with_icons_NGPqJG",
+      "before_after_DzEPHP",
+      "multi_column_7FCmxb",
+      "multi_column_fKj4Wp",
+      "featured_collections_jGjyMx",
+      "faq_yQDJDw"
+    ]
+  }
+  
